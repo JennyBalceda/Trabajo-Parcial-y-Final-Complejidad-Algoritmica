@@ -1,3312 +1,3313 @@
-osm_id,osm_name_street,osm_nodes
-4827820,Plaza 2 de Mayo,11
-4827822,Plaza Ramon Castilla,1
-4827827,Alfonso Ugarte,15
-4827828,Alfonso Ugarte,12
-4827829,Alfonso Ugarte,4
-4827832,Alfonso Ugarte,1
-4827838,Alfonso Ugarte,1
-4827843,Plaza Francisco Bolognesi,15
-4827844,Alfonso Ugarte,2
-4827845,Puente Del Ejercito,1
-4827846,Alfonso Ugarte,1
-4827847,Puente Del Ejercito,1
-4827849,Vicente Morales Duarez,31
-4827850,Alfonso Ugarte,1
-4827860,Circunvalacion,3
-4827863,Avenida Caqueta,3
-4827876,Av. Zarumilla,3
-4827878,Hector Garcia Ribeyro,1
-4827883,El Trebol,6
-4827892,Avenida Caqueta,11
-4827894,Avenida Tupac Amaru,54
-4827895,Franciso Pizarro,21
-4827896,Diego Cordova de Salinas,6
-4827908,Maracaibo,11
-4827909,Av. Panamericana Norte,9
-4827926,Via de Evitamiento,6
-4827929,Av. Panamericana Norte,2
-4827937,Av. José Granda,23
-4827949,Via de Evitamiento,6
-4827951,Via de Evitamiento,1
-4828013,Avenida Argentina,13
-4828021,Emancipacion,5
-4828025,Oscar Benavides,21
-4828026,Oscar Benavides,3
-4828352,Avenida Enrique Fermi,6
-4828405,Av. Franciso Bolognesi,9
-4828407,Av. Angélica Gamarra,22
-4828408,Av. Industrial,17
-4828411,Av. Industrial,7
-4828501,Calle Gerardo Unger,19
-4828731,Naranjal,4
-4828738,Naranjal,3
-4828743,Av. Naranjal,10
-4828763,Av. Angélica Gamarra,22
-4828802,Av. Bocanegra,20
-4831287,Av. Santiago Antunez de Mayolo,24
-4831299,Av. Las Palmeras,39
-4831340,Av. Los Dominicos,22
-4831347,Av. Saenz Peña,4
-4831356,Alejandro Bertello Bollati,21
-4831386,Av. José Granda,13
-4831397,Avenida Peru,16
-4831400,Av. Perú,19
-4832777,Via de Evitamiento,1
-4832854,Av. 9 de Octubre,10
-4832866,Abancay,1
-4832867,Abancay,15
-4832868,Abancay,1
-4832881,Metropolitana,14
-4832882,Metropolitana,10
-4832890,Av. Universitaria,56
-4832968,Av. Santiago Antunez de Mayolo,20
-4832972,Av. Tomas Valle,26
-4832976,Jose Granda,8
-4832980,Av. Canta Callao,33
-4832984,Av. Universitaria,114
-4832991,Avenida Universitaria,28
-11979291,Aurelio Miro Quesada,14
-11979547,Orrantia,5
-11979621,Santa Cruz,10
-11979631,Republica de Panama,3
-11979694,Av. Aramburú,4
-11980143,Placencia,5
-11980154,La Niña,1
-11980165,Cavero,3
-11980238,Santa Maria,1
-11980258,Raymundo Morales de la Torre,6
-11980556,Lizardo Alzamora Este,10
-11980676,José Choquehuanca,20
-11980702,Antero Aspillaga,4
-11980717,Enrique Paillardelle,4
-11980743,La Habana,8
-11981788,José Larco,6
-11981820,Tunel Santa Rosa,1
-11981861,9 de Diciembre,5
-11981891,9 de Diciembre,5
-11985087,Av. Zarumilla,10
-11985865,Paseo de la República,18
-11985886,Paseo de la República,22
-11986252,Arequipa,27
-11986321,Arequipa,33
-11986518,Ovalo de Miraflores,7
-11986778,Diagonal,6
-11987056,Malecón de la Marina,13
-11987159,Alfredo Benavides,8
-11988366,Pezet,11
-11988370,Cervantes,9
-11988505,Pancho Fierro,1
-11988547,Antero Aspillaga,5
-11988566,Florida,2
-11988580,Tacna,8
-11988611,Chacarilla,6
-11989209,Santa Cruz,7
-11989273,Ovalo Guiterrez,7
-11989414,José Pardo,10
-11989455,Plaza Centro América,9
-12561291,Av Ricardo Palma,5
-12561298,Av Ricardo Palma,1
-12561310,Av Ricardo Palma,3
-12561317,Av Ricardo Palma,2
-12561318,Av Ricardo Palma,4
-12561540,Manco Capac,8
-12561875,Dalias,4
-14073402,Vasco Nuñez de Balboa,5
-14073892,Ca. Porta,11
-14073918,Av. 28 de Julio,4
-14073926,Ocharan,6
-14073934,Ca. San Martin,10
-14073942,Cristobal Colon,9
-14074051,Los Pinos,4
-14074056,Felix Olcay,5
-14074399,José Gonzales,12
-14074486,Juan Fanning,10
-14074512,Comandante Aristides Aljovin,6
-14074529,Diego Ferre,3
-14074592,Buenos Aires,2
-14074758,Av Ricardo Palma,6
-14074796,Ernesto DIez Canseco,3
-14074831,Ernesto DIez Canseco,3
-14076594,Guardia Chalaca,1
-14076698,Plaza Garibaldi,8
-14076940,Cuzco,9
-14076942,Monteagudo,6
-14076943,Nicholas de Pierola,10
-14077002,Montezuma,10
-14077076,Zepita,12
-14077168,Castilla,2
-14077276,Ayacucho,12
-14077338,Miroquesada,15
-14077377,Manuel Raigada,11
-14096352,Conquistadores,20
-14096487,Los Libertadores,8
-14103088,Llano Zapata,5
-14103104,Mariscal Sucre,7
-14103110,Vanderghen,5
-14175423,Av. Oscar Raul Benavides,14
-14341802,Rio Branco,9
-14341810,Sao Paulo,11
-14341811,Santa Fe,11
-14342251,Prol.Arenales,4
-14342260,De Los Incas,8
-14342367,Luis Felipe Villaran,6
-14342431,Chiclayo,11
-14342450,José Pardo,11
-14342452,Av. Comandante Espinar,13
-14342470,Alfredo Leon,2
-14342476,Gonzales Prada,3
-14343851,Mallecon de la Reserva,5
-14343873,Alcanfores,15
-14386583,Calle San Ignacio de Loyola,4
-14386631,Acacias,1
-14386675,Acacias,4
-14386726,San Egnacio de Loyola,3
-14386816,Meliton Porras,6
-14386828,Avenida Armendariz,9
-14387120,Circuito de Playas,6
-16628936,Teodoro Cárdenas,9
-16629110,Domigo Cueto,3
-16629194,Jr. Belizario Flores,1
-16629237,Manuel Candamo,12
-17482584,Jose Carlos Mariategui,12
-17503330,Jose Carlos Mariategui,18
-17503331,Jose Carlos Mariategui,6
-17503365,Burgos,2
-17576094,Andres Avelino Caceres,32
-17580114,Calle 8,8
-17622428,Javier Prado Este,9
-17624222,Av. Cajamarquilla,22
-19070118,Quebrada de Armendariz,4
-19070256,Italia,4
-19070275,Tripoli,4
-19070302,Plaza Bolognesi,12
-19070308,Jr Bolognesi,5
-19070316,Francia,7
-19070397,Miguel Grau,8
-19070430,Victor Vajardo,2
-19070444,Federico Recavarren,9
-19070449,Madrid,2
-19070497,Madrid,3
-19070525,Martin Napanga,3
-19071125,Jose Galvez,15
-19071179,De la aviacion,11
-19071223,Ramon Zavala,4
-19071516,José Pardo,3
-19072144,Jr. Salaverry,9
-19072150,Jirón Saenz Peña,6
-19072193,Ovalo Independencia,7
-23804596,C. Grimaldo de Solar,11
-23804800,Paseo Parodi,2
-23804809,Jr. Ocoña,5
-23804813,Coronel Inclan,10
-23804816,Independencia,10
-23843769,Ramon Rebeyro,14
-23843770,J. Felix Olcay,3
-23843771,Vargas Machuca,8
-23843773,Atahualpa,7
-23979521,2 de Mayo,14
-24252020,Tarapaca,5
-24252035,Herrera,2
-24252044,Bellido,3
-24252048,Los Angeles,4
-24252049,Garcia Calderon,4
-24252056,General Borgoño,4
-24252064,Teruel,4
-24252072,Andalucia,5
-24252074,ASUNCION,1
-24252077,Santander,4
-24252082,Santa Maria,3
-24252085,Santa Maria,1
-24252086,Herrera,2
-24252088,Daniel Alcides Carrion,2
-24252092,Enrique Meiggs,2
-24252095,Angamos Este,3
-24252105,Arica,14
-24252106,Carrion,1
-24252111,Larco Herrera,1
-24252115,E. de Harbich,2
-24252120,Lino Alarco,2
-24252166,Francisco Pardo y Aliaga,5
-24252169,General Iglesias,8
-24252172,Almirante Lord Cochrane,6
-24252176,Francisco Pardo y Aliaga,7
-24252183,De la Torre Gonzales,4
-24252187,ALBERTO ARCA PARRO,3
-24252211,San Alejandro,1
-24252252,Esquilache,3
-24252255,Gervasio Santillana,4
-24252258,Chumblongo,3
-24252259,Tello,3
-24252261,Jose Payan,1
-24252268,Coronel Inclan,1
-24252274,Domingo Orue,4
-24252276,Domingo Orue,1
-24252279,Domingo Orue,1
-24252291,General Suarez,16
-24252299,Domingo Orue,7
-24252307,Av. Aramburú,10
-24252309,Av. Aramburú,1
-24252315,Av. Aramburú,6
-24252316,Av. Aramburú,1
-24252353,Recavarren,8
-24252372,Ca. Schell,8
-24252389,Paseo de la Republica,1
-24252390,Av Ricardo Palma,1
-24252391,Av Ricardo Palma,1
-24252394,Av Ricardo Palma,1
-24252395,Av Ricardo Palma,4
-24252422,Salaverry,15
-24252441,Junin,14
-24252442,Lizardo Montero,11
-24252452,Santa Rosa,13
-24252454,Dante,14
-24252457,Junin,1
-24252467,Velarde,13
-24252470,Portocarrero,4
-24252472,Morococha,2
-24252478,Recavarren,6
-24252513,San Lorenzo,1
-24252517,Carmen,13
-24252520,San Augustin,11
-24252524,Gonzales Prada,11
-24252525,Leoncio Prado,5
-24252526,Leoncio Prado,5
-24252529,San Diego,7
-24252544,Leoncio Prado,4
-24252546,Inca,3
-24252562,Inca,10
-24252565,San Miguel,14
-24252583,Gonzales Prada,1
-24252584,Gonzales Prada,1
-24252586,Paseo de la República,21
-24252591,Caceres,6
-24252608,Angamos Este,1
-24252610,Angamos Este,12
-24252615,Angamos Este,1
-24252674,Vidal,3
-24252758,Cipriano Aguero,1
-24252759,Piura,1
-24252761,Piura,9
-24252765,General Borgoño,1
-24252777,Jr. Huallaga,16
-24252780,Jr. Ica,3
-24252786,Antonio Miró Quesada,7
-24252788,Jr. Azagaro,14
-24252800,Carabaya,1
-24252801,Jr. Camaná,10
-24252802,Jr. Cailloma,8
-24252803,Jr. Rufino Torrico,10
-24252809,Teniente Enrique Palacios,5
-24252810,Torre Tagle,1
-24252811,Piura,7
-24252812,Rosario,4
-24252814,Rosario,3
-24252815,Chacltana,3
-24252816,Torre Tagle,6
-24252817,José Pardo,11
-24252819,Berlin,5
-24252821,Bellavista,5
-24252822,Libertad,2
-24252823,Camino,2
-24252824,Henry Revett,3
-24252825,Libertad,2
-24252826,Roma,3
-24252827,Roma,3
-24252829,Comandante Juan G Moore,2
-24252832,Cmdte. Juan G Moore,2
-24252833,Manual A. Segura,2
-24252834,Calero,1
-24252835,Tupac Amaru,3
-24252838,Almirante Carbajal,3
-24252839,Gonzales Vigil,1
-24252846,José Pardo,3
-24252847,Figuaredo,3
-24252848,Figuaredo,1
-24266516,Mendiburu,12
-24266526,General Córdova,13
-24266528,Bernardo Alcedo,5
-24266531,Torre Ugarte,6
-24266535,Manuel Tovar,6
-24266542,Joaquin Capelo,7
-24266556,Toribio Pacheco,6
-24266567,8 de Octubre,4
-24266583,José Toríbio Polo,6
-24266584,Contralmirante Villar,4
-24266587,Ejercito,6
-24266589,Federico Villareal,1
-24266590,Federico Villareal,1
-24266592,Federico Villareal,3
-24266594,Espejo,4
-24266595,Mariano Melgar,5
-24266596,Belén,4
-24266597,José Domingo Choquehuanca,5
-24266598,Jorge Polar,4
-24266599,Av. Perez Araníbar (ex Av. Del Ejército),32
-24266605,Triana,2
-24266606,Almirante Lord Nelson,2
-24266621,Almirante Lord Nelson,2
-24266625,Parque Mora,1
-24266632,General José Quiñones,3
-24266644,Angamos Oeste,8
-24266674,Blas Cerdeña,7
-24266686,Contralmirante Villar,1
-24266688,Contralmirante Villar,1
-24266695,Contralmirante Villar,2
-24266700,7 de Junio,2
-24266701,Berlin,1
-24266702,José Pardo,2
-24266709,Retiro,2
-24266734,Miguel Dasso,2
-24266736,Ulloa,3
-24266743,Alvarez Calderon,11
-24266749,Yerovi,3
-24266751,Francisco Eguiguren,4
-24266754,David Samanez,2
-24266758,General Clemente,2
-24266759,Manuel Gonzales Olaechea,1
-24266771,Graña,3
-24266773,Jacinto Lara,4
-24266775,Alferez Alfredo Salazar,2
-24266776,Santa Teresita,3
-24266778,Santa Margarita,3
-24266786,Belén,5
-24266790,Perez Aranibar,44
-24266810,Av. Del Ejercito,4
-24266815,Romanet,4
-24266855,Avenida Coronel Portillo,9
-24266861,Pezet,13
-24266868,Octavio Espinoza,1
-24266871,Octavio Espinoza,3
-24266874,Octavio Espinoza,3
-24266876,OCTAVIO ESPINOZA,2
-24266884,Francisco Valle Riesta,5
-24266888,General La La Fuente,3
-24266891,Manuel Marcos Salazar,4
-24266898,Juan Dellepiani,10
-24266916,Baltazar La Torre,4
-24266954,Punta Negra,10
-24266957,Godofredo Garcia,1
-24266962,Cabo Blanco,5
-24266974,Calle A,3
-24266985,Aurelio Miro Quesada,6
-24266986,Alberto del Campo,6
-24267007,Alberto del Campo,6
-24267010,Los Manzanos,8
-24267013,Francisco Valle Riesta,6
-24267015,Baltazar La Torre,4
-24267018,Augusto Bolognesi,6
-24267031,Avenida Salaverry,39
-24267032,Avenida Salaverry,50
-24267057,Las Moreras,4
-24267058,Jose Granda,3
-24267060,Juan Norberto Elespuru,5
-24267068,Los Castaños,1
-24267077,Los Eucaliptos,6
-24267080,Los Eucaliptos,2
-24267086,Avenidad Jorge Basadre,13
-24267091,Camino Real,8
-24267094,Nicolas de Rivera,7
-24267116,Los Laureles,5
-24267118,Los Nogales,7
-24267123,Los Cedros,8
-24267124,Los Robles,4
-24267127,El Rosario,5
-24267129,El Rosario,5
-24267133,Los Alamos,3
-24267137,Salamanca,2
-24267146,Francisco de Zela,2
-24267148,Santo Toribio,4
-24267170,Santo Toribio,5
-24281794,Merino,2
-24281795,Garcia Y Garcia,4
-24281798,El Bosque,6
-24281799,Daniel Hernandez,4
-24281800,Tradiciones,2
-24281812,Manchay Puito,3
-24281818,Luis Felipe Villaran,5
-24281825,Luis Felipe Villaran,3
-24281830,Rio de la Plata,6
-24281836,Republica de Colombia,4
-24281843,Republica de Colombia,3
-24281844,Federico Villareal,8
-24281850,Las Camelias,8
-24281857,Sebastian Telleria,5
-24281858,Chinchon,9
-24281860,Antequera,3
-24281862,Antequera,2
-24281864,Miguel Seminario,4
-24281865,Iquitos,21
-24281867,Los Lirios,2
-24281868,Amador Merino Reyna,5
-24281869,De Las Casas,2
-24281871,Virrey Toledo,4
-24281887,La Perricholi,1
-24281890,San Martin de Porres,10
-24281895,Canaval y Moreyra,10
-24281898,Ricardo Rivera Navarrete,14
-24281900,Las Begonias,6
-24281903,Chinchon,2
-24281904,El Parque,2
-24281906,Antequera,2
-24294969,Canaval y Moreyra,11
-24294980,Francisco Masias,8
-24294983,Avenida Javier Prado Oeste,21
-24294991,Javier Prado Este,2
-24295062,AV. 2 de Mayo,18
-24295065,Los Castaños,4
-24295070,Roma,5
-24295071,Barcelona,6
-24295072,Los Laureles,3
-24295073,Thomas Edison,4
-24295075,Burgos,7
-24295077,Guillermo Marconi,8
-24295082,Luis Pasteur,3
-24295084,Los Robles,1
-24295085,Los Cedros,4
-24295088,Manco Segundo,6
-24295089,Juan Bielovicic,2
-24295091,Almirante Manuel Villavicencio,9
-24295096,Los Alamos,3
-24295097,Tupac Amaru,2
-24295099,Capac Yupanqui,1
-24295104,Cadiz,5
-24295136,Almirante Martin Guisse,16
-24295137,Los Pinos,3
-24295139,Jr. Mariscal William Miller,8
-24295141,Los Olivos,1
-24295142,Avenida Alvarez de Arenales,31
-24295146,Jose de la Torre Ugarte,7
-24295163,Los Jazmines,5
-24295167,Los Geranios,4
-24295168,Las Begonias,3
-24295174,Los Mirtos,5
-24295187,Domingo Casanova,5
-24295188,Percy Gibson Moller,4
-24295193,Ignacio Merino,1
-24295204,Militar,10
-24295214,Francisco Lazo,5
-24295240,José Gálvez,21
-24295244,Avenida Cuba,16
-24295246,Tomás Guido,14
-24295250,Mariscal Las Heras,6
-24295252,Risso,8
-24295254,Bernardo Alcedo,11
-24295264,Av. Gral. César Canevaro,18
-24295265,Jose Pardo de Zela,12
-24305051,Las Orquideas,3
-24305094,Jr. Emilio Althaus,11
-24305223,General Córdoba,2
-24305273,Joaquin Bernal,6
-24305282,Jr. Gral. José Maria Cordova,3
-24305286,Francisco de Zela,9
-24305294,Jr. Garcillaso de la Vega,3
-24305304,Jr. Jozé Pezet y Monel,5
-24305315,Mama Ocllo,3
-24305317,Sinchi Roca,5
-24305329,Jr. Manco Segundo,1
-24305339,Pachacutec,4
-24305341,Sinchi Roca,2
-24305342,Jr. Mama Ocllo,1
-24305345,Jr. Brigadier Mateo Pumacahua,2
-24305349,Pasaje Chasqui,2
-24305355,Pasaje Chasqui,1
-24305362,Pasaje Quilla,1
-24305365,Jr. Cápac Yupanqui,8
-24305370,Garcillaso de la Vega,5
-24305379,Mariscal Miller,9
-24305391,Avenida Edgardo Rebagliati,8
-24305399,Domigo Cueto,5
-24305428,Mexico,31
-24305471,San Roberto,3
-24306225,Jimenez,5
-24306227,Punta Negra,4
-24306245,Calle 4,1
-24306246,Calle 3,1
-24306247,Calle 2,1
-24306256,Soria,1
-24306267,Alberto Yabar,1
-24306278,Felix Dibos,6
-24306289,Juan Antonio Pezet,4
-24306295,Malecon Bernales,2
-24306300,Bernardo Monteagudo,6
-24306309,Jose de Acosta,1
-24306310,Leon de la Fuente,1
-24306314,Jose de Acosta,1
-24306322,Gregorio Escobedo,7
-24306325,José G. Cossio,5
-24306326,Juan de Aliaga,4
-24306329,Carlos Baca Flor,1
-24306331,Justo Amadeo Vigil,6
-24306337,Trujillo,12
-24306342,Miguel Soto Valle,7
-24306346,Baca Flor,1
-24306347,Monadante Augusto Jimenez,2
-24306352,Nicanor Roca de Vergallo,9
-24306361,Flora Tristan,8
-24306365,Juan Nolberto Elespuru,4
-24306381,Juan Manuel Polar,2
-24306385,Juan Manuel Polar,2
-24306424,Guardia Chalaca,1
-24306464,Francisco Graña,6
-24306466,Tomas Ramsey,11
-24306492,Maria Parado de Bellido,2
-24306499,Bonnemaison,5
-24306502,Gonzales Prada,7
-24306516,Antonio Raimondi,3
-24306518,Malecon Miguel Grau,3
-24306521,Victor Larco Herrera,13
-24306524,Unanue,2
-24306526,Lidio Mongilardi,1
-24306538,Honorio Delgado,4
-24306545,José María Eguren,2
-24306553,Mariategui,2
-24306554,Vallejo,2
-24306555,Salazar Bondi,1
-24306559,Domingo Ponte,8
-24306561,Jirón Arica,6
-24306573,Alonso Riquelme,10
-24306580,Rodolfo Rutte,4
-24306583,Jirón Rey Basadre,6
-24306585,Jirón Daniel Carrión,5
-24306590,Daniel Hernandez,8
-24306591,Domingo Ponte,3
-24306593,Rodolfo Rutte,5
-24306606,Daniel Alcides Carrion,5
-24306635,Víctor Larco Herrera,5
-24306643,Gonzales Prada,7
-24306644,Francisco Graña,3
-24306648,Francisco Graña,2
-24306662,Punta del Este,2
-24306707,De la Policia,8
-24306717,Caracas,4
-24306737,Haiti,1
-24306744,Santo Domingo,5
-24306749,Maracaibo,1
-24306755,Estados Unidos,1
-24306756,Caribe,1
-24306765,Diego de Almagro,13
-24306768,Caracas,3
-24306775,Estados Unidos,9
-24306779,Araoz y Castilla,1
-24306780,Los Patricios,2
-24306789,Nicaragua,2
-24306791,Costa Rica,2
-24306795,Rio de Janeiro,8
-24306827,Geronimo de Aliaga,2
-24306842,Avenida Arnaldo Márquez,29
-24306846,Pasaje Caracas,1
-24306847,Quito,1
-24306854,Caracas,2
-24306855,Quito,2
-24306856,Cochabamba,1
-24306861,Santiago,2
-24306907,Avenida General Garzon,23
-24306946,San Felipe,17
-24306957,Luis N. Saenz,5
-24306960,Avenida Horacio Urteaga,22
-24306971,Daniel Olaechea,3
-24306975,Huascar,10
-24306982,Giuseppe Garibaldi,3
-24306989,Inca Ripac,2
-24306995,Saenz,1
-24306996,Huiracocha,16
-24307018,Huamachuco,10
-24307023,Octavio Bernal,3
-24307035,Ca. Olavegoya,4
-24307036,Ca. Olavegoya,5
-24307044,Av. Cayetano Herida,2
-24307048,Avenida Ricardo Tizon y Bueno,10
-24307050,Huiracocha,1
-24307071,Avenida Husares de Junin,17
-24307103,Avenida Francisco Javier Mariátegui,20
-24307144,Lloque Yupanqui,11
-24307146,Mariscal Toribio Luzuriaga,8
-24307155,Huascar,6
-24307158,Diez Canseco,2
-24307162,República Dominicana,5
-24307193,Avenida Cuba,4
-24307200,Avenida Cuba,4
-24307203,Pachacutec,8
-24307207,Huayna Capac,3
-24307217,Cuba,10
-24307224,Sinchi Roca,5
-24307225,Cahuide,3
-24307227,Domingo Millan,3
-24307229,Mateo Pumacahua,4
-24307231,Mayta Capac,1
-24307235,General Santa Cruz,6
-24307290,Mayta Capac,5
-24307294,Mateo Pumacahua,4
-24307307,Pachacutec,2
-24307318,Jose Maria Plaza,4
-24307324,Huayna Capac,2
-24307328,General Santa Cruz,3
-24307362,General Santa Cruz,3
-24307372,General Canterac,5
-24307396,Talara,9
-24307433,Los Mogaburos,4
-24307458,Rivero Ustariz,2
-24307561,Avenida Cuba,17
-24307567,Capac Yupanqui,4
-24307569,Francisco de Zela,1
-24307574,Almirante Guisse,7
-24307580,General José Maria Cordova,5
-24307598,Camilo Carrillo,3
-24307610,Avenida Republica de Chile,6
-24307623,Maximo Abril,2
-24307626,Maximo Abril,2
-24307635,Larrabure y Unanue,9
-24307646,Ramón Dagnino,4
-24307660,Natalio Sanchez,4
-24307671,Coronel Pascual Saco Oliveros,5
-24307868,Manuel Nicolas Corpancho,4
-24315545,Malecon de la Reserva,11
-24315546,Malecon de la Reserva,1
-24315549,Malecon de los Franceses,4
-24315608,MALECON 28 DE JULIO,1
-24315662,Manuel Bonilla,2
-24315663,Esperanza,3
-24315666,Ernesto DIez Canseco,6
-24315669,Cantuarias,4
-24315670,Psj. Tello,2
-24315671,Paseo de la Republica,1
-24315675,Narciso de la Colina,4
-24315678,Leoncio Prado,2
-24315744,Bolivar,5
-24315745,Psj Sucre,1
-24315747,Psj. San Martin,1
-24315749,Santa Isabel,4
-24315751,San Fernando,8
-24315753,Reducto,8
-24315764,Reducto,1
-24315768,Leonidas Avendanio,1
-24315769,Acacias,2
-24315770,Samuel Marquez,2
-24315771,Retes,2
-24315773,Tejada,1
-24315783,28 de Julio,1
-24315794,Av. 28 de Julio,6
-24315805,Benavides,1
-24315806,Benavides,1
-24315810,OVALO LOS CABITOS,12
-24315812,Benavides,1
-24315813,Benavides,1
-24315814,Benavides,1
-24315819,Avenida Alfredo Benavides,24
-24315832,Alfredo Benavides,8
-24315836,Avenida Alfredo Benavides,26
-24315868,Bartolome Trujillo,5
-24315907,Ramon Rebeyro,2
-24315940,Casimiro Ulloa,5
-24315952,Roca y Bolona,13
-24315984,Ortiz de Savallo,2
-24315985,Fernandez,2
-24315986,Jara,1
-24315987,Alcocer,1
-24315990,Enrique del Campo,2
-24315991,Martin Dulante,1
-24315992,R Trujillo,3
-24315993,Bartolome Trujillo,1
-24315994,Bartolome Trujillo,1
-24315995,Arias Araguez,8
-24315996,Franciso de Paula Ugarrize,11
-24315998,San Antonio,1
-24315999,Av Ricardo Palma,9
-24316000,Av Ricardo Palma,8
-24316010,Francisco de Castillo,7
-24316013,Miota,5
-24316032,Enrique del Horme,2
-24316034,Dulanto,2
-24316035,Sasone,3
-24316062,Quebrada de Armendariz,4
-24316072,Reducto,5
-24316073,Reducto,1
-24316078,Reducto,2
-24331950,General Ernesto Montane,7
-24331955,Paul Rivet,5
-24331959,Genaro Castro Iglesias,13
-24331960,Pedro Venturo,9
-24331964,Ramon Castilla,2
-24331966,Ramon Castilla,2
-24331968,Lola Pardo,2
-24331971,Lola Pardo,4
-24331975,Manuel Almenara,10
-24331977,Paul Rivet,1
-24331979,Paul Rivet,1
-24331985,Costa Rica,1
-24331988,Guatemala,1
-24331996,25 de mayo,4
-24332001,Villegas,1
-24332003,Angulo,1
-24332007,Manuel Villaran,1
-24332010,Manuel Villaran,1
-24332019,Mayor Arce de la Oliva,5
-24332023,Acuna,1
-24332025,Cmdt. J. Roman,1
-24332029,Juan Jose Calle,7
-24332061,Sergio Bernales,8
-24332076,Sergio Bernales,5
-24332100,Victor Oleachea,4
-24332104,VICTOR MAURTUA,1
-24332120,Alejandro Deustua,8
-24332130,Brent,2
-24332162,Pacayar,2
-24332171,San Lorenzo,7
-24332203,San Felipe,15
-24332204,Fernando Alzamora,9
-24332205,Rizo Patron,2
-24332210,Julian Sandoval,2
-24332215,San Carlos,8
-24332223,Santa Ines,4
-24332224,Gomez,4
-24332226,Durand,3
-24332263,San Carlos,2
-24332264,El Carmen,10
-24332265,SANTA LUCIA,1
-24332267,San Fernando,8
-24332309,San Lorenzo,4
-24332322,San Lorenzo,3
-24332409,Del Parque Sur,25
-24332414,Av. Aramburú,13
-24332449,Halcones,5
-24332454,los paujiles,4
-24332455,las gaviotas,3
-24332457,LAs Torcazas,1
-24332465,c. Las Perdices,8
-24332466,Negocios,2
-24332531,Paseo de la República,17
-24332559,las palomas,10
-24332562,Las Garzas,5
-24332584,Los Canarios,1
-24332601,Los Fiaisanes,4
-24332612,Prolongacion los Cuculies,3
-24332614,Los Quetzales,2
-24332616,Prol. Kiwi,1
-24332618,Los Ruiseñores,2
-24332657,Los Pelicanos,1
-24332660,Los Gavilanes,5
-24332662,Los Gorriones,1
-24332678,Del Parque,4
-24332682,Del Parque,4
-24332689,Halcones,2
-24332695,Los Tucanes,3
-24332707,Los Colibries,1
-24332708,Flamencos,2
-24332726,c. Las Golondrinas,6
-24551967,15 - Panamericana Sur,1
-24551968,1S - Panamericana Sur,4
-24551979,Antigua Panamericana Sur,4
-25111783,Av. Santa Elvira,9
-25111799,Av. Santa Elvira,14
-25111821,Av. Central,17
-25112316,Independencia,1
-25112346,Av. Ferrocarril,27
-25112361,Av. José Carlos Mariátegui,17
-25112375,Rio Rimac,11
-25112385,La Atarjea,3
-25112389,La Atarjea,6
-25112392,Los Puquiales,6
-25112398,Agua Dulce,5
-25112409,Rio Blanco,8
-25113196,Av. Marañon,20
-25113198,Av. Marañon,27
-25113263,Cipianon Ruiz,2
-25113269,Emilio de Los Rios,3
-25113273,Blondet,7
-25113283,Manuel Trelles,1
-25113291,Antonio Moreno,4
-25113292,Cipriano Ruiz,3
-25113313,Mariano Benavides,4
-25113322,Calle Miguel Ortiz,6
-25113326,Aristides,4
-25113329,Simon Grados,1
-25113342,Pedro Helmes,6
-25113347,Rio PaucarTambo,7
-25113410,Rio Huaura,2
-25113411,Rio Lurin,3
-25113417,Tarica,2
-25113427,Rio Huaura,1
-25113430,Rio Chillon,2
-25113431,Pedro Helmes,4
-25113432,Rio Chicama,2
-25113433,Rio Majes,3
-25113446,Calle 1,1
-25113517,Rio Urubanba,9
-25113525,Rio Chicama,5
-25113527,Rio Blanco,5
-25113529,Rio Ucayali,1
-25113530,Rio Chira,1
-25113542,Rio Huaura,2
-25113546,Rio Paucar Tambo,2
-25113555,Tarica,3
-25113558,Manuel de La Jara,12
-25113578,Ramon Zavala,2
-25113579,Ricardo Odonovan,2
-25113581,Justo Arias,4
-25113593,Piras,6
-25113596,Marca,3
-25113602,El Zinc,4
-25113618,Av. Los Alisos,21
-25113654,Gerardo Unger,5
-25113705,Avenida A,18
-25113708,Avenida A,13
-25113715,Los Olivos,41
-25113731,Av. Carlos Alberto Izaguirre,25
-25113781,22 de Agosto,14
-25113794,22 De Agosto,17
-25113808,Av. Carabayllo,25
-25113817,Maestro Peruano,9
-25113820,Maestro Peruano,13
-25113831,Rosa de America,9
-25113859,Alfedo Mendiola,2
-25113861,Los Hornos,3
-25113895,1C - Ruta 1C,3
-25113907,JULIO CESAR TELLO,2
-25113909,JULIO CESAR TELLO,8
-25113980,Alejandro Bertello Bollati,9
-25113984,Elmer Faucett,1
-25113992,Alejandro Bertello Bollati,13
-25113998,Av. Bocanegra,16
-25114000,Av. Pacasmayo,38
-25114001,Av. Pacasmayo,37
-25137819,Av. Mexico,19
-25137853,Av. Mexico,19
-25137971,25 de Enero,4
-25137976,25 de Enero,5
-25137993,Alfredo Mendiola,14
-25138011,2 de Octubre,1
-25138023,Gerardo Unger,15
-25138061,San Carlos,4
-25138076,Santa Angelica,4
-25138104,Santa Marina,4
-25138105,Santa Leonor,6
-25138108,Santa Marina,4
-25138111,Santa Monica,5
-25138142,Rosa de America,5
-25138203,San Andes,3
-25138243,LIBERTAD,29
-25138592,Los Escritores,3
-25138594,Industrias Unidas,8
-25138738,LAS GARZAS,4
-25138757,LOS INGENIEROS,8
-25138874,LOS ASTRONOMOS,4
-25138933,LOS SANITARIOS,6
-25139011,LOS AGRONOMOS,6
-25139076,Las Garzas,1
-25139321,Eulogio Fernandini,20
-25139371,Los Portales,9
-25139372,Los Portales,6
-25139374,Av. Guillermo de la Fuente,17
-25139376,Av. Guillermo de la Fuente,21
-25139474,Av. Trapiche,22
-26359375,Olaechea,11
-26359406,Jorge Buckley,3
-26359418,Aurelio Fernandez Concha,7
-26359428,Laranaga,2
-26359443,Gerobolini,3
-26406792,1S - Panamericana Sur,4
-26406972,Prolongacion Huaylas,7
-26407080,Prolongacion Huaylas,15
-26407297,Tomas Marsano,9
-26407306,PACHACUTEC,20
-26407451,Tomas Marsano,22
-26407453,Tomas Marsano,1
-26407458,Tomas Marsano,20
-26411322,Paseo de la Republica,5
-26411329,Jirón de la Unión,6
-26411548,Av. Tomas Valle,4
-26411656,Av. Panamericana Norte,9
-26411759,Av. Panamericana Norte,27
-26411761,Av. Panamericana Norte,1
-26411773,Av. Panamericana Norte,1
-26412848,Panamericana Norte,43
-27455207,Henado de Magallanes,2
-27455416,Ovalo Saloom,12
-27455450,República de Venezuela,17
-27455459,República de Venezuela,20
-27455460,Gamarra,2
-27455493,Plaza Tupac Amaru,9
-27767529,Talara,16
-27767532,Huancavelica,7
-27767540,Tupac Amaru,16
-27767541,Tupac Amaru,4
-27767551,Circunvalacion,17
-27767555,Lima,23
-27767560,Calle 7,2
-27767564,De la Alameda,24
-27767565,De la Alameda,30
-27767566,Santa Rosa,5
-27767567,Santa Rosa,6
-27767571,Callejon Alejandro Granda,20
-27767572,Centenario,5
-27767579,Paseo de la Republica,4
-27767580,Ariosto Matellini,14
-27767581,Ariosto Matellini,17
-27767584,Guardia Peruana,9
-27767592,Guardia Peruana,6
-27767596,Gorriones,5
-27767598,Las Gaviotas,13
-27767600,Andromeda,3
-27877408,Morales Duarez,2
-27877433,Morales Duarez,1
-27877436,Av. Nuevo Aeropuerto,7
-27877437,Av. Nuevo Aeropuerto,7
-27877445,Enrique Meiggs,10
-27877486,Huaylas,4
-27877489,Perseo,3
-27877491,Los Gorriones,3
-27877498,LAS GAVIOTAS,1
-27898312,Av. Argentina,6
-27898313,Av. Argentina,4
-27898318,Jose Carlos Mariategui,4
-27898319,Iquitos,4
-27898320,28 de Julio,4
-27898321,Callo,8
-27898323,Lima,4
-27898324,Los Milagros,6
-27898327,Los Proceres,5
-27898329,Yahurina,2
-27898346,Avenida Argentina,33
-27898380,Guillermo Dansey,1
-27898387,Jose Carlos Mariategui,3
-27898389,Iquitos,4
-27898391,Calle Andahuaylas,3
-27925322,Avenida Nestor Gambetta,15
-27925381,Avenida Nestor Gambetta,25
-27925388,Av. Mora,18
-27925389,Av. Mora,17
-27925398,Av. Argentina,3
-27925399,Av. Argentina,4
-27925400,Paseo Garibaldi,6
-27925409,Buenos Aires,7
-27925411,Buenos Aires,22
-27925427,Alberto Secada,6
-27925428,Loreto,21
-27925431,Apurimac,10
-27925433,Paz Soldan,9
-27925444,Medina,4
-27925446,Saenz Peña,4
-27925448,Moore,4
-27925450,Larco,4
-27925453,Garcia y Garcia,4
-27925457,Palacios,3
-27925460,Ferre,3
-27925462,Elias Aguirre,3
-27925468,Valle,3
-27925469,Jorge Chavez,8
-27925470,Manco Capac,10
-27925478,Manco Capac,6
-27925479,Roca,5
-27925480,Ucayali,7
-27925481,Chanchamayo,6
-27925485,Titicaca,5
-27925486,Gamarrita,1
-27925492,Estados Unidos,5
-27925493,Estados Unidos,4
-27925495,Fanning,2
-27925501,Ancash,13
-27925502,Pedro Ruiz,9
-27925503,Washington,9
-27925509,Marco Polo,7
-27945258,Republica de Panama,11
-27945261,Republica de Panama,11
-27945264,Supe,12
-27945267,Federico Fernandini,3
-27945269,Chachapoyas,6
-27945277,Garcia Calderon,9
-27945280,Parque Castilla,4
-27945286,Atahualpa,6
-27945301,Daniel Nieto,4
-27945311,Guadalupe,14
-27945312,Segunda,10
-27945317,Alfredo Palacios,10
-27945318,Alfredo Palacios,10
-27945319,Luis Perez Salmon,16
-28061399,Plaza Guardia Chalaca,8
-28061447,Plaza Jorge Chavez,8
-28061458,Avenida 28 de Julio,6
-28061538,PASEO PRESIDENTE BILLINGHURST,10
-28061543,Malecon Miguel,4
-28166599,Arica,11
-28166626,Comandante Ladislao Espinar,11
-28166683,Colina,7
-28166709,Galvez,6
-28185144,Jose Galvez,21
-28185148,Colina,2
-28185152,Colina,4
-28185157,Avenida Juan Pablo II,5
-28185170,Francisco Forcelledo,6
-28185186,Av. La Libertad,43
-28185191,Alfonso Ugarte,16
-28185201,Francisco Bolognesi,17
-28185204,Carlos de los Heros,8
-28185208,Los Topacios,6
-28185211,Perez Salmon,3
-28185248,Avenida 2,9
-28185271,Haya de la Torre,1
-28185277,Victor Raul Haya de la Torre,19
-28185387,Pedro De Osma,6
-28185390,Alejandro Iglesias,16
-28185408,Fernando Teran,14
-28185415,FERNANDO TERAN,4
-28185420,Emilio Sandoval,9
-28185449,El Sol,11
-28185452,EL SOL,4
-28185503,Guardia Civil,5
-28185509,Guardia Civil,7
-28185515,Los Faisanes,12
-28185550,Andromeda,2
-28185554,Los Pumas,11
-28185556,Guardia Peruana,6
-28224174,Avenida Brasil,49
-28290634,Avenida 1,9
-28316933,Avenida Zorritos,16
-28316936,Cornelio Borda,2
-28316968,Coronel Miguel Baquero,4
-28316972,Ascope,8
-28316976,Cornelio Borda,1
-28316983,Huarochiri,5
-28316999,Moquegua,5
-28317001,Moquegua,2
-28317005,Moquegua,2
-28317014,Andromeda,9
-28317019,Los Labradores,4
-28317021,Los Poetas,6
-28317022,Las Capironas,6
-28317038,Los Zungaros,7
-28317043,Manuel Raygada,9
-28317048,Los Manglares,9
-28317060,Los Cipreces,2
-28317065,Los Huarangos,2
-28317084,Los Tumbos,4
-28317099,Los Venados,4
-28317146,"CESAR CANEVARO,RAMON VARGAS MACHUCA",4
-28707078,Av. Circunvalacion,10
-28707122,Via de Evitamiento,3
-28707150,Javier Prado Este,27
-28707195,Mariscal Caceres,3
-28707248,Jr. Lampa,8
-28707251,Jr. Moquegua,5
-28707263,Jr. Carabaya,13
-28707264,Ancash,4
-28746522,Paseo la Castellana,7
-28746524,Paseo la Castellana,7
-28746541,Av. Aviación,46
-28746572,Los Tallanes,10
-28746575,Mariscal Ramon Castilla,12
-28746604,Surco,6
-28746607,Surco,6
-28746625,Marques de Guadalcazar,2
-28746662,SAN JUAN,3
-28746962,Avenida Benavides,2
-28796818,Aviacion,13
-28796823,Avenida San Borja Sur,21
-28796827,Avenida del Parque Norte,11
-28796851,Pablo Carriquirry,11
-28796858,Av. Pablo Carriquirry,14
-28797170,Galvez Barrenechea,5
-28797245,Avenida Guardia Civil,1
-28797249,Avenida Guardia Civil,1
-28797435,Av. Circunvalacion,5
-28797533,Parque Union Panamericana,13
-28797555,Los Diamantes,14
-28797604,Av. Almirante Miguel Grau,25
-28797613,Av. Almirante Miguel Grau,4
-28798001,Nicolás de Piérola,5
-28798076,Paseo de la Republica,6
-28798134,Paseo de la República,44
-28798203,Republica de Panama,54
-28798226,Escuela Militar,4
-28798238,Grau,2
-28798245,Grau,2
-28798247,Pierola,1
-28798267,Republica de Panama,10
-28798270,Republica de Panama,4
-28798284,Balta,2
-28798380,Nicolas Arriola,13
-28798397,Nicolas Arriola,10
-28798554,Ramiro Priale,6
-28811039,Jorge Chavez,16
-28811042,Jorge Chavez,17
-28811052,San Juan,5
-28811075,Doña Delmira,6
-28811080,Fernando Faustor,9
-28815017,Avenida Brasil,46
-28815022,Guzman Blanco,5
-28815024,Guzman Blanco,5
-28815044,Plaza de la Bandera,11
-28815131,Avenida Simon Bolivar,32
-28815142,Avenida Simon Bolivar,34
-28815150,Avenida Mariano Cornejo,21
-28815160,Avenida Mariano Cornejo,15
-28815168,Avenida José de San Martín,8
-28815173,Avenida Mariano Cornejo,13
-28815181,Avenida Mariano Cornejo,9
-28815196,Avenida Tingo Maria,4
-28815869,Av. Sucre,7
-28815877,Gonzales Pavon,5
-28815881,Av. Sucre,7
-28815951,Avenida Sucre,26
-28816099,Avenida Arica,14
-28816148,Av. Naciones Unidas,12
-28816175,Avenida Zorritos,15
-28816187,Av. Naciones Unidas,9
-28866277,Santa Rosa,10
-28866332,El Sol,5
-28866346,Los Diamantes,8
-28866352,Mariscal Oscar Raul Benavides,4
-28866354,Calle 2B,2
-28866356,Pio XII,10
-28866358,Pio XII,11
-28866369,Grito de Huaura,8
-28866373,Punchauca,1
-28866387,Parque de las Leyendas,9
-28866408,Parque de las Leyendas,5
-28866415,Monseñor Jorge Dintilhac,13
-28866424,José de la Riva Agüero,24
-28866487,"CESAR CANEVARO,GUILLERMO BILLINGHURST",4
-28866513,San Juan,10
-28866519,San Juan,13
-28866531,Harold Crown,2
-28866533,Donald Douglas,1
-28866537,Los Algarrobos,2
-28866538,Samanes,2
-28866540,Jacarandá,1
-29874531,Av. Santa Rosa,12
-30102310,Av. Faucett,1
-30103058,Carretera Central,62
-30103089,Carretera Central,34
-30103220,Via de Evitamiento,6
-30103262,Av. Caqueta,3
-30103263,Av. Caqueta,1
-30103301,Av. Caqueta,1
-31274135,Avenida Juan Pablo II,2
-31274142,Avenida Juan Pablo II,4
-31274161,Avenida Juan Pablo II,6
-31274229,Juan Ferrari,1
-31274239,Paseo de la Republica,7
-32482186,Montevideo,2
-32482188,Uruguay,6
-32482198,Marañon,3
-32482206,Ica,1
-32482207,Puno,12
-32482211,Cochrane,11
-32775468,Batallion Tarma,10
-32775522,San Juan,17
-32847082,Honestidad,5
-32847083,La Prosperidad,2
-32874210,Moore,7
-32874211,Miraflores,4
-32944209,Avenida Armendariz,6
-32944668,Juan de la Fuente,13
-32944688,Tomas Marsano,8
-32944702,Tomas Marsano,12
-32968954,Los Bardos,1
-32968974,Los Pintores,2
-32968976,Los Carrizos,2
-32968982,Bartola Sanchez Dávila,2
-32968986,Karmanduka,2
-32968988,MAXIMO ALVARADO,6
-32969123,LIMA,6
-32969274,Pedro De Osma,7
-32969467,Pedro De Osma,7
-33231718,Mariano Odicio,9
-33232017,Ramires Gaston,4
-33232031,Ramires Gaston,4
-33232043,Ramires Gaston,1
-33232095,Ramires Gaston,1
-33232199,Ramires Gaston,2
-33232472,Av Ricardo Palma,1
-33232480,Av Ricardo Palma,1
-33232585,Paseo de la República,4
-33232615,Paseo de la Republica,8
-33232793,15 de Enero,4
-33232882,Jose Gabriel Chariarse,7
-33232949,Paseo de la Republica,1
-33233041,Casimiro Ulloa,6
-33233052,Roca y Bolona,15
-33233443,Tomas Marsano,6
-33233449,Cap. A Gutierrez,2
-33233460,Marco Jara Scheone,3
-33235185,Vera Collahanzo,2
-33235241,Los Capulies,6
-33236626,Los Capulies,1
-33236737,Sido Yenuri Chihuala,3
-33236876,Garcia,3
-33236908,Cmd. Schennone,2
-33236954,Escudero,5
-33237043,Philips Cuba,3
-33237092,Neizer Llacsa Arce,2
-33237144,Castillo,1
-33237179,Cruz Huarcaya,2
-33237346,Javier Heraud,4
-33237418,Fresas,3
-33237456,Caballero,3
-33237511,Rodriguez,2
-33237561,Begazo,1
-33237640,Gomez,3
-33237657,Carlos Garcia Bedoya,1
-33237840,Carlos Garcia Bedoya,3
-33237868,Leguia,2
-33237935,Leguia,1
-33238033,Aparicio Gemoz Sanchez,5
-33238115,Bruno Moll,1
-33238142,Minchan,2
-33287727,General Manuel Vivanco,7
-33471235,Bondy,3
-33471236,Diego Aguero,7
-33471420,Costanera,53
-33471421,Diego Quispe Tito,1
-33528402,Bajada Circuito De Playas,2
-33587110,Alameda San Marcos,6
-33686179,Calle Grau,9
-33750174,Fresas,8
-33750230,Av. Thomas Marsano,8
-33750248,Moras,5
-33750265,Vinas,3
-33750328,Arias Roblrs,2
-33750387,Arias R,1
-33750615,Los Capulies,8
-33750637,Victor Maldonado Begazo,6
-33750694,Banda y Rivero,2
-33750723,Cotrina,2
-33750731,Bendezu,1
-33750819,Gladiolos,5
-33750851,Arias Schreiber,5
-33750866,Melonar,1
-33750983,Jose Sabogal,8
-33751190,Jorge Guillermo Legula,5
-33751213,Barreto,1
-33751287,Jose A. Lavalle,4
-33751295,Salvador Gutierrez,9
-33751531,Av. La Merced,1
-33751740,Av. La Merced,9
-33751836,Piacencia,3
-33751861,Ciro Alegria,7
-33751887,Qinones,1
-33751929,Aljovin,9
-33752017,Rosales,9
-33752086,Geranios,8
-33752093,Freyre,3
-33752113,Azucenas,3
-33752138,Augusto Angulo,3
-33752218,Ignacio La Puente,4
-33752245,Cahuide,2
-33752257,Salguero,13
-33752270,Kenko,1
-33752299,Carlos Baca Flor,7
-33752303,Carlos Baca Flor,1
-33752349,San Tadeo,5
-33752381,Jose Sabogal,7
-33752401,HENRY REVETT,5
-33752442,B de las Casas,7
-33752475,Jara y Ureta,6
-33752498,Guadelajara,2
-33752514,Del Pozo,2
-33752524,Merida,4
-33752546,Diego Quipe Tito,2
-33752561,Virgen de las Mercedes,1
-33752708,Fray Francisco de Bejarano,3
-33752747,Santa Camela,4
-33752759,Arturo Lecca,2
-33752778,Miguel Aljovin,2
-33752824,Irma Gamero De Planas,7
-33752874,Yirogoyen Diez Canseco,4
-33752888,Honduras,4
-33752904,Magan,1
-33752922,28 de Julio,6
-33752924,28 de Julio,6
-33752952,Nicaragua,1
-33752999,Ruben Dario,2
-33782408,Cisneros,1
-33782588,Gonzales,2
-33782799,General Silva,10
-33783323,Venecia,3
-33783335,Elias Aguirre,8
-33783495,Av. Comandante Espinar,10
-33783509,Jorge Chavez,2
-33783535,Bardelli,7
-33783589,Tupac Amaru,1
-33783718,José Olaya,1
-33783721,Pardo,1
-33783780,MIGUEL DE ARCE,1
-33783824,Jr. Bolognesi,5
-33783832,General Pershing,3
-33783846,Teniente Enrique Palacios,8
-33784398,Velasco Astete,40
-33784456,Velasco Astete,38
-33784606,Avenida Caminos del Inca,40
-33817340,Domingo Elias,4
-33817352,Lizardo Montero,4
-33817362,General Borgoño,7
-33817380,Elias Aguirre,7
-33817387,Junin,4
-33817406,Salaverry,4
-33817538,Domingo Orue,12
-33817596,Carlos Tenaud,4
-33817614,Scipion Llona,4
-33817650,Sevilla,4
-33817669,Rio de Janeiro,2
-33818372,Avenida Benavides,1
-33818419,Tomas Marsano,1
-33818441,Tomas Marsano,1
-33820128,Sor Tita,6
-33820132,Santa Carmen,2
-33820149,San Andres,1
-33820163,Sor Mate,5
-33820166,4,1
-33820170,Pajaten,5
-33820196,Vilcamayo,2
-33820214,Marcahuasi,1
-33820219,Tantamayo,4
-33820247,Capitan E. Gutierrez Rondon,2
-33820284,Punta Sal,7
-33820326,Escorial,3
-33820491,Alcala,9
-33820506,Paseo Rosales,2
-33820512,Hermanos Quintero,1
-33820518,Huaroc,6
-33820524,Tajuana,1
-33820544,Manglares,2
-33820561,Pisac,2
-33820580,Pucara Huaca Prieta,4
-33820651,Lauricocha,4
-33820657,Carlos Baca Flor,4
-33820664,Santa Dora,1
-33820689,Cumbe Mayo,2
-33820693,Otuzco,1
-34089748,Recoletos,1
-34089764,Alcazar,3
-34089799,Braganza,1
-34089806,Zaragoza,1
-34089832,Puerta de Sol,3
-34089834,Vicus,13
-34089835,Macarena,1
-34089836,Vicus,19
-34089837,Preciados,1
-34089858,Vieja Castilla,6
-34089859,Vieja Castilla,1
-34089863,Carabanchel,1
-34089866,Torremolinos,3
-34089869,Rompelanzas,1
-34089885,EL Galeón,6
-34089897,Atocha,1
-34089899,El Mastil,2
-34089908,Tomas Marsano,1
-34089918,Tutumo,3
-34089920,Denegri,2
-34089989,Carlos Tenaud,1
-34089993,Montoya,1
-34089994,Aguirre.,1
-34090005,Capitan Fernando Castrat,4
-34109953,Alfredo Franco,2
-34109957,Victor Mostro,1
-34109988,Luis La puerta,5
-34109995,Cesar Concha,1
-34109999,Cedros,1
-34110004,Juan Pezet,2
-34110007,Guillermo Peratta,2
-34110043,Nicolas de Pierola,3
-34110098,David Roca Varea,11
-34110125,NICOLAS DE PIEROLA,3
-34110280,Carolinos,3
-34110301,Mallecon de la Reserva,1
-34110351,Malecon Diez Canseco,2
-34110402,Malecon Pazos,1
-34110850,Ca. Las Mimosas,2
-34111152,Magnolias,2
-34111161,Martinto,3
-34111202,Tacna,5
-34111255,Perez Roca,4
-34111272,Saenz Peña,1
-34111280,Saenz Peña,4
-34111283,Saenz Peña,1
-34111312,Tacna,1
-34111320,Zegara,2
-34111340,Junin,6
-34111352,Colina,2
-34111392,San Martín,4
-34111512,Silva,4
-34111517,Dasso Fanning,4
-34111528,JUAN VENTURA AGUIRRE,4
-34111621,Pereyra,5
-34111634,Vidaurre,4
-34111693,Valle,5
-34111707,Enrique Deluchi,4
-34111710,Cabada,8
-34111740,Elguera,8
-34111777,Tumay,2
-34111785,Jaen,4
-34111857,Tumbes,3
-34111861,Condesita,4
-34111863,El Sol,1
-34111922,Pedro Salazar,3
-34111930,Bustamente,1
-34111969,Catalino Miranda,7
-34111984,28 de julio,2
-34111987,El Sol,17
-34112004,Pedro Heraud,5
-34112011,Palmera,1
-34112030,Progresso,5
-34112136,Garcia y Garcia,10
-34112147,Samame,3
-34112311,Camuco,6
-34112326,Miguel Grau,3
-34112340,Mendoza,9
-34112358,CALLE 2,1
-34112408,Calle 15,6
-34112428,CALLE 4,1
-34112432,Calle 17,5
-34112444,Calle 3,4
-34112450,Camuco,2
-34112637,Huascar,7
-34112819,San Pedro,17
-34112998,Pasaje Praga,1
-34113029,Pedro Ruiz,2
-34113039,Juan Rivero,2
-34113071,Del Parque Sur,12
-34113259,Galvez Barrenechea,1
-34113297,Avenida Guardia Civil,8
-34113342,"Av. Galvez Barrenechea, Avenida Principal",10
-34113354,Galvez Barrenechea,1
-34113508,Avenida San Borja Sur,18
-34113599,Avenida San Borja Sur,1
-34113617,Del Parque Sur,1
-34113660,Avenida San Borja Norte,16
-34113669,Avenida San Borja Norte,3
-34113703,Avenida El Derby,2
-34113720,Avenida El Derby,2
-34113725,Buena Vista,1
-34113726,Buena Vista,1
-34113728,Buena Vista,4
-34113731,Buena Vista,3
-34113743,Bielovucic Cavalier,6
-34113748,Bielovucic Cavalier,5
-34187977,Esmerlada,4
-34187993,Esmeralda,2
-34188004,Avenida de la Floresta,2
-34188007,Avenida de la Floresta,4
-34188011,Avenida de la Floresta,1
-34188135,Intihuatana,12
-34188149,Manuel Villaran,20
-34188150,Manuel Villaran,22
-34188297,Pedro Venturo,11
-34188300,Pedro Venturo,13
-34188321,Higuereta,10
-34188323,Higuereta,10
-34188355,Angamos Oeste,20
-34188372,Angamos Oeste,15
-34188373,Caminos del Inca,2
-34188374,Caminos del Inca,2
-34188387,San Luis,22
-34188401,San Luis,20
-34188452,Puente Jose Quiñones,1
-34188453,Puente Jose Quiñones,1
-34188461,Avenida Principal,3
-34188463,Avenida Principal,5
-34188561,Avenida Principal,1
-34188598,Javier Prado Este,1
-34188608,Javier Prado Este,1
-34188625,Avenida Guardia Civil,1
-34188627,Avenida Guardia Civil,1
-34188631,Avenida Guardia Civil,7
-34188633,Avenida Guardia Civil,9
-34188651,Avenida del Aire,22
-34188686,Lima Polo,2
-34188687,Avenida El Derby,5
-34188689,Lima Polo Hunt,2
-34188690,Avenida El Derby,8
-34188716,Avenida El Polo,9
-34188719,Av. El Golf de los Incas,11
-34188756,Av. Raúl Ferrero,7
-34334532,Avenida Encalada,5
-34334593,Avenida Encalada,17
-34334621,Angamos Oeste,40
-34334622,Angamos oeste,2
-34334628,Angamos oeste,3
-34334653,Central,14
-34334772,Central,9
-34334779,Angamos oeste,13
-34334780,Los Alamos,1
-34334787,Los Alamos,9
-34334788,Los Alamos,1
-34334993,Avenida Manuel Olguin,5
-34335020,Avenida Las Palmeras,8
-34335095,Avenida Las Palmeras,10
-34401708,Loreto,4
-34401709,Alfonso Ugarte,2
-34401717,Libertad,4
-34401721,Cusco,3
-34401731,Tumbes,6
-34401733,Callao,5
-34401736,Arequipa,2
-34401792,Apurimac,2
-34401796,Cajamarca,2
-34401799,Huaraz,2
-34401809,Ica,13
-34401810,Junin,5
-34401811,Huancayo,7
-34401812,Tacna,4
-34401813,Ayacucho,6
-34401814,2 de Mayo,7
-34577153,Olmos,1
-34577155,Jose Maria Arguedas,2
-34577159,Ancash,2
-34577161,Ollantay,2
-34577180,Madre de Dios,2
-34577182,Moyobamba,1
-34577186,Tarapoto,2
-34577187,Talara,1
-34577189,TALARA,1
-34577249,Moquegua,3
-34577342,Piura,5
-34577365,19 de Enero,1
-34861547,Avenida Canada,45
-34861550,Palermo,4
-34861551,Palermo,4
-34861555,Los Zafiros,1
-34861561,Los Rubies,3
-34861778,Chulucanas,9
-34861781,Mariscal Ramón Castilla,13
-34861782,Sullana,2
-34861784,Catacaos,4
-34861785,Nazca,2
-34861828,Tarma,2
-34861846,Moquegua,1
-34862349,La Plata,4
-34862491,Ayabaca,3
-34862536,Miramar,1
-34862622,Jaspampa,7
-34862839,Luis Prado,2
-34862869,Ciro Alegria,3
-34862960,Ricardo Palma,1
-34863040,Jose Maria Eguren,5
-34863159,Calle 5,5
-34863199,Luis Pardo,2
-34906339,Brasil,11
-34906375,Alfonso Ugarte,5
-34906402,Arica,7
-34906732,Cmdte Ladislao Espinar,3
-34906787,Manuel Estacio,3
-34906831,Virginia Candamo de la Fuente,5
-34907078,Los Eucaliptos,9
-34907335,Los Amancaes,13
-34997000,-,1
-34997001,-,1
-34997016,-,1
-34997037,-,4
-34997044,Tomas Marsano,2
-34997047,Tomas Marsano,1
-34997048,Tomas Marsano,1
-34997049,LOS HEROES,12
-34997078,-,1
-34998352,-,2
-34998388,-,1
-34998401,-,4
-34998413,-,1
-35068824,Javier Prado Este,2
-35068944,Las Castañitas,2
-35069059,Javier Prado Este,26
-35069061,San Luis,1
-35069062,San Luis,21
-35069333,Jr. Rufino Torrico,5
-35069336,Alfredo Franco,7
-35069337,Enrique Leon Garcia,4
-35069338,Manuel Vicente Villarán,3
-35069362,Galicia,1
-35090735,Avenida La Fontana,2
-35090736,Avenida La Fontana,4
-35090737,Avenida La Fontana,6
-35090738,Avenida La Fontana,9
-35090742,Avenida La Fontana,14
-35090743,Avenida La Universidad,4
-35090744,Avenida La Universidad,3
-35090747,Av. La Universidad,18
-35090749,Ovalo Mariscal Caceres,6
-35090750,Flora Tristan,2
-35090789,Av. Raúl Ferrero,18
-35101887,Paseo de la República,8
-35101892,Los Jaspes,3
-35102258,Alberto Barton,12
-35102260,Jose Bazzochi,3
-35102262,Max Gonzales Olaechea,3
-35102263,Ricardo Flores,3
-35102265,Julian Arce,4
-35102266,Francisco Almenara,4
-35102267,Julio Faldini,1
-35102268,Oswaldo Hercelles,3
-35106615,Esteban Campodinico,9
-35106619,Miguel Checa,6
-35106620,Pascual Saco Oliveros,9
-35106624,Manuel Arrisueño,5
-35106625,Antonion de Zela,2
-35106629,Manuel Vildoso,4
-35106630,Pedro Bertonelli,2
-35116252,Parque Coronel Luna y Peralta,1
-35116254,Juan Voto Bernales,8
-35116257,Jose de Rivadeneyra,5
-35116260,Raimundo Carcamo,4
-35116262,José Choquehuanca,3
-35116266,Astete,1
-35116267,General Ayala,1
-35116338,Nicolas Arriola,3
-35116339,Jose de Rivadeneyra,4
-35116341,Luis Espejo,10
-35116342,Patricio Ariarte,3
-35116345,Manzanares,1
-35116347,Nicolas Arriola,6
-35116348,Solidaridad,1
-35116349,Solidaridad,1
-35116488,Prolongacion Parinacochas,22
-35116489,Prolongacion Parinacochas,20
-35116490,Coronel Casimiro Negro,4
-35116492,Jose M. Cortez,3
-35116493,Nicolas de la Barra,3
-35116494,Santiago Cardenas,2
-35116495,José Sonnoni,5
-35116496,Bateria Maipu,6
-35116498,Federico Barreto,4
-35116499,Torre la Merced,4
-35116500,Bateria Maipu,4
-35116501,Bateria Independencia,4
-35116504,Juan Bujanda,3
-35116505,Juan Carlos Vizcardo y Guzmán,4
-35139450,Carlos Lopez Aldana,5
-35139459,Lamas,6
-35139461,Moyobamba,11
-35139462,Miguel Frias,1
-35139463,Calle 2,1
-35139464,Calle 1,2
-35139465,Juan Cardenas,3
-35139466,Rioja,1
-35139467,Rioja,2
-35139471,JuanJui,3
-35139472,Carlos Gutierrez,4
-35139891,Federico Barreto,4
-35139892,Jose Maria Corbacho,1
-35139893,Manuel Toribio Ureta,1
-35139894,Miguel Dasso,2
-35139895,Juan Castro,3
-35139896,Manuel Toribio Ureta,1
-35139897,Prolongación Lucanas,2
-35139901,Miguel Dasso,3
-35139903,Las Americas,5
-35139904,Las Americas,5
-35139913,Juan Castro,4
-35139917,Benito Parto Figueroa,2
-35139918,Mariano Aragonés,4
-35139919,Julio Villegas,1
-35139921,Prol. Lucanas,2
-35139923,Ignacio Cossio,2
-35139925,Ingnacio Cossio,1
-35140114,Ignacio Cossio,4
-35140126,Prolongación Huánuco,5
-35140127,Jorge Cuba,2
-35140129,Rodolfo del Campo,3
-35140130,Antonio Bazo,4
-35140133,Huaylas,1
-35140135,Jaime Garza,1
-35140136,Ingnacio Cossio,8
-35140139,Calle 1,1
-35170425,Euler,7
-35170427,Monge,2
-35170428,Fleming,5
-35170429,Dalton,4
-35170433,Isaac Albeniz,3
-35170434,Marchand,5
-35170438,Francesco Redi,6
-35170440,torriceli,3
-35170443,James joule,3
-35170444,Gozzoli Norte,9
-35170445,Eduardo Ordoñez,3
-35170632,Copernico,2
-35172844,Philipp Von Leonard,5
-35172847,Barajas,8
-35172850,Ca. Mercator,10
-35173301,Marchand,11
-35173500,Tasso,9
-35173527,Españoleto,3
-35173531,Rodin,1
-35173532,Pirandello,9
-35173534,Duccio,1
-35173538,Pisano,2
-35173543,Perugino,7
-35186063,18 DE ENERO,4
-35186064,La Victoria,3
-35186065,Juan Jimenes Valdez,4
-35186066,20 de Agosto,5
-35186067,Jesus Alberto Paez,7
-35186068,1 de Mayo,3
-35186069,Ancash,3
-35186074,1 de Mayo,4
-35186075,20 de Octubre,4
-35186077,Morales Duarez,23
-35186079,Jorge Chavez,6
-35186081,Arequipa,8
-35186082,Arequipa,7
-35186083,Piura,2
-35186095,Huanuco,2
-35186097,San Matin,5
-35186098,Huanuco,3
-35186103,Azangaro,1
-35186104,Mariscal Ramon Castilla,6
-35186106,Calle C,9
-35338993,Pamplona,1
-35338994,Conde De La Vega,4
-35338995,Monte Mayor,2
-35338996,Monte Real,11
-35338997,Cadiz,7
-35338998,Julio Verne,1
-35338999,Obregon,5
-35339000,Mariel,4
-35339003,Marcona,7
-35339004,Oscar Chocano,7
-35339006,Escorza Manuel,5
-35339007,Galeano,8
-35339008,Monte Umbroso,13
-35339009,Monte Flor,6
-35339010,Monte Blanco,4
-35339012,Cruz Del Sur,4
-35339014,Salazar Bondy,2
-35339015,Calle B,3
-35339016,Calle B,1
-35339017,Navarra,8
-35339018,Monte Carmelo,11
-35339019,Calle L,1
-35339020,Ayacucho,18
-35339021,Monte Sierpe,2
-35339022,Preciados,4
-35339023,Aviadores,3
-35339024,Avenida,6
-35339025,Calle,3
-35339026,La Niña,4
-35339027,Monte Carlo,3
-35339028,Preciados,1
-35339031,Libres De Trujillo,6
-35451261,Calle 5,5
-35451262,Calle 1,4
-35451271,1 de Octubre,2
-35451281,Calle A,2
-35451282,Calle 4,5
-35451283,Calle B,2
-35451291,20 DE OCTUBRE,1
-35451294,Andres Avelino Caceres,2
-35451297,Prol. Arequipa,6
-35451299,Castilla,1
-35451310,Mariscal Ramon Castilla,4
-35451311,Francisco Bolognesi,9
-35451368,Ancash,4
-35451369,28 deJulio,4
-35451375,Almirante Miguel Grau,7
-35451376,Tacna,5
-35451406,Junin,9
-35451411,Chota,4
-35451414,Callao,4
-35451417,San Martin,5
-35451419,Huanuco,9
-35451434,Moquegua,2
-35451435,Nazca,1
-35451496,Micaela Bastidas,2
-35451500,Los Alamos,11
-35486851,Alberto Montellanos,9
-35486853,3 de Febrero,10
-35486854,Teofilo Castillo,6
-35486855,Teofilo Castillo,4
-35486856,Teofilo Castillo,5
-35486857,Carlos Saco,6
-35486859,Jose Vinatea,3
-35486860,Jose Coronado,2
-35486863,Jose Julio Morales,3
-35486864,Enrique Barreda,4
-35486867,Nicolas Arriola,3
-35486871,Julio Rivero,6
-35486872,Enrique Barreda,1
-35486880,Jose Coronado,3
-35486882,Victor Bielich,1
-35486959,Rodolfo Espinar,8
-35486960,Manuel Ugarte Chamorro,5
-35486961,Carlos Leon Delgado,5
-35486963,Enrique Barreda,2
-35486964,Chavez Tueros,2
-35486967,Jose Julio Morales,1
-35487082,Italia,6
-35487084,3 de Febrero,10
-35487086,Pisagua,6
-35487087,Francia,4
-35487092,Mogrovejo,3
-35487496,Mogrovejo,10
-35487497,San Cristobal,11
-35487508,Italia,8
-35555582,Jr. Hipólito Unanue,33
-35555583,Sebastian Barranca,7
-35555586,Prol. Huamanga,5
-35555588,Prolongación Huamanga,6
-35555785,Manuel Cisneros,16
-35555800,Pronlongación Huamanga,8
-35555803,Juan Francisco Rivas,3
-35555804,Bélgica,3
-35555809,Francia,6
-35555835,Belisario Carrillo,2
-35555837,Edmundo Escomel,2
-35555935,Italia,6
-35556010,Prolongación Huánuco,8
-35556011,Belgica,2
-35556012,Luis Giribaldi,4
-35556013,Francia,2
-35556015,Belgica,2
-35556263,Luís Gribaldi,8
-35556264,Amèrica,11
-35556415,Jr. Humboldt,30
-35556568,Psje. San Lorenzo,4
-35556860,Jr. Francia,7
-35556872,Italia,7
-35556873,Saenz Peña,11
-35556874,San Cristobal,12
-35557000,Sebastian Barranca,12
-35557096,Av. Nicolas Arriola,2
-35557256,Jr. Parinacochas,2
-35557262,Jr. Lucanas,6
-35557263,Jr. La Mar,4
-35557264,Jr. Huamanga,2
-35557265,Jr. Cangallo,5
-35557440,Antonio Raimondi,15
-35557441,Abtao,1
-35557442,Julio Mendoza Merino,16
-35557446,Antonio Raimondi,3
-35557447,Antonio Raimondi,9
-35557449,Renovación,13
-35557450,Jr. Ayacucho,13
-35557451,Huascarán,14
-35557707,Obreros,2
-35557708,García Naranjo,38
-35557714,Antonio Raimondi,12
-35557926,Toulousse Lautrec,4
-35557928,Rafael Redon,4
-35557929,Jose Maria Sert,8
-35557930,Van de Velde,5
-35557932,Breton,8
-35557933,Carzou,2
-35557934,Durero,9
-35557935,Jean Louis Forain,3
-35565851,Severini,5
-35565853,Milet,5
-35565879,Francisco de Ribalta,3
-35565880,Alonso Del Arco,1
-35580291,Monet,1
-35580294,Verrochio,3
-35580296,Cavallini,11
-35580354,Anthon Van Dick,3
-35580356,Salvador Dali,8
-35580357,Hadraza,3
-35580358,Bartolome Bermejo,2
-35580456,Bronsino,2
-35580458,Van Gogh,2
-35580463,Kremer,4
-35580465,Crane,1
-35580466,Pissarro,2
-35580649,Chardin,3
-35580650,Brosino,9
-35580651,Poussin,8
-35580654,Los Sauces,5
-35580656,Los Sauces,2
-35580657,Av. Boulevard,4
-35580790,Javier Prado Este,5
-35580791,Dominguez,9
-35580792,Calle 7,3
-35580796,Calle 6,1
-35580797,Calle 4,1
-35580799,Calle 5,2
-35581016,Calle 2,9
-35581017,Calle 8,6
-35581019,Calle 9,6
-35581021,Calle 10,4
-35581022,Calle 3,1
-35581024,Ovalo Las Artes,4
-35581026,Velasco Astete Oeste,7
-35581027,Velasco Astete Oeste,5
-35581030,Calle 27,5
-35581031,Mac Carthy,4
-35582585,Calle 29,2
-35582587,Calle 25,2
-35582592,Calle 39,1
-35600641,Mac Mahon,4
-35600642,Calle D,2
-35600644,Eduardo Ford,2
-35600646,Talavera,1
-35600693,Rousseau,13
-35600696,El Greco,6
-35600697,Andrea del Sarto,3
-35600698,Maurice Urtillo,4
-35600846,Bottger,3
-35600850,Calle 1,1
-35600854,Preising,1
-35600856,Claude Monteverdi,3
-35600857,Claude Debussy,1
-35600932,Juan Gris,6
-35600933,Amadeo Mozart,2
-35600934,Franz Schubert,10
-35600935,Bethoven,4
-35600936,Franz Liszt,7
-35600937,Schipper,2
-35600938,Johanes Brahams,4
-35600939,Federico Chopin,3
-35600948,Verdi,1
-35600981,Leon Baumann,4
-35600983,Romero Hidalgo,11
-35600984,Hassinger,1
-35600985,Schrader,1
-35600987,Bosovich,5
-35600989,Isaac Albeniz,9
-35600990,Pablo Usandizaga,14
-35600991,Amadeo Vives,1
-35600992,Pietro Mascagni,9
-35600996,Andrés Vesalio,15
-35600999,Barbieri,2
-35601035,Jacinto Guerrero,2
-35601041,Joaquín Turina,2
-35601042,Gozzoli Norte,6
-35601043,Otto Muller,2
-35601044,Mendelsshon,3
-35601095,Saint Saenz,9
-35601096,Joaquín Madrid,7
-35601112,Pablos Casals,1
-35601115,Faure,2
-35601116,Puccini,1
-35601117,Toselli,5
-35601118,Leo Delibes,1
-35601119,Stravinsky,1
-35601127,Clodomiro Arredondo Muira,3
-35601130,Ricardo Pockrich,1
-35601188,Alfa,4
-35601189,Sigma,5
-35601190,Epsilon,3
-35601191,Geminis,7
-35601194,Gamma,3
-35601195,Delta,4
-35601196,Beta,5
-35601198,Bernstein,3
-35601199,Toscani,2
-35601200,Rubinstein,1
-35601210,Moreno Torroba,1
-35601211,Toselli,1
-35601212,Scarlatti,3
-35601213,Tchaicovski,1
-35601215,Omega,2
-35893162,Fray Angélico,10
-35893165,Reynolds,1
-35893166,Johan Strauss,9
-35893169,E. Donizetti,2
-35893170,José Orozco,1
-35893179,Manuel de Falla,4
-35893183,Ravel,1
-35893185,Puccini,2
-35893263,Miguel Angel,6
-35893265,Simmoni,4
-35893266,Fray Luís de León,26
-35893267,Matier,13
-35893268,Enrique Granados,4
-35893270,Joaquin Valverde,13
-35893273,JUAN  Sebastian Bach,4
-35893280,Calle 24,5
-35893281,Calle 33,6
-35893283,Calle 25,5
-35893285,Calle 29,1
-35893287,Calle 27,3
-35893288,Calle 30,2
-35893289,Calle 31,5
-35893291,Calle 1,7
-35893297,Ca. Alejandro Peralta,8
-35893298,Calle 26,5
-35893300,C. Uno,21
-35893301,3 Sur,3
-35893312,Uno Oeste,1
-35893314,Calle 3 Norte,1
-35893315,Los Ibis,4
-35893317,Calle 54,1
-35893319,Oropendolas,4
-35893324,Calle 21,6
-35893325,Calle 41,7
-35893328,Calle 22,8
-35893329,Orden y Libertad,3
-35893333,Avenida San Borja Sur,3
-35893404,Buen Retiro,1
-35893405,El Cortijo,1
-35893406,El Cortijo,1
-35893408,La Union,1
-35893410,Jose Nicolas Rodrigo,1
-35893412,Benjamin Doig Lossio,1
-35893414,Cineraria,8
-35893415,El Bambu,2
-35893552,Las Adelfas,2
-35893555,Los Cafetos,3
-35893558,Las Caliandras,2
-35893565,Las Tres Marias,7
-35893567,Los Eucaliptos,3
-35893569,Los Alamos,1
-35893571,Via Lactea,2
-35893572,Isabelita,1
-35893576,Orion,3
-35893584,Orion,1
-35893586,Via Lactea,3
-35893605,Los Zafiros,1
-35893619,Los Tulipanes,1
-35893642,El Incario,3
-35893645,Avenida Manuel Olguin,11
-35893646,La Consquista,2
-35893647,EL Carmen,5
-35893648,Jiron Santorin,2
-35893661,Francisco de Cuellar,5
-35893662,Los Huancas,3
-35893663,Los Araucanos,1
-35893664,Los Apaches,2
-35893683,Jeronimo de Aliaga Norte,7
-35893684,Pedro de Candia,6
-35893685,Garcia de Salcedo,2
-35893690,CARTAVIO,4
-35919386,DON DIEGO DE DIA,6
-35919387,Alfredo Rosenblat,3
-35919388,MARIANO RIVERO Y USTARIZ,3
-35919389,MARIANO RIVERO Y USTARIZ,1
-35919390,Señor de Sipan,3
-35919392,Paramonga,5
-35919397,Tomasal,15
-35919400,Tambo Real,6
-35920018,Don Diego de Noche,1
-35920030,CARLOS MONGE MEDRANO,3
-35920034,GODOFREDO GARCIA DIAZ,2
-35920036,Talambo,6
-35920037,San Martin,2
-35920038,Santo Domingo,2
-35920041,Cayalti,8
-35920042,San Ignacio,4
-35920044,Aracari,1
-35920049,Los Vinzos,1
-35920051,Angamos Este,2
-35920052,Santa Elena Sur,7
-35920056,SANTA ELENA NORTE,5
-35920059,Mazus,1
-35920520,El Aliso,2
-35920522,Baobad,1
-35920524,Los Narcisos,1
-35920525,Los Robles,1
-35920527,Amarilis,2
-35920531,Tambo de Oro,1
-35920534,25 de Setiembre,1
-35920535,Johan Sebastian Bach,6
-35920536,Las Clivas,1
-35920537,Las Fresias,3
-35920538,Eucaliptos,1
-35920539,LAGUNA CHICA,1
-35920540,Las Catileyas,1
-35920541,Wolfgang Amadeus Mozart,3
-35920547,Federico Chopin,5
-35920801,Ludwig Van Beethoven,7
-35920802,Los Constructores,10
-35920805,Peter Paul Rubens,4
-35920807,CLaude Monet,1
-35920808,Francisco de Goya,1
-35920809,Los Civiles,3
-35920812,Los Obreros,2
-35920814,Los Arqueologos,6
-35920815,Miguel Angel Buonarroti,7
-35920818,Los Escritores,1
-35920823,Daniel Alomia Robles,3
-35921084,Daniel Alomia Robles,2
-35921086,Donatello,2
-35921087,De la Pintura,2
-35921088,Jose Nicolas Rodrigo,2
-35921089,Estepa Rusa,1
-35921099,LAREDO,8
-35921107,Barraza,2
-35921111,Canelo,1
-35921112,Sintuco,1
-36031602,Iquique,5
-36031710,Tamarugal,5
-36031779,Loa,7
-36032020,Canchones,4
-36032139,San Francisco,6
-36032297,Augusto Bernardino Leguia,2
-36032416,Ramon Castilla,5
-36032636,Agua Santa,9
-36032638,Calle 1,7
-36032752,Amapolas,3
-36032765,Avenida 2,8
-36032770,Jose Maria Eguren,2
-36032988,Tupac Amaru,2
-36033068,Mariscal Oscar Raul Benavides,4
-36033070,Calle 5,5
-36033168,Calle 3,3
-36033169,Calle 4,1
-36033231,Calle 6,4
-36033286,Francisco de Zela,4
-36033287,Ernesto Delgado G.,3
-36033397,Fernando Wiland,2
-36033405,Calle B,2
-36033410,Calle 4,1
-36033528,Calle 1,2
-36034360,Calle 4,2
-36035223,Santa Rosa,3
-36035314,Revolucion Palomino,5
-36035388,Pasaje 13,1
-36035432,Villegas,1
-36047090,Cerro San Francisco,8
-36047096,El Cascajal,12
-36047099,Las Landeras,5
-36047100,Las Canteras,2
-36047102,El Atajo,2
-36047105,El Bosque,3
-36047107,Bellavista,4
-36050056,Bellavista,1
-36050073,San Francisco,2
-36050075,La Cima,4
-36050079,El Bosque,1
-36050080,Los Moyes,3
-36050101,EL Petirrojo,1
-36050148,La Limas,2
-36050170,Madre Selva,5
-36050171,Las Gardenias,8
-36050172,Cardenal,1
-36050177,Los Euchariz,2
-36050178,Alameda la Allamanda,3
-36050182,Buganvilla,5
-36050184,Buganvilla,6
-36050186,Las Palmas,4
-36050187,Los Olivos,3
-36050190,Los Cactus,1
-36050192,Jeronimo de Aliaga Sur,5
-36050195,Alonso de Molina,23
-36050197,Los Albaricoques,1
-36050198,LAS CASUARINAS,6
-36050199,LAS CASUARINAS,6
-36050203,Pulla Raymondi,3
-36051765,Los Valles,1
-36051771,Las Ponsianas,5
-36051788,El Jacaranda,18
-36051818,Los Ingenieros,3
-36051843,Valle Hermoso,3
-36051851,Los Laureles,4
-36051852,Los Ingenieros,6
-36051855,Los Jazmines,3
-36051856,Los Ingenieros,1
-36051857,Las Acacias,4
-36051861,CRISTOBAL DE PERALTA SUR,12
-36185722,Prol. Fresnos,2
-36185724,Rio Grande,1
-36185725,Armatambo,5
-36185727,Rio Parama,1
-36185728,Rio Sena,2
-36185729,Rio Sena,2
-36185730,Rio Grande,1
-36185731,Huaca del Sol,10
-36185732,Prol. Fresnos,2
-36185733,Prol. Principal,1
-36185753,SIPAN,3
-36185755,Machu Picchu,5
-36185756,Vilcabamba,3
-36185758,Rio Beni,3
-36185759,Fortaleza de Paramonga,4
-36185762,Huaca de la Luna,1
-36185764,Fortaleza de Paramonga,7
-36185773,Puerta del Sol,8
-36185775,Puruchoco,3
-36185779,Huanca Konko,2
-36185800,Lineas de Nazca,8
-36185802,Pegaso,5
-36185803,Rio Magadalena,5
-36185804,RIO GANGES,3
-36185805,Calle 15,1
-36185808,Orion,1
-36185809,Calle 7,3
-36185813,CISNE,2
-36498139,Nestor Ganbetta,3
-36777372,Alejandro Bertello Bollati,6
-36777489,Los Cedros,4
-36777501,Las Dalias,5
-36777518,Los Pinos,7
-36777555,Los Cactus,7
-36777557,Las Azucenas,1
-36777564,Los Geranios,3
-36777603,Las Amapolas,3
-36777623,Los Alhelies,2
-36777778,Los Nogales,4
-36777782,Las Rosas,3
-36777800,Los Claveles,3
-36777806,Las Palmeras,1
-36938895,Rio Don,6
-36938908,Calle 12,6
-36938909,Alameda del Corregidor,2
-36938911,Rio Nilo,2
-36938914,Rio Volca,3
-36938918,Indo,1
-36939244,Prolongacion Los Fresnos,16
-36939257,Chancas,3
-36939401,Chimues,6
-36939405,Coropuna,2
-36939406,Coropuna,3
-36939409,Sabancaya,2
-36939410,Sierra Morena,3
-36939411,Zamora,4
-36939478,Cataluaña,4
-36939485,Toledo,2
-36940084,Machu Picchu,6
-36940085,Machu Picchu,9
-36940915,Lugo,4
-36940916,Aviedo,2
-36940917,Madrid,3
-36940919,Calle 6,7
-36940923,Chimues,2
-36940924,MOCHICAS,3
-36940928,Chimues,2
-36940931,LAURICOCHA,1
-36940941,Vascongandas,8
-36940945,Castilla Nueva,5
-36940946,Calle 10,2
-36940947,Los Rubies,2
-36940952,Calle 3,3
-36940953,Calle 2,5
-36940955,Calle 5,3
-36940957,BURGOS,1
-36940958,TERUEL,1
-36940959,Calle 10,2
-36980288,Alicante,7
-36980293,Las Viñas de la Molina,9
-36980295,Las Viñas de la Molina,11
-36980297,LA LADERA,7
-36980493,EL Monte,2
-36980496,La Arboleda,8
-36980500,El Prado,5
-36980504,EL Rancho,3
-36980505,EL Bosque,3
-36980506,EL Volcan,4
-36980507,EL Encierro,1
-36980510,LA Rinconada,2
-36980511,El Paseo,1
-36980514,La Querencia,2
-36980515,Los Aperos,4
-36980516,EL Coritijo,2
-36980517,EL POZO,2
-36980522,Alameda de la Paz,6
-36980523,Alameda de la Paz,5
-36980526,Los Carrizos,1
-36980529,Los Cedrones,4
-36980530,Los Olmos,6
-36980534,Los Aromos,1
-36980536,Los Abetos,1
-36980538,Ovalo Los Condores,4
-36980540,Alameda del Corregidor,48
-36980619,Santa Cruz de Tenerife,6
-36980620,Rio Marañon,3
-36980621,Rio Amazonas,7
-36980622,Rio Rurubanba,2
-36980623,Rio Ucayali,5
-36980626,Rio Perene,2
-36980630,Puerto Pizarro,10
-36980631,Los Manzaneros,2
-36980632,Torres de Oropesa,3
-36980633,Almeira,1
-36980634,Paseo de Agua,5
-36980635,Paseo de la Conquista,4
-36980637,Paseo del Prado,6
-36980640,Torres de la Higuera,1
-36980642,Roca del Castillo,5
-36980648,Las Lomas de la Molina,7
-36980653,Camino del Bosque,6
-36980655,Alameda de los Conquistadores,6
-36980657,Palomares del Campo,4
-36980699,Arcos de la Frontera,5
-36980700,Arcos de la Frontera,1
-36980704,Las Lomas de la Molina,10
-36980725,Caleza de la Perricholi,7
-36980726,Calzada del Fraile,1
-36980728,Suspiro del Moro,1
-36980730,Los Molinos de San Miguel,1
-36980733,Villareal de lo Infantes,4
-36980734,Alameda de los Virreyes,1
-36980756,Villareal,3
-36980788,EL Pacificador,4
-36980790,EL Pacificador,2
-37018313,Calle 3,2
-37018322,Chota,3
-37018338,Las Campanitas,2
-37018344,Las Retamas,1
-37018347,Los Tamarindos,1
-37018356,Santa Fe,8
-37018362,Romulo Assereto Gargurevich,6
-37018363,Carlos Arenas Loayza,2
-37018364,SANTA,3
-37018365,Luis Bravo Arevalos,4
-37018366,Luis Miro Quesada De La Guerra,10
-37018369,Yachay Huasi,3
-37018380,Victoria,3
-37019349,Los Tulipanes,3
-37019350,LAS CAOBAS,1
-37019351,Los Cipreses,7
-37019355,Los Bambues,11
-37019356,LOS ACEBOS,2
-37019357,Los Cedrones,4
-37019365,Las Retamas,1
-37019374,San Francisco,3
-37019389,Los Secollas,3
-37019581,Los Girasoles,3
-37019582,Las Americas,1
-37019583,LAS PALMERAS,3
-37019584,LOS OLIVOS,3
-37019586,Los Olivos,4
-37019588,Los Claveles,2
-37019603,Los Eucaliptos,5
-37019604,Los Olivos,2
-37019605,Los Tulipanes,2
-37019606,Los Nardos,1
-37019607,Los Pinos,4
-37019647,El Pedregal,2
-37019649,14 de Setiembre,6
-37019789,Los Sauces,12
-37019790,Las Begonias,4
-37019791,Las Eritrinas,1
-37019792,Las Parkinsonias,1
-37019793,Los Ficus,2
-37019794,Las Moras,2
-37019798,Alameda de la Molina Vieja,7
-37019799,Alameda de la Molina Vieja,5
-37019800,Avenida Los Fresnos,17
-37019801,Las Hortencias,4
-37019806,Las Nandinas,2
-37019814,Los Eugonimos,1
-37019817,Las Rosas,5
-37019818,Las Acacias,2
-37019819,Las Palmeras,1
-37121927,Octavio Espinoza,5
-37121932,Trujillo,2
-37121949,Chancay,6
-37121953,Chachapoyas,2
-37121989,Lambayeque,2
-37121992,Cañete,1
-37122001,Ilo,3
-37122003,Nazca,3
-37122010,Pisco,3
-37122017,Parque Castilla,1
-37122024,Calle 3,2
-37122026,Arequipa,6
-37122054,Vigil,11
-37122069,Miranave,2
-37122071,La Paz,5
-37122077,Tumbes,2
-37122081,Moquegua,4
-37122082,Sucre,3
-37122093,Paraguay,4
-37122097,Necochea,3
-37122099,Liberated,10
-37122103,Bolivia,4
-37122105,Mexico,5
-37122106,Castilla,5
-37122108,Miller,4
-37122122,Montezuma,3
-37122130,San Martin,5
-37122131,Putumayo,2
-37122134,Sucre,2
-37272306,Huascar,2
-37272310,SANTA ROSA,8
-37272313,Cajamarca,3
-37272314,San Antonio,3
-37272315,Cristobal Colón,5
-37272317,BREGANTE,2
-37272319,Union,4
-37272323,2 de mayo,3
-37272324,Prol. Juan Pazos,10
-37272332,Surco,9
-37434862,TERCERA,6
-37434863,Atahualpa,2
-37434864,Cuarta,4
-37434865,Calle 1,1
-37434866,Zepita,3
-37434867,Calle 5,2
-37434868,Cuzco,4
-37434869,Salazar,4
-37434875,Manuel Arispe,4
-37434893,Ronald,4
-37434896,Atalaya,7
-37434897,Calle B,4
-37434900,Otto Kliefer,3
-37434901,Capurro,1
-37434902,Miller,1
-37434903,Pucallpa,3
-37434904,Pucalipa,2
-37434905,Calle C,3
-37434906,Nauta,7
-37434907,Amapolas,1
-37434908,Yurimaugas,10
-37434910,Villa Rica,2
-37434911,Calle 5,3
-37434912,La Moneda,5
-37434914,Calle 3,4
-37434917,San Agustin,2
-37434918,Av. San Pedro,3
-37434923,Saposoa,4
-37434924,Tercera,5
-37434926,Setima,5
-37434927,Huascar,7
-37434928,Sexta,4
-37434929,Sexta,5
-37434930,Calle 1,1
-37434933,Raygada,1
-37434935,Ayacucho,1
-37434939,Galvez,2
-37434941,Salaverry,3
-37434948,Carrito de Albornoz,6
-37434957,California,4
-37434962,Calle A,4
-37434963,Magdalena,1
-37434971,Tupac Amaru,1
-37435075,Victor Fajardo,2
-37435117,Huascar Marcelo,6
-37435174,José Olaya,5
-37435229,Victor Fajardo,5
-37566229,Querecotillo,11
-37566248,Tangarara,7
-37566290,Los Ceibos,3
-37566350,Tacala,6
-37566352,Simbila,6
-37566461,Prolongación Paseo de la República,8
-37566490,Paseo de las Republica,3
-37566495,Lancones,3
-37566496,los Horcones,4
-37566500,Los Tamarindos,14
-37566510,Los Carrizos,3
-37566514,Cumbibira,4
-37566558,Los Faiques,9
-37566621,Antana,2
-37566632,Barlovento,5
-37566645,Avenida El Sauce,9
-37566665,Avenida El Sauce,1
-37566701,Avenida El Sauce,4
-37566724,Laurel Rosa,9
-37566763,El Palo Rosa,2
-37566783,Alicante,4
-37566803,Murcia,2
-37566834,Madrid,2
-37566871,Las Retamas,5
-37566885,La Magnolia,4
-37566894,La Begonia,1
-37567464,Av. Manuel Prado Ugarteche,6
-37567519,Av. Manuel Prado Ugarteche,8
-37567644,Avenida La Universidad,3
-37567811,Avenida La Universidad,4
-37567871,LA MOLINA,15
-37567873,LA MOLINA,12
-37568386,Bello Horizonte,8
-37568392,La Laguna Grande,13
-37568395,Las Redes,1
-37568398,La Laguna Grande,10
-37568429,Muelle,1
-37609836,Avenida Nestor Gambetta,3
-37614648,Tejada,1
-37614649,Acacias,2
-37614650,San Egnacio de Loyola,1
-37614651,Meliton Porras,3
-37614654,Malecón Balta,6
-37615306,Pedro Abad Galiante,6
-37615308,Rey de Bahamonde,3
-37615309,Augusto Wiese,13
-37615311,Santigo Antunez de Mayolo,14
-37615312,Manuel Herrara Pomareda,5
-37615313,Ernesto Cardenas,3
-37615314,Enrique Rolandi Z.,4
-37615315,Enrique Salazar Barreto,11
-37615317,Juan de Rada,6
-37615319,Juan German L.,8
-37615323,Alberto Acosta,3
-37615327,Eduardo Aranibar,2
-37615329,Alex Barclay,2
-37615332,Ismael Bielich Flores,26
-37615334,Capitan Alfredo Novoa Cava,2
-37615337,Manuel Aguilar Durand,9
-37615338,Jose Corzo,2
-37615339,Luis Sologuren,2
-37615340,Abelardo Murillo,2
-37615343,Fernando Leon,2
-37615344,Luis Reynafarge Hurtado,2
-37615346,Miguel Muñoz,2
-37615347,Javier Moreno,2
-37615351,Angel Brusco,2
-37615355,Reynaldo Moron,2
-37615356,Carlos Cueto F.,3
-37615357,guillermo de la  FLor,1
-37615361,Emilio Velarde,2
-37615363,Daniel Nieto,2
-37615364,Gustabo Yabar,3
-37615365,Jose Carranza,1
-37615366,Jose Navarro,1
-37718963,Los Robles,7
-37718965,Las Tipas,2
-37718990,Los Olivos,8
-37719007,Madre Selva,2
-37719016,Los Jazmines,2
-37719035,Los Crisantemos,3
-37719043,Las Cucardas,1
-37719058,Las Dalias,1
-37719101,Los Ficus,2
-37719176,Los Gavilanes,4
-37719179,Alejandro Ferreyros,2
-37719189,Campania,3
-37719190,Pedro Donofrio,3
-37719200,Pedro Donofrio,2
-37719201,Los Nogales,6
-37719209,Las Orquideas,2
-37719253,Calle 1B,1
-37719258,Juan Guillermo More,10
-37719259,Calle 6F,3
-37719262,Calle 17,2
-37719292,Las Rosas,5
-37719408,Los Juncales,3
-37719418,Los Chinchorros,1
-37719470,Calle 26,1
-37719472,Calle 47 D,3
-37719496,Calle 30 D,2
-37719507,Calle 46,1
-37719509,Calle 50 A,1
-37749251,Av. Loma Hermosa,5
-37749255,Av. Loma Hermosa,5
-37749335,Av. Monte de los Olivos,12
-37749343,Tomas Marsano,1
-37749344,Jorge Chavez,1
-37749370,Tomas Marsano,6
-37749374,Los Proceres,3
-37749390,Coronel Pascual Saco O.,4
-37749443,Av. Monte de los Olivos,12
-37749447,Avenida Nazarenas,12
-37749449,Avenida Nazarenas,13
-37749463,Andres Tinoco,10
-37749482,Guardia Civil Norte,6
-37749490,Avenida Caminos del Inca,42
-37749500,Los Amancaes,5
-37749666,Avenida La Paz,14
-37762112,Calle 28a,1
-37762219,Mariscal Oscar Raul Benavides,8
-37762234,La Concordia,7
-37762243,Lucha Reyes,4
-37762244,Calle 10B,1
-37762263,Nicomendes Santa Cruz,4
-37762306,Calle 7,8
-37762318,La Amistad,4
-37762352,Zoila Caceres,1
-37762369,Lola Vilar,4
-37762377,Calle 6,4
-37927094,Principal,10
-37927097,Principal,10
-37927103,Maria Dartnell,5
-37927105,Juan Bielovucic,2
-37927106,Arturo Duray,4
-37927107,BLERIOT,3
-37927108,Las Retamas,1
-37927110,La Avellana,2
-37927111,Las Orquideas,2
-37927112,Miroquezada,4
-37927114,Hector Velarde,3
-37927120,Andres Luna,5
-37927123,San Francisco,2
-37927124,Yarina Poma,1
-37927125,Los Angeles,1
-37927208,La Calera de la Merced,2
-37927215,EL Cerezo,11
-37927216,Ortega y Gasset,7
-37927217,Murray,1
-37927221,Bruselas,2
-37927225,Carlyle,3
-37927260,Green,3
-37927262,Russel,2
-37927266,Hillman,7
-37927270,Franklin,3
-37927272,La Pera,5
-37927273,Alfa y Omega,3
-37927275,Varsovia,5
-37927276,alfa Cisne,5
-37927278,Ameghino,2
-37927279,Adam Smith,6
-37927280,Alfa Aguila,3
-37927322,Ameghino,2
-37927330,Alfa Orion,7
-37927337,Alfa Centauro,8
-37927340,Alfa Virgen,1
-37927342,Engels,3
-37927343,Montesquieu,4
-37927348,Spencer,2
-37927352,Hegel,1
-37927353,Diderot,5
-37927360,Pascal,4
-37927361,Williams,4
-37927368,Jose Neyra,7
-37927373,Harrington,5
-37927375,Daniel Cruz,6
-37927381,Gabriel Mistral,5
-37927433,Juan Fuentes,7
-37927435,ALbert Einstein,5
-37927438,Manuel Bonilla,4
-37927440,Genaro Covian,1
-37927506,El Timonel,3
-37927529,Jose Leon Barandearan,17
-37927560,Acapulco,15
-38221455,Calle 41,2
-38221459,Arruz,7
-38221476,Calle 10,1
-38221553,Alberto Sabogal,4
-38221599,Domingo Valle Riestra,6
-38221610,Calle 64 A,5
-38221611,Francisco Leo Quiroz,5
-38221628,Calle 6,2
-38221629,Federico Noguera,1
-38221647,Manuel Elias Bonnemaison,6
-38298425,Av. Universitaria,29
-38656188,Borges,2
-38656190,Paicioli,2
-38656197,Martin Luther King,11
-38656200,Miguel Iglesias,4
-38656202,Gorky,1
-38656207,Allende,7
-38656208,Benito Juarez,3
-38656209,Alejandro Dumas,1
-38656212,Villa Victoria,3
-38656215,Cardich,2
-38656222,Mendez Correa,2
-38656223,SHAKESPEARE,2
-38656224,Daudet,2
-38656229,Miguel Iglesias,8
-38748293,Quebrada de Armendariz,1
-38748324,Quebrada de Armendariz,1
-38748329,Quebrada de Armendariz,1
-38748370,Circuito de Playas,3
-38748383,BAJADA TENDERINI,6
-38748390,Huaylas,4
-38748474,Las Palmas,11
-38944685,Av. Universitaria,66
-38945822,Angamos Este,39
-38945831,Angamos oeste,1
-38945845,Angamos oeste,12
-38945848,Angamos oeste,1
-38945937,Avenida Benavides,21
-38945977,Avenida Benavides,1
-38945991,Avenida Benavides,5
-38946018,Avenida Benavides,1
-38946019,Avenida Benavides,26
-39315921,Via de Evitamiento,1
-39315928,1S - Via de Evitamiento,1
-39315930,1S - Via de Evitamiento,3
-39316083,Los Cipreses,1
-39316311,Via de Evitamiento,1
-39316312,Via de Evitamiento,3
-39316321,1S - Via de Evitamiento,1
-39316324,1S - Via de Evitamiento,1
-39316389,Salida Segunda,1
-39316433,1S - Via de Evitamiento,1
-39316453,Via de Evitamiento,1
-39316456,Via de Evitamiento,1
-39316522,Cesar Vallejo,14
-39316787,Javier Prado Este,5
-39316800,Ovalo Melgarejo,6
-39317183,Flora Tristan,11
-39317211,Flora Tristan,12
-39317353,Avenida Melgarejo,17
-39318050,Avenida La Molina,19
-39318102,Av. De los Ingenieros,19
-39318151,Av. De los Ingenieros,19
-39318153,Av. De los Ingenieros,1
-39318157,Av. De los Ingenieros,1
-39335278,Calle 56,4
-39335284,Elias Chunga Zapata,15
-39359369,Av. Circunvalacion,3
-39359872,Aviacion,1
-39359900,Av. Aviación,36
-39359907,Aviacion,10
-39359908,Aviacion,1
-39362385,Javier Prado Este,1
-39362986,Avenida del Parque Norte,1
-39363408,Avenida del Aire,20
-39363463,Separadora Industrial,11
-39363501,Marginal,20
-39411167,Hernan Velarde,1
-39411244,Mexico,32
-39411693,Paseo de la República,4
-39412813,Av. 28 de Julio,34
-39412871,Avenida 28 de Julio,6
-39413204,Manuel Cuadros,4
-39441400,Avenida Canada,46
-39441587,Ernesto DIez Canseco,1
-39441684,Felix Olcay,1
-39441948,Benavides,1
-39441965,Av. Benavides,1
-39441995,28 de Julio,1
-39442007,28 de Julio,1
-39452497,Almirante Miguel Grau,15
-39452499,Nicolas de Pierola,5
-39452506,Cahuide,10
-39452509,Cahuide,6
-39452512,Tupac Amaru,5
-39452513,Zarumilla,2
-39452538,Lima,10
-39452544,Tarata,9
-39452554,Arica,11
-39452558,José Olaya,4
-39452573,Tupac Amaru,5
-39452576,Huascar Marcelo,7
-39452603,Santa Rosa,10
-39452607,2 de Mayo,14
-39452614,Iquique,5
-39452637,La Marina,28
-39452643,Pachacutec,6
-39452652,Emma Dettman de Gutierez,2
-39452653,Galdos,2
-39452655,Mariano Melgar,3
-39452657,Tupac Amaru,3
-39452660,Tarapaca,1
-39452662,Morro de Arica,4
-39452689,Mercado,2
-39452700,Lago Huron,2
-39456664,DEFENSORES DE LIMA,6
-39456737,DEFENSORES DE LIMA,22
-39456802,Pachacutec,3
-39457028,1S - Panamericana Sur,1
-39550884,Mantaro,7
-39550890,Lago Titicaca,2
-39550977,Victor Raul Haya De La Torre,4
-39550984,Felipe Pinglo Alva,8
-39550987,Ignacio Merino,1
-39550995,Abraham Valdelomar,3
-39550996,Carlos Baca Flor,4
-39551003,Carlos Saco,4
-39551018,Leonardo Da Vinci,2
-39551035,Callao,19
-39551036,Alejandro Mango,2
-39551040,Turmalina,3
-39551042,Enrique Lopez Albujar,5
-39551064,Ricardo Palma,1
-39551070,Jose  Carlos Mariategui,5
-39551071,Grito de Huaura,3
-39551077,Vinzos,2
-39551082,Tucuman,3
-39551098,Usquil,3
-39551199,Federico Villarreal,1
-39551214,Mama Ocllo,16
-39551216,Cahuide,3
-39551219,Wiracocha,1
-39551230,Sinchi Roca,2
-39551232,Yahuar Huaca,2
-39551233,Blas Borsani,1
-39551259,Revolucion,2
-39551272,Chimbote,2
-39551273,Pavayacu,2
-39551298,Cahuide,2
-39551308,Junin,1
-39551309,Ica,1
-39551323,Libertad,1
-39551349,Ayacucho,6
-39551352,Otuzco,2
-39551353,Huamachuco,5
-39551363,Talara,3
-39551371,Trujillo,1
-39551417,Paita,1
-39551428,Lambayeque,5
-39551438,Avenida El Pacifico,15
-39551441,Daniel Alcides Carrion,7
-39551442,Tumbes,3
-39551444,Tumbes,1
-39551445,Nicolas de Pierola,3
-39551446,Ramsey,1
-39551448,San Juan de Miraflores,4
-39551449,Chimbote,1
-39551450,Juan Pastor Davila,3
-39551452,Ayacucho,5
-39551453,Libertad,1
-39551455,Pasco,2
-39551456,Junin,3
-39551462,Piura,6
-39551465,Huamachuco,5
-39551479,Huascar,3
-39551492,Zavala,2
-39551494,Inca Roca,1
-39551543,Calle 29,2
-39551571,Calle 6,2
-39551573,Calle 4,3
-39551575,Carlos Augusto Salaverry,2
-39551576,Marañon,1
-39551577,Ucayali,1
-39551581,Pacasmayo,3
-39551585,Sinchi Roca,2
-39551586,Ramon Zavala,3
-39551588,Cahuide,1
-39552104,Andrea del Sarto,5
-39552184,Manet,7
-39552250,Kodinsky,3
-39552294,Emily Car,2
-39552327,Holbein,2
-39552343,Mary Cassat,2
-39552427,ModiGliani,3
-39552464,Da Vinci,8
-39552562,Sanzio,5
-39552624,D'Achille Barbara,3
-39552709,Fray Angelica,2
-39552743,Veermer,2
-39552782,Marie Cuurie,3
-39552784,D'Achille Barbara,1
-39552816,Maria Elena Moyano,6
-39612367,Jose Maria Arguedas,1
-39612374,Prado,1
-39612380,Moche,4
-39612381,Chiclin,1
-39612382,Paijan,3
-39612385,Huascar,2
-39612386,H. Ferreyra Leon,2
-39612389,Dulio Poggi,4
-39612390,Emancipacion,4
-39612391,Chepen,2
-39612392,Santa Rosa,2
-39612393,28 de Julio,4
-39612394,Talambo,1
-39612399,Aviacion,1
-39612400,Calle 19,1
-39612402,Maranga Callejon de,6
-39612403,Echenique,2
-39612404,Jose Olaya,3
-39612406,Echenique,2
-39612408,San Martin,2
-39612412,Aragon,6
-39612414,Valencia,3
-39612415,Alipio Ponce,3
-39612421,Calle 9,1
-39612423,Eloy Ureta,2
-39612528,Calle 9,2
-39612534,Andalucia,3
-39612535,Zaragoza,4
-39612540,Madrid,3
-39612544,Calle 1,3
-39612545,Calle 2,2
-39612558,Demetrio Chavez Acosta,7
-39612561,Cesar Vallejo,6
-39612564,Javier Heraud,3
-39612565,Carlos Augosto Salaverry,4
-39612566,Valdelomar,3
-39612568,Amarillis,1
-39612569,Valdelomar,1
-39612573,Javier Abril,1
-39612574,Peralta,1
-39612577,Capitan de Navio Emilio Carrillo,5
-39612580,Tiburcio Rios,6
-39612582,Tiburcio Rios,2
-39612587,Islas Ceilan,4
-39612589,Punta Lomitas,2
-39612591,Cumana,5
-39612594,Vinzos,2
-39612597,Federico Noruega,1
-39612640,Jose Celendon Condestable,2
-39612642,Punta Huanca,1
-39612644,Tiburcio Rios,2
-39612650,Av. Los Patriotas,12
-39612651,Av. Los Patriotas,14
-39612654,Islas Filipinas,3
-39612656,Elias Chunga Zapata,3
-39612660,Islas Aleutianas,2
-39612671,Calle 52A,2
-39612686,Republica de Venezuela,11
-39612689,Miguel Hidalgo,7
-39612690,Paso de los Andes,8
-39612692,Capitan de Navio Emilio Carrillo,4
-39612696,Cuauthemoc,3
-39612697,La Apacheta,3
-39612701,Punta Restin,1
-39661610,Calle 27,2
-39661621,Calle 6,1
-39661640,Calle José Maria Morellos,4
-39661656,Juan Balcarza,4
-39661657,Jirón Lautaro,2
-39661665,Puerto Lagunas,1
-39661667,Bahia de la Independecia,2
-39661680,Capitan Stiglish Alvarez,4
-39661681,Quiquijana,6
-39661685,Jose Marti,5
-39661698,Ubinas,8
-39661705,Parque de las leyendas,5
-39661730,Añaquito,3
-39661741,Nevado Chachani,2
-39661744,Punta Malpelo,2
-39661749,Isla Mazorca,1
-39661764,Av. Faucett,2
-39661779,Hernando de Zoto,11
-39661787,Calle 4,3
-39661788,Jose Marti,8
-39661796,Francisca Zubiaga,5
-39661799,Gonzalo Pizarro,4
-39661801,Isla de Gallo,2
-39661827,Capitan Manuel Ferreyros,3
-39661829,Andres Castelo,3
-39661846,Salaverry,3
-39661848,Las delicias,5
-39661850,Copacabana,2
-39675708,Dionisio Derteano,2
-39681991,German Schreiber,2
-39681997,Micaela Bastidas,2
-39682129,Los Ruiseñores este,3
-39682147,Calle 17,6
-39682449,Los Ruiseñores este,9
-39682452,Brasilia,2
-39682455,Los Jilgueros,3
-39682456,Los Herrerillos,3
-39682480,Los Milanos,5
-39682484,Las Grojillas,4
-39682489,Pasaje Conocacha,1
-39682646,Los Milanos,2
-39682654,Calle 2,1
-39683255,Carlos Villaran,17
-40022615,Richard Wagner,2
-40268245,Estrella de Italia,11
-40268331,Valmore Roncalla,5
-40268347,Carlos Ferreros,8
-40268357,Calle 7,3
-40268443,Calle 8,1
-40268457,Calle 6,2
-40268468,Calle 44,4
-40268507,Bernini,8
-40268519,Av. de las Artes Sur,13
-40268599,Moretti,1
-40268642,Derain,2
-40268655,Morisot,4
-40268694,Morelli,2
-40268707,Holbein,2
-40268712,Vittore Carpaccio,2
-40268722,Ucello,3
-40268776,Tiziano,12
-40268789,Georges Seurat,1
-40268798,Boccioni,9
-40268816,Tintoretto,4
-40268822,Cezzane,3
-40268831,Leonardo da Vinci,8
-40268895,Zurbaran,2
-40268912,Donatello,5
-40268922,Degas,2
-40268941,Matisse,1
-40268969,Boticelli,3
-40268971,Giotto,1
-40268982,Miguel Olave,1
-40268985,Murillo,3
-40269004,Picasso,2
-40269006,Goya,3
-40269008,Rembrand,1
-40269037,Velazquez,6
-40269045,Rubens,5
-40299816,Paseo de la República,14
-40300923,Jose Galvez,5
-40301203,Canta,11
-40301214,Caplina,2
-40389120,O'Donavan,3
-40655711,Avenida Proceres de la Independencia,24
-40701605,Santa Mariana de Paredes,11
-40704239,Santa Teodosia,8
-40716663,Paracas,6
-40716664,Avenida Abraham Lincoln,8
-40716666,Av. Alejandro Bertello,17
-40716667,Av. Alejandro Bertello,15
-40721293,Santa Bernardita,4
-40721303,Santa Honorata,2
-40721306,Santa Honorata,1
-40743610,Panamericana Norte,44
-40749678,Victor Malasquez,2
-40750556,Punta Hermosa,5
-40750563,28 de Julio,8
-40756171,Santa Sabina,5
-40791311,LIMA,38
-40990993,Avenida Fernando Wiese,75
-40992060,Avenida Lima,12
-40992260,Av Los Eucaliptos,25
-40992261,Av Los Eucaliptos,12
-40997523,Av. Garcilazo de la Vega,19
-40997524,Avenida Arequipa,30
-41000549,Leonidas Laserre,2
-41000694,La Alborada,9
-41000997,La Alborada,12
-41001455,Cesar Figueroa Toledo,2
-41002022,Rosales,6
-41002337,Julio Rodavero,4
-41002699,Mercurio,7
-41006534,Saturno,6
-41006593,Neptuno,5
-41010155,Santa Susana,4
-41011105,Santa Paula,5
-41012597,Calle 5,2
-41012609,Jose Francisco Arana,5
-41012614,Calle 3,2
-41012970,Avenida Canadá,12
-41013087,Psj Abancay,2
-41013112,Av San Juan Masias,9
-41222350,Cabo Gutarra,16
-41222470,Calle Olavegoya,1
-41222859,Av. Guardia Republicana (Ex. La Capilla),19
-41222860,Av. Villacampa (Ex. La Capilla),5
-41222861,Av. Vilacampa (Ex. La Capilla),5
-41224959,Huarochiri,13
-41224960,Huarochiri,13
-41498428,La Victoria,2
-41731086,San Pedro,5
-41731098,Bolivar,5
-41731710,Ramon Castilla,13
-41731847,Victor Raul Haya De La Torre,5
-41731995,Tarapaca,6
-41732017,Moore,7
-41732202,Bolognesi,6
-41732233,Miguel Grau,4
-41732243,San Pedro,1
-41732306,Union,5
-41732324,CRISTOBAL COLON,4
-41732355,San Roman,5
-41732388,Virgen Dolorosa,1
-41734284,Calle 6,3
-41734387,Calle 7,3
-41734403,Calle 8,4
-41734405,Calle 9,3
-41734429,Calle 3,4
-41734448,Calle 2,3
-42211168,Uruguay,11
-42213116,Pomabamba,17
-42213129,Quilca,10
-42215043,Washington,12
-42215047,Prol. Tacna,2
-42219131,Jr. Manuel Beingolea,7
-42312538,Nazca,13
-42312595,Avenida 28 de Julio,9
-42315558,Lerida,2
-42336776,Jaime Bausate y Meza,28
-42337956,Feliciano de la  Vega,26
-42339768,Jr. Moreno Alcala,2
-42432493,Calle 1,10
-42458269,Jose Santos Chocano,11
-42458493,Las Malvas,6
-43200309,Las Flores,15
-43200313,Carretera Central,16
-43200343,Nicolas Ayllon,3
-43315271,Calle C,1
-43475428,Mariscal Castilla,12
-43475482,Santa Ana,5
-43475492,Lozada,2
-43475518,Cauchos,2
-,8
-56001915,Calle Loma de Los Suspiros,5
-60093494,Av. Rafael Escardo,10
-60104874,Alfredo Icaza,5
-60104877,Collasuyo,4
-60104881,Mollocmarca,7
-60104883,Huacarunco,2
-60104886,Cayrucachi,3
-60104887,Otorongo,1
-60104891,Saycusca,1
-60104893,Astete,2
-60104894,Incahuasi,3
-60104897,Los Suspiros,1
-60104898,Chinchaisuyo,6
-60104899,Contisuyo,6
-60104902,Pumacurco,4
-60104905,Chaquilcacha,4
-60104907,Capitan Alfredo Novoa Cava,1
-60104908,J. Hoyle,2
-60104909,Juan Enrrique  Valladares,4
-60104910,Reynafarje,2
-60104913,Necochea,1
-60104915,Isidrio Suarez,6
-60104917,Necochea,1
-60104918,Validores,8
-60104919,Pedro Chamochumbi Aguirre,4
-60104920,Calle 10,1
-60104921,Alberto Barton,1
-60104924,Nieto,1
-60104925,Hipolito Unanue,5
-60104927,Julian Arce,3
-60104928,Julio Cesar Tello,2
-60104930,Luis Aldama,2
-60104931,Calle 9,1
-60104936,Parque de las leyendas,7
-60104937,Parque de las leyendas,4
-60104938,Carlos Gonzales Posada,3
-60104950,Martin de Murua,3
-60104951,Fortunato Quezada,11
-60104952,Carlos Gonzales,3
-60252613,Jose Barrionuevo,3
-61731254,Ruta 1C,1
-61732235,Pampas,2
-61732242,Llumpa,4
-61732243,Los Jazmines,9
-61732245,Los Laureles,7
-61732246,Los Olivos,15
-61732248,Av. Los Proceres de Huandoy,30
-61732249,Calle 29,5
-61732251,Las Girnaldas,1
-61732252,Av. Las Palmeras,44
-61732254,Av. Los Proceres de Huandoy,10
-61732259,Las Camelias,4
-61733684,25 de Enero,4
-61733685,Av. Mexico,1
-62097542,Bolognesi,7
-64222853,Avenida 28 de Julio,5
-64222855,De la Técnica,2
-64222856,De la Técnica,1
-64222857,Av. 28 de Julio,1
-64222859,De la Ciencia,3
-64222860,Artesania,1
-64222862,San Luis,28
-64222863,Jr. Huanuco,7
-64222864,De las Bellas Artes,5
-64222865,Av. 28 de Julio,1
-64222866,López de Ayala,34
-64255178,Tomas Marsano,1
-64255182,SALVADOR ALLENDE,32
-64255193,Republica de Panama,3
-64255198,"Paseo de la Republica, Via Expressa",1
-64255232,Andres Tinoco,4
-65494651,Condesa de Chinchon,1
-65496858,General Belgrano,11
-65496873,Copacabana,6
-65496880,Avenida Paso de los Andes,6
-65496886,Avenida Paso de los Andes,5
-65496895,Calle J.J. Pasos,15
-65496904,Avenida Colombia,18
-65496910,La Huaca,5
-65498730,Avenida Del Rio,10
-65498737,Avenida Del Rio,4
-65498740,Bahia,6
-65498742,Teruel,4
-65498743,Salta,4
-65498750,El Gondal,3
-65498752,Maipu,9
-66394738,calle 11,8
-66491150,Calle 9,2
-67610538,Marte,5
-67610543,Venus,2
-67616322,Saturno,2
-67616324,Avenida Constelación,8
-67616325,Avenida Constelación,8
-67616327,Urano,3
-67616328,Ganimedes,7
-67616329,Mercurio,1
-67616332,Jupiter,1
-67616955,Avenida Galaxia,10
-67616962,Avenida Galaxia,6
-67622637,Orion,2
-67622654,Pluton,2
-67625240,Urano,3
-67625253,Marte,5
-67625255,Meteoro,1
-67625259,Satelite,5
-67625262,Los Aerolitos,3
-67626149,Nebulosas,7
-67626152,Jr. Los Meteoritos,2
-67626154,Satelite,3
-67626155,Las Estrellas,1
-67626157,Estrellas,1
-67626160,Jupiter,4
-67626161,Neptuno,8
-67626162,Ganimedes,3
-67626163,Nebulosas,2
-67626166,Venus,4
-67626167,Mercurio,1
-67626214,Osa Mayor,2
-67627871,Osa Mayor,2
-67627872,Orion,2
-67627873,Meteoritos,2
-67627874,Centauro,1
-67628404,El Angel,2
-67654208,Av. Canto Grande,8
-67654215,Nevado de Huandoy,2
-67654218,Nevado Ausangate,6
-67654384,Av. Marco Polo,9
-67659103,Avenida Jorge Basadre Oeste,9
-67659577,Avenida El Sol,1
-67659579,13 de Enero,5
-67659581,13 de Enero,7
-67659587,13 de Enero,9
-67659591,Avenida Jorge Basadre Este,15
-67659598,Avenida El Sol,25
-67660605,Proceres de la Independencia,35
-67663913,Avenida Las Flores de Primavera,32
-67686830,Nevado Solimana,7
-67686831,Nevado Huascaran,6
-67686834,Nevado Pancari,1
-67686838,Nevado Sarasara,7
-67693319,Los Amelos,2
-67693320,Las Acacias,3
-67693344,Los Amelos,3
-67693357,Las Retamas,2
-67693360,Los Badianes,3
-67693362,Las Mimbreras,2
-67693389,Los Huertos,6
-67693391,Zumaques,2
-67693397,Las Alheñas,4
-67695170,San Hilaron Oeste,8
-67698868,Los Malvaviscos,3
-67698872,Las Retamas,2
-67698876,Las Oxalidas,3
-67698887,Los Pelitres,4
-67698889,Las Acacias,1
-67698913,Las Oxalidas,3
-67699550,Los Pelitres,2
-67701598,Jorge Chavez,2
-67708126,Los Naranjos,3
-67708638,Avenida El Bosque,16
-67709109,Huaraz,11
-67709120,Independencia,5
-67709129,General Varela,8
-67709137,Catrovirreyna,9
-67709145,Jorge Chavez,11
-67709150,Aguarico,9
-67709154,Aguarico,11
-67709462,Los Duraznos,6
-67712791,Avenida Del Parque,24
-67712837,Avenida Los Alamos,6
-67712935,Los Ciruelos,7
-67713061,Los Postes Este,15
-67713175,13 de Enero,24
-67713180,13 de Enero,25
-67713181,Los Postes Este,18
-67713257,San Hilaron Este,1
-67713402,Las Gravas,6
-67713404,Las Perlas,2
-67713406,Las Salvitas,1
-67713408,Las Arenillas,3
-67713409,Las Escarchas,4
-67713410,Los Zafiros,6
-67713463,Los Opalos,6
-67714593,Las Baldosas,1
-67714600,Los Zafiros,5
-67714603,Los Rubies,9
-67714617,Los Topacios,10
-67715699,Las Rocas,2
-67715703,Las Arcillas,3
-67715706,Las Perlas,4
-67715707,Los Corales,1
-67715712,Pedregal,3
-67716590,Jamesonita,5
-67716596,Los Esmeriles,3
-67716599,Las Arcillas,1
-67801625,Meliton Carbajal,2
-67801629,Santiago Martinez Cornejo,3
-67801630,Ricardo Palma,1
-67801631,Ramon Castilla,5
-67801632,Eloy Espinoza S.,4
-67801634,Antonio Garland,1
-67801637,Marco Nicolini,3
-67801641,Michael Fort,8
-67801644,Pedro Paulet,6
-67801763,Enrique Rosa,6
-67801766,Segundo Carrion,3
-67802564,Juan Vicente Nicolini,6
-67802566,Antonio Garland,7
-67802567,Manuel Ramirez,3
-67802572,Henry Arrendondo,5
-67803093,Av. Honorio Delgado,8
-67803094,Av. Honorio Delgado,7
-67803112,Alheli,11
-67865013,Federico Villareal,4
-67865014,Pasaje 2,3
-67865015,Independencia,7
-67865016,Pichincha,4
-67865017,Don Bosco,4
-67865018,Centenario,9
-67865019,General Orbegoso,8
-67865020,Pasaje 3,4
-67865021,Pasaje 4,2
-67865022,Pasaje 5,1
-67865024,General Vidal,6
+osm_id	osm_name_street	osm_nodes
+4827820	Plaza 2 de Mayo	11
+4827822	Plaza Ramon Castilla	1
+4827827	Alfonso Ugarte	15
+4827828	Alfonso Ugarte	12
+4827829	Alfonso Ugarte	4
+4827832	Alfonso Ugarte	1
+4827838	Alfonso Ugarte	1
+4827843	Plaza Francisco Bolognesi	15
+4827844	Alfonso Ugarte	2
+4827845	Puente Del Ejercito	1
+4827846	Alfonso Ugarte	1
+4827847	Puente Del Ejercito	1
+4827849	Vicente Morales Duarez	31
+4827850	Alfonso Ugarte	1
+4827860	Circunvalacion	3
+4827863	Avenida Caqueta	3
+4827876	Av. Zarumilla	3
+4827878	Hector Garcia Ribeyro	1
+4827883	El Trebol	6
+4827892	Avenida Caqueta	11
+4827894	Avenida Tupac Amaru	54
+4827895	Franciso Pizarro	21
+4827896	Diego Cordova de Salinas	6
+4827908	Maracaibo	11
+4827909	Av. Panamericana Norte	9
+4827926	Via de Evitamiento	6
+4827929	Av. Panamericana Norte	2
+4827937	Av. José Granda	23
+4827949	Via de Evitamiento	6
+4827951	Via de Evitamiento	1
+4828013	Avenida Argentina	13
+4828021	Emancipacion	5
+4828025	Oscar Benavides	21
+4828026	Oscar Benavides	3
+4828352	Avenida Enrique Fermi	6
+4828405	Av. Franciso Bolognesi	9
+4828407	Av. Angélica Gamarra	22
+4828408	Av. Industrial	17
+4828411	Av. Industrial	7
+4828501	Calle Gerardo Unger	19
+4828731	Naranjal	4
+4828738	Naranjal	3
+4828743	Av. Naranjal	10
+4828763	Av. Angélica Gamarra	22
+4828802	Av. Bocanegra	20
+4831287	Av. Santiago Antunez de Mayolo	24
+4831299	Av. Las Palmeras	39
+4831340	Av. Los Dominicos	22
+4831347	Av. Saenz Peña	4
+4831356	Alejandro Bertello Bollati	21
+4831386	Av. José Granda	13
+4831397	Avenida Peru	16
+4831400	Av. Perú	19
+4832777	Via de Evitamiento	1
+4832854	Av. 9 de Octubre	10
+4832866	Abancay	1
+4832867	Abancay	15
+4832868	Abancay	1
+4832881	Metropolitana	14
+4832882	Metropolitana	10
+4832890	Av. Universitaria	56
+4832968	Av. Santiago Antunez de Mayolo	20
+4832972	Av. Tomas Valle	26
+4832976	Jose Granda	8
+4832980	Av. Canta Callao	33
+4832984	Av. Universitaria	114
+4832991	Avenida Universitaria	28
+11979291	Aurelio Miro Quesada	14
+11979547	Orrantia	5
+11979621	Santa Cruz	10
+11979631	Republica de Panama	3
+11979694	Av. Aramburú	4
+11980143	Placencia	5
+11980154	La Niña	1
+11980165	Cavero	3
+11980238	Santa Maria	1
+11980258	Raymundo Morales de la Torre	6
+11980556	Lizardo Alzamora Este	10
+11980676	José Choquehuanca	20
+11980702	Antero Aspillaga	4
+11980717	Enrique Paillardelle	4
+11980743	La Habana	8
+11981788	José Larco	6
+11981820	Tunel Santa Rosa	1
+11981861	9 de Diciembre	5
+11981891	9 de Diciembre	5
+11985087	Av. Zarumilla	10
+11985865	Paseo de la República	18
+11985886	Paseo de la República	22
+11986252	Arequipa	27
+11986321	Arequipa	33
+11986518	Ovalo de Miraflores	7
+11986778	Diagonal	6
+11987056	Malecón de la Marina	13
+11987159	Alfredo Benavides	8
+11988366	Pezet	11
+11988370	Cervantes	9
+11988505	Pancho Fierro	1
+11988547	Antero Aspillaga	5
+11988566	Florida	2
+11988580	Tacna	8
+11988611	Chacarilla	6
+11989209	Santa Cruz	7
+11989273	Ovalo Guiterrez	7
+11989414	José Pardo	10
+11989455	Plaza Centro América	9
+12561291	Av Ricardo Palma	5
+12561298	Av Ricardo Palma	1
+12561310	Av Ricardo Palma	3
+12561317	Av Ricardo Palma	2
+12561318	Av Ricardo Palma	4
+12561540	Manco Capac	8
+12561875	Dalias	4
+14073402	Vasco Nuñez de Balboa	5
+14073892	Ca. Porta	11
+14073918	Av. 28 de Julio	4
+14073926	Ocharan	6
+14073934	Ca. San Martin	10
+14073942	Cristobal Colon	9
+14074051	Los Pinos	4
+14074056	Felix Olcay	5
+14074399	José Gonzales	12
+14074486	Juan Fanning	10
+14074512	Comandante Aristides Aljovin	6
+14074529	Diego Ferre	3
+14074592	Buenos Aires	2
+14074758	Av Ricardo Palma	6
+14074796	Ernesto DIez Canseco	3
+14074831	Ernesto DIez Canseco	3
+14076594	Guardia Chalaca	1
+14076698	Plaza Garibaldi	8
+14076940	Cuzco	9
+14076942	Monteagudo	6
+14076943	Nicholas de Pierola	10
+14077002	Montezuma	10
+14077076	Zepita	12
+14077168	Castilla	2
+14077276	Ayacucho	12
+14077338	Miroquesada	15
+14077377	Manuel Raigada	11
+14096352	Conquistadores	20
+14096487	Los Libertadores	8
+14103088	Llano Zapata	5
+14103104	Mariscal Sucre	7
+14103110	Vanderghen	5
+14175423	Av. Oscar Raul Benavides	14
+14341802	Rio Branco	9
+14341810	Sao Paulo	11
+14341811	Santa Fe	11
+14342251	Prol.Arenales	4
+14342260	De Los Incas	8
+14342367	Luis Felipe Villaran	6
+14342431	Chiclayo	11
+14342450	José Pardo	11
+14342452	Av. Comandante Espinar	13
+14342470	Alfredo Leon	2
+14342476	Gonzales Prada	3
+14343851	Mallecon de la Reserva	5
+14343873	Alcanfores	15
+14386583	Calle San Ignacio de Loyola	4
+14386631	Acacias	1
+14386675	Acacias	4
+14386726	San Egnacio de Loyola	3
+14386816	Meliton Porras	6
+14386828	Avenida Armendariz	9
+14387120	Circuito de Playas	6
+16628936	Teodoro Cárdenas	9
+16629110	Domigo Cueto	3
+16629194	Jr. Belizario Flores	1
+16629237	Manuel Candamo	12
+17482584	Jose Carlos Mariategui	12
+17503330	Jose Carlos Mariategui	18
+17503331	Jose Carlos Mariategui	6
+17503365	Burgos	2
+17576094	Andres Avelino Caceres	32
+17580114	Calle 8	8
+17622428	Javier Prado Este	9
+17624222	Av. Cajamarquilla	22
+19070118	Quebrada de Armendariz	4
+19070256	Italia	4
+19070275	Tripoli	4
+19070302	Plaza Bolognesi	12
+19070308	Jr Bolognesi	5
+19070316	Francia	7
+19070397	Miguel Grau	8
+19070430	Victor Vajardo	2
+19070444	Federico Recavarren	9
+19070449	Madrid	2
+19070497	Madrid	3
+19070525	Martin Napanga	3
+19071125	Jose Galvez	15
+19071179	De la aviacion	11
+19071223	Ramon Zavala	4
+19071516	José Pardo	3
+19072144	Jr. Salaverry	9
+19072150	Jirón Saenz Peña	6
+19072193	Ovalo Independencia	7
+23804596	C. Grimaldo de Solar	11
+23804800	Paseo Parodi	2
+23804809	Jr. Ocoña	5
+23804813	Coronel Inclan	10
+23804816	Independencia	10
+23843769	Ramon Rebeyro	14
+23843770	J. Felix Olcay	3
+23843771	Vargas Machuca	8
+23843773	Atahualpa	7
+23979521	2 de Mayo	14
+24252020	Tarapaca	5
+24252035	Herrera	2
+24252044	Bellido	3
+24252048	Los Angeles	4
+24252049	Garcia Calderon	4
+24252056	General Borgoño	4
+24252064	Teruel	4
+24252072	Andalucia	5
+24252074	ASUNCION	1
+24252077	Santander	4
+24252082	Santa Maria	3
+24252085	Santa Maria	1
+24252086	Herrera	2
+24252088	Daniel Alcides Carrion	2
+24252092	Enrique Meiggs	2
+24252095	Angamos Este	3
+24252105	Arica	14
+24252106	Carrion	1
+24252111	Larco Herrera	1
+24252115	E. de Harbich	2
+24252120	Lino Alarco	2
+24252166	Francisco Pardo y Aliaga	5
+24252169	General Iglesias	8
+24252172	Almirante Lord Cochrane	6
+24252176	Francisco Pardo y Aliaga	7
+24252183	De la Torre Gonzales	4
+24252187	ALBERTO ARCA PARRO	3
+24252211	San Alejandro	1
+24252252	Esquilache	3
+24252255	Gervasio Santillana	4
+24252258	Chumblongo	3
+24252259	Tello	3
+24252261	Jose Payan	1
+24252268	Coronel Inclan	1
+24252274	Domingo Orue	4
+24252276	Domingo Orue	1
+24252279	Domingo Orue	1
+24252291	General Suarez	16
+24252299	Domingo Orue	7
+24252307	Av. Aramburú	10
+24252309	Av. Aramburú	1
+24252315	Av. Aramburú	6
+24252316	Av. Aramburú	1
+24252353	Recavarren	8
+24252372	Ca. Schell	8
+24252389	Paseo de la Republica	1
+24252390	Av Ricardo Palma	1
+24252391	Av Ricardo Palma	1
+24252394	Av Ricardo Palma	1
+24252395	Av Ricardo Palma	4
+24252422	Salaverry	15
+24252441	Junin	14
+24252442	Lizardo Montero	11
+24252452	Santa Rosa	13
+24252454	Dante	14
+24252457	Junin	1
+24252467	Velarde	13
+24252470	Portocarrero	4
+24252472	Morococha	2
+24252478	Recavarren	6
+24252513	San Lorenzo	1
+24252517	Carmen	13
+24252520	San Augustin	11
+24252524	Gonzales Prada	11
+24252525	Leoncio Prado	5
+24252526	Leoncio Prado	5
+24252529	San Diego	7
+24252544	Leoncio Prado	4
+24252546	Inca	3
+24252562	Inca	10
+24252565	San Miguel	14
+24252583	Gonzales Prada	1
+24252584	Gonzales Prada	1
+24252586	Paseo de la República	21
+24252591	Caceres	6
+24252608	Angamos Este	1
+24252610	Angamos Este	12
+24252615	Angamos Este	1
+24252674	Vidal	3
+24252758	Cipriano Aguero	1
+24252759	Piura	1
+24252761	Piura	9
+24252765	General Borgoño	1
+24252777	Jr. Huallaga	16
+24252780	Jr. Ica	3
+24252786	Antonio Miró Quesada	7
+24252788	Jr. Azagaro	14
+24252800	Carabaya	1
+24252801	Jr. Camaná	10
+24252802	Jr. Cailloma	8
+24252803	Jr. Rufino Torrico	10
+24252809	Teniente Enrique Palacios	5
+24252810	Torre Tagle	1
+24252811	Piura	7
+24252812	Rosario	4
+24252814	Rosario	3
+24252815	Chacltana	3
+24252816	Torre Tagle	6
+24252817	José Pardo	11
+24252819	Berlin	5
+24252821	Bellavista	5
+24252822	Libertad	2
+24252823	Camino	2
+24252824	Henry Revett	3
+24252825	Libertad	2
+24252826	Roma	3
+24252827	Roma	3
+24252829	Comandante Juan G Moore	2
+24252832	Cmdte. Juan G Moore	2
+24252833	Manual A. Segura	2
+24252834	Calero	1
+24252835	Tupac Amaru	3
+24252838	Almirante Carbajal	3
+24252839	Gonzales Vigil	1
+24252846	José Pardo	3
+24252847	Figuaredo	3
+24252848	Figuaredo	1
+24266516	Mendiburu	12
+24266526	General Córdova	13
+24266528	Bernardo Alcedo	5
+24266531	Torre Ugarte	6
+24266535	Manuel Tovar	6
+24266542	Joaquin Capelo	7
+24266556	Toribio Pacheco	6
+24266567	8 de Octubre	4
+24266583	José Toríbio Polo	6
+24266584	Contralmirante Villar	4
+24266587	Ejercito	6
+24266589	Federico Villareal	1
+24266590	Federico Villareal	1
+24266592	Federico Villareal	3
+24266594	Espejo	4
+24266595	Mariano Melgar	5
+24266596	Belén	4
+24266597	José Domingo Choquehuanca	5
+24266598	Jorge Polar	4
+24266599	Av. Perez Araníbar (ex Av. Del Ejército)	32
+24266605	Triana	2
+24266606	Almirante Lord Nelson	2
+24266621	Almirante Lord Nelson	2
+24266625	Parque Mora	1
+24266632	General José Quiñones	3
+24266644	Angamos Oeste	8
+24266674	Blas Cerdeña	7
+24266686	Contralmirante Villar	1
+24266688	Contralmirante Villar	1
+24266695	Contralmirante Villar	2
+24266700	7 de Junio	2
+24266701	Berlin	1
+24266702	José Pardo	2
+24266709	Retiro	2
+24266734	Miguel Dasso	2
+24266736	Ulloa	3
+24266743	Alvarez Calderon	11
+24266749	Yerovi	3
+24266751	Francisco Eguiguren	4
+24266754	David Samanez	2
+24266758	General Clemente	2
+24266759	Manuel Gonzales Olaechea	1
+24266771	Graña	3
+24266773	Jacinto Lara	4
+24266775	Alferez Alfredo Salazar	2
+24266776	Santa Teresita	3
+24266778	Santa Margarita	3
+24266786	Belén	5
+24266790	Perez Aranibar	44
+24266810	Av. Del Ejercito	4
+24266815	Romanet	4
+24266855	Avenida Coronel Portillo	9
+24266861	Pezet	13
+24266868	Octavio Espinoza	1
+24266871	Octavio Espinoza	3
+24266874	Octavio Espinoza	3
+24266876	OCTAVIO ESPINOZA	2
+24266884	Francisco Valle Riesta	5
+24266888	General La La Fuente	3
+24266891	Manuel Marcos Salazar	4
+24266898	Juan Dellepiani	10
+24266916	Baltazar La Torre	4
+24266954	Punta Negra	10
+24266957	Godofredo Garcia	1
+24266962	Cabo Blanco	5
+24266974	Calle A	3
+24266985	Aurelio Miro Quesada	6
+24266986	Alberto del Campo	6
+24267007	Alberto del Campo	6
+24267010	Los Manzanos	8
+24267013	Francisco Valle Riesta	6
+24267015	Baltazar La Torre	4
+24267018	Augusto Bolognesi	6
+24267031	Avenida Salaverry	39
+24267032	Avenida Salaverry	50
+24267057	Las Moreras	4
+24267058	Jose Granda	3
+24267060	Juan Norberto Elespuru	5
+24267068	Los Castaños	1
+24267077	Los Eucaliptos	6
+24267080	Los Eucaliptos	2
+24267086	Avenidad Jorge Basadre	13
+24267091	Camino Real	8
+24267094	Nicolas de Rivera	7
+24267116	Los Laureles	5
+24267118	Los Nogales	7
+24267123	Los Cedros	8
+24267124	Los Robles	4
+24267127	El Rosario	5
+24267129	El Rosario	5
+24267133	Los Alamos	3
+24267137	Salamanca	2
+24267146	Francisco de Zela	2
+24267148	Santo Toribio	4
+24267170	Santo Toribio	5
+24281794	Merino	2
+24281795	Garcia Y Garcia	4
+24281798	El Bosque	6
+24281799	Daniel Hernandez	4
+24281800	Tradiciones	2
+24281812	Manchay Puito	3
+24281818	Luis Felipe Villaran	5
+24281825	Luis Felipe Villaran	3
+24281830	Rio de la Plata	6
+24281836	Republica de Colombia	4
+24281843	Republica de Colombia	3
+24281844	Federico Villareal	8
+24281850	Las Camelias	8
+24281857	Sebastian Telleria	5
+24281858	Chinchon	9
+24281860	Antequera	3
+24281862	Antequera	2
+24281864	Miguel Seminario	4
+24281865	Iquitos	21
+24281867	Los Lirios	2
+24281868	Amador Merino Reyna	5
+24281869	De Las Casas	2
+24281871	Virrey Toledo	4
+24281887	La Perricholi	1
+24281890	San Martin de Porres	10
+24281895	Canaval y Moreyra	10
+24281898	Ricardo Rivera Navarrete	14
+24281900	Las Begonias	6
+24281903	Chinchon	2
+24281904	El Parque	2
+24281906	Antequera	2
+24294969	Canaval y Moreyra	11
+24294980	Francisco Masias	8
+24294983	Avenida Javier Prado Oeste	21
+24294991	Javier Prado Este	2
+24295062	AV. 2 de Mayo	18
+24295065	Los Castaños	4
+24295070	Roma	5
+24295071	Barcelona	6
+24295072	Los Laureles	3
+24295073	Thomas Edison	4
+24295075	Burgos	7
+24295077	Guillermo Marconi	8
+24295082	Luis Pasteur	3
+24295084	Los Robles	1
+24295085	Los Cedros	4
+24295088	Manco Segundo	6
+24295089	Juan Bielovicic	2
+24295091	Almirante Manuel Villavicencio	9
+24295096	Los Alamos	3
+24295097	Tupac Amaru	2
+24295099	Capac Yupanqui	1
+24295104	Cadiz	5
+24295136	Almirante Martin Guisse	16
+24295137	Los Pinos	3
+24295139	Jr. Mariscal William Miller	8
+24295141	Los Olivos	1
+24295142	Avenida Alvarez de Arenales	31
+24295146	Jose de la Torre Ugarte	7
+24295163	Los Jazmines	5
+24295167	Los Geranios	4
+24295168	Las Begonias	3
+24295174	Los Mirtos	5
+24295187	Domingo Casanova	5
+24295188	Percy Gibson Moller	4
+24295193	Ignacio Merino	1
+24295204	Militar	10
+24295214	Francisco Lazo	5
+24295240	José Gálvez	21
+24295244	Avenida Cuba	16
+24295246	Tomás Guido	14
+24295250	Mariscal Las Heras	6
+24295252	Risso	8
+24295254	Bernardo Alcedo	11
+24295264	Av. Gral. César Canevaro	18
+24295265	Jose Pardo de Zela	12
+24305051	Las Orquideas	3
+24305094	Jr. Emilio Althaus	11
+24305223	General Córdoba	2
+24305273	Joaquin Bernal	6
+24305282	Jr. Gral. José Maria Cordova	3
+24305286	Francisco de Zela	9
+24305294	Jr. Garcillaso de la Vega	3
+24305304	Jr. Jozé Pezet y Monel	5
+24305315	Mama Ocllo	3
+24305317	Sinchi Roca	5
+24305329	Jr. Manco Segundo	1
+24305339	Pachacutec	4
+24305341	Sinchi Roca	2
+24305342	Jr. Mama Ocllo	1
+24305345	Jr. Brigadier Mateo Pumacahua	2
+24305349	Pasaje Chasqui	2
+24305355	Pasaje Chasqui	1
+24305362	Pasaje Quilla	1
+24305365	Jr. Cápac Yupanqui	8
+24305370	Garcillaso de la Vega	5
+24305379	Mariscal Miller	9
+24305391	Avenida Edgardo Rebagliati	8
+24305399	Domigo Cueto	5
+24305428	Mexico	31
+24305471	San Roberto	3
+24306225	Jimenez	5
+24306227	Punta Negra	4
+24306245	Calle 4	1
+24306246	Calle 3	1
+24306247	Calle 2	1
+24306256	Soria	1
+24306267	Alberto Yabar	1
+24306278	Felix Dibos	6
+24306289	Juan Antonio Pezet	4
+24306295	Malecon Bernales	2
+24306300	Bernardo Monteagudo	6
+24306309	Jose de Acosta	1
+24306310	Leon de la Fuente	1
+24306314	Jose de Acosta	1
+24306322	Gregorio Escobedo	7
+24306325	José G. Cossio	5
+24306326	Juan de Aliaga	4
+24306329	Carlos Baca Flor	1
+24306331	Justo Amadeo Vigil	6
+24306337	Trujillo	12
+24306342	Miguel Soto Valle	7
+24306346	Baca Flor	1
+24306347	Monadante Augusto Jimenez	2
+24306352	Nicanor Roca de Vergallo	9
+24306361	Flora Tristan	8
+24306365	Juan Nolberto Elespuru	4
+24306381	Juan Manuel Polar	2
+24306385	Juan Manuel Polar	2
+24306424	Guardia Chalaca	1
+24306464	Francisco Graña	6
+24306466	Tomas Ramsey	11
+24306492	Maria Parado de Bellido	2
+24306499	Bonnemaison	5
+24306502	Gonzales Prada	7
+24306516	Antonio Raimondi	3
+24306518	Malecon Miguel Grau	3
+24306521	Victor Larco Herrera	13
+24306524	Unanue	2
+24306526	Lidio Mongilardi	1
+24306538	Honorio Delgado	4
+24306545	José María Eguren	2
+24306553	Mariategui	2
+24306554	Vallejo	2
+24306555	Salazar Bondi	1
+24306559	Domingo Ponte	8
+24306561	Jirón Arica	6
+24306573	Alonso Riquelme	10
+24306580	Rodolfo Rutte	4
+24306583	Jirón Rey Basadre	6
+24306585	Jirón Daniel Carrión	5
+24306590	Daniel Hernandez	8
+24306591	Domingo Ponte	3
+24306593	Rodolfo Rutte	5
+24306606	Daniel Alcides Carrion	5
+24306635	Víctor Larco Herrera	5
+24306643	Gonzales Prada	7
+24306644	Francisco Graña	3
+24306648	Francisco Graña	2
+24306662	Punta del Este	2
+24306707	De la Policia	8
+24306717	Caracas	4
+24306737	Haiti	1
+24306744	Santo Domingo	5
+24306749	Maracaibo	1
+24306755	Estados Unidos	1
+24306756	Caribe	1
+24306765	Diego de Almagro	13
+24306768	Caracas	3
+24306775	Estados Unidos	9
+24306779	Araoz y Castilla	1
+24306780	Los Patricios	2
+24306789	Nicaragua	2
+24306791	Costa Rica	2
+24306795	Rio de Janeiro	8
+24306827	Geronimo de Aliaga	2
+24306842	Avenida Arnaldo Márquez	29
+24306846	Pasaje Caracas	1
+24306847	Quito	1
+24306854	Caracas	2
+24306855	Quito	2
+24306856	Cochabamba	1
+24306861	Santiago	2
+24306907	Avenida General Garzon	23
+24306946	San Felipe	17
+24306957	Luis N. Saenz	5
+24306960	Avenida Horacio Urteaga	22
+24306971	Daniel Olaechea	3
+24306975	Huascar	10
+24306982	Giuseppe Garibaldi	3
+24306989	Inca Ripac	2
+24306995	Saenz	1
+24306996	Huiracocha	16
+24307018	Huamachuco	10
+24307023	Octavio Bernal	3
+24307035	Ca. Olavegoya	4
+24307036	Ca. Olavegoya	5
+24307044	Av. Cayetano Herida	2
+24307048	Avenida Ricardo Tizon y Bueno	10
+24307050	Huiracocha	1
+24307071	Avenida Husares de Junin	17
+24307103	Avenida Francisco Javier Mariátegui	20
+24307144	Lloque Yupanqui	11
+24307146	Mariscal Toribio Luzuriaga	8
+24307155	Huascar	6
+24307158	Diez Canseco	2
+24307162	República Dominicana	5
+24307193	Avenida Cuba	4
+24307200	Avenida Cuba	4
+24307203	Pachacutec	8
+24307207	Huayna Capac	3
+24307217	Cuba	10
+24307224	Sinchi Roca	5
+24307225	Cahuide	3
+24307227	Domingo Millan	3
+24307229	Mateo Pumacahua	4
+24307231	Mayta Capac	1
+24307235	General Santa Cruz	6
+24307290	Mayta Capac	5
+24307294	Mateo Pumacahua	4
+24307307	Pachacutec	2
+24307318	Jose Maria Plaza	4
+24307324	Huayna Capac	2
+24307328	General Santa Cruz	3
+24307362	General Santa Cruz	3
+24307372	General Canterac	5
+24307396	Talara	9
+24307433	Los Mogaburos	4
+24307458	Rivero Ustariz	2
+24307561	Avenida Cuba	17
+24307567	Capac Yupanqui	4
+24307569	Francisco de Zela	1
+24307574	Almirante Guisse	7
+24307580	General José Maria Cordova	5
+24307598	Camilo Carrillo	3
+24307610	Avenida Republica de Chile	6
+24307623	Maximo Abril	2
+24307626	Maximo Abril	2
+24307635	Larrabure y Unanue	9
+24307646	Ramón Dagnino	4
+24307660	Natalio Sanchez	4
+24307671	Coronel Pascual Saco Oliveros	5
+24307868	Manuel Nicolas Corpancho	4
+24315545	Malecon de la Reserva	11
+24315546	Malecon de la Reserva	1
+24315549	Malecon de los Franceses	4
+24315608	MALECON 28 DE JULIO	1
+24315662	Manuel Bonilla	2
+24315663	Esperanza	3
+24315666	Ernesto DIez Canseco	6
+24315669	Cantuarias	4
+24315670	Psj. Tello	2
+24315671	Paseo de la Republica	1
+24315675	Narciso de la Colina	4
+24315678	Leoncio Prado	2
+24315744	Bolivar	5
+24315745	Psj Sucre	1
+24315747	Psj. San Martin	1
+24315749	Santa Isabel	4
+24315751	San Fernando	8
+24315753	Reducto	8
+24315764	Reducto	1
+24315768	Leonidas Avendanio	1
+24315769	Acacias	2
+24315770	Samuel Marquez	2
+24315771	Retes	2
+24315773	Tejada	1
+24315783	28 de Julio	1
+24315794	Av. 28 de Julio	6
+24315805	Benavides	1
+24315806	Benavides	1
+24315810	OVALO LOS CABITOS	12
+24315812	Benavides	1
+24315813	Benavides	1
+24315814	Benavides	1
+24315819	Avenida Alfredo Benavides	24
+24315832	Alfredo Benavides	8
+24315836	Avenida Alfredo Benavides	26
+24315868	Bartolome Trujillo	5
+24315907	Ramon Rebeyro	2
+24315940	Casimiro Ulloa	5
+24315952	Roca y Bolona	13
+24315984	Ortiz de Savallo	2
+24315985	Fernandez	2
+24315986	Jara	1
+24315987	Alcocer	1
+24315990	Enrique del Campo	2
+24315991	Martin Dulante	1
+24315992	R Trujillo	3
+24315993	Bartolome Trujillo	1
+24315994	Bartolome Trujillo	1
+24315995	Arias Araguez	8
+24315996	Franciso de Paula Ugarrize	11
+24315998	San Antonio	1
+24315999	Av Ricardo Palma	9
+24316000	Av Ricardo Palma	8
+24316010	Francisco de Castillo	7
+24316013	Miota	5
+24316032	Enrique del Horme	2
+24316034	Dulanto	2
+24316035	Sasone	3
+24316062	Quebrada de Armendariz	4
+24316072	Reducto	5
+24316073	Reducto	1
+24316078	Reducto	2
+24331950	General Ernesto Montane	7
+24331955	Paul Rivet	5
+24331959	Genaro Castro Iglesias	13
+24331960	Pedro Venturo	9
+24331964	Ramon Castilla	2
+24331966	Ramon Castilla	2
+24331968	Lola Pardo	2
+24331971	Lola Pardo	4
+24331975	Manuel Almenara	10
+24331977	Paul Rivet	1
+24331979	Paul Rivet	1
+24331985	Costa Rica	1
+24331988	Guatemala	1
+24331996	25 de mayo	4
+24332001	Villegas	1
+24332003	Angulo	1
+24332007	Manuel Villaran	1
+24332010	Manuel Villaran	1
+24332019	Mayor Arce de la Oliva	5
+24332023	Acuna	1
+24332025	Cmdt. J. Roman	1
+24332029	Juan Jose Calle	7
+24332061	Sergio Bernales	8
+24332076	Sergio Bernales	5
+24332100	Victor Oleachea	4
+24332104	VICTOR MAURTUA	1
+24332120	Alejandro Deustua	8
+24332130	Brent	2
+24332162	Pacayar	2
+24332171	San Lorenzo	7
+24332203	San Felipe	15
+24332204	Fernando Alzamora	9
+24332205	Rizo Patron	2
+24332210	Julian Sandoval	2
+24332215	San Carlos	8
+24332223	Santa Ines	4
+24332224	Gomez	4
+24332226	Durand	3
+24332263	San Carlos	2
+24332264	El Carmen	10
+24332265	SANTA LUCIA	1
+24332267	San Fernando	8
+24332309	San Lorenzo	4
+24332322	San Lorenzo	3
+24332409	Del Parque Sur	25
+24332414	Av. Aramburú	13
+24332449	Halcones	5
+24332454	los paujiles	4
+24332455	las gaviotas	3
+24332457	LAs Torcazas	1
+24332465	c. Las Perdices	8
+24332466	Negocios	2
+24332531	Paseo de la República	17
+24332559	las palomas	10
+24332562	Las Garzas	5
+24332584	Los Canarios	1
+24332601	Los Fiaisanes	4
+24332612	Prolongacion los Cuculies	3
+24332614	Los Quetzales	2
+24332616	Prol. Kiwi	1
+24332618	Los Ruiseñores	2
+24332657	Los Pelicanos	1
+24332660	Los Gavilanes	5
+24332662	Los Gorriones	1
+24332678	Del Parque	4
+24332682	Del Parque	4
+24332689	Halcones	2
+24332695	Los Tucanes	3
+24332707	Los Colibries	1
+24332708	Flamencos	2
+24332726	c. Las Golondrinas	6
+24551967	15 - Panamericana Sur	1
+24551968	1S - Panamericana Sur	4
+24551979	Antigua Panamericana Sur	4
+25111783	Av. Santa Elvira	9
+25111799	Av. Santa Elvira	14
+25111821	Av. Central	17
+25112316	Independencia	1
+25112346	Av. Ferrocarril	27
+25112361	Av. José Carlos Mariátegui	17
+25112375	Rio Rimac	11
+25112385	La Atarjea	3
+25112389	La Atarjea	6
+25112392	Los Puquiales	6
+25112398	Agua Dulce	5
+25112409	Rio Blanco	8
+25113196	Av. Marañon	20
+25113198	Av. Marañon	27
+25113263	Cipianon Ruiz	2
+25113269	Emilio de Los Rios	3
+25113273	Blondet	7
+25113283	Manuel Trelles	1
+25113291	Antonio Moreno	4
+25113292	Cipriano Ruiz	3
+25113313	Mariano Benavides	4
+25113322	Calle Miguel Ortiz	6
+25113326	Aristides	4
+25113329	Simon Grados	1
+25113342	Pedro Helmes	6
+25113347	Rio PaucarTambo	7
+25113410	Rio Huaura	2
+25113411	Rio Lurin	3
+25113417	Tarica	2
+25113427	Rio Huaura	1
+25113430	Rio Chillon	2
+25113431	Pedro Helmes	4
+25113432	Rio Chicama	2
+25113433	Rio Majes	3
+25113446	Calle 1	1
+25113517	Rio Urubanba	9
+25113525	Rio Chicama	5
+25113527	Rio Blanco	5
+25113529	Rio Ucayali	1
+25113530	Rio Chira	1
+25113542	Rio Huaura	2
+25113546	Rio Paucar Tambo	2
+25113555	Tarica	3
+25113558	Manuel de La Jara	12
+25113578	Ramon Zavala	2
+25113579	Ricardo Odonovan	2
+25113581	Justo Arias	4
+25113593	Piras	6
+25113596	Marca	3
+25113602	El Zinc	4
+25113618	Av. Los Alisos	21
+25113654	Gerardo Unger	5
+25113705	Avenida A	18
+25113708	Avenida A	13
+25113715	Los Olivos	41
+25113731	Av. Carlos Alberto Izaguirre	25
+25113781	22 de Agosto	14
+25113794	22 De Agosto	17
+25113808	Av. Carabayllo	25
+25113817	Maestro Peruano	9
+25113820	Maestro Peruano	13
+25113831	Rosa de America	9
+25113859	Alfedo Mendiola	2
+25113861	Los Hornos	3
+25113895	1C - Ruta 1C	3
+25113907	JULIO CESAR TELLO	2
+25113909	JULIO CESAR TELLO	8
+25113980	Alejandro Bertello Bollati	9
+25113984	Elmer Faucett	1
+25113992	Alejandro Bertello Bollati	13
+25113998	Av. Bocanegra	16
+25114000	Av. Pacasmayo	38
+25114001	Av. Pacasmayo	37
+25137819	Av. Mexico	19
+25137853	Av. Mexico	19
+25137971	25 de Enero	4
+25137976	25 de Enero	5
+25137993	Alfredo Mendiola	14
+25138011	2 de Octubre	1
+25138023	Gerardo Unger	15
+25138061	San Carlos	4
+25138076	Santa Angelica	4
+25138104	Santa Marina	4
+25138105	Santa Leonor	6
+25138108	Santa Marina	4
+25138111	Santa Monica	5
+25138142	Rosa de America	5
+25138203	San Andes	3
+25138243	LIBERTAD	29
+25138592	Los Escritores	3
+25138594	Industrias Unidas	8
+25138738	LAS GARZAS	4
+25138757	LOS INGENIEROS	8
+25138874	LOS ASTRONOMOS	4
+25138933	LOS SANITARIOS	6
+25139011	LOS AGRONOMOS	6
+25139076	Las Garzas	1
+25139321	Eulogio Fernandini	20
+25139371	Los Portales	9
+25139372	Los Portales	6
+25139374	Av. Guillermo de la Fuente	17
+25139376	Av. Guillermo de la Fuente	21
+25139474	Av. Trapiche	22
+26359375	Olaechea	11
+26359406	Jorge Buckley	3
+26359418	Aurelio Fernandez Concha	7
+26359428	Laranaga	2
+26359443	Gerobolini	3
+26406792	1S - Panamericana Sur	4
+26406972	Prolongacion Huaylas	7
+26407080	Prolongacion Huaylas	15
+26407297	Tomas Marsano	9
+26407306	PACHACUTEC	20
+26407451	Tomas Marsano	22
+26407453	Tomas Marsano	1
+26407458	Tomas Marsano	20
+26411322	Paseo de la Republica	5
+26411329	Jirón de la Unión	6
+26411548	Av. Tomas Valle	4
+26411656	Av. Panamericana Norte	9
+26411759	Av. Panamericana Norte	27
+26411761	Av. Panamericana Norte	1
+26411773	Av. Panamericana Norte	1
+26412848	Panamericana Norte	43
+27455207	Henado de Magallanes	2
+27455416	Ovalo Saloom	12
+27455450	República de Venezuela	17
+27455459	República de Venezuela	20
+27455460	Gamarra	2
+27455493	Plaza Tupac Amaru	9
+27767529	Talara	16
+27767532	Huancavelica	7
+27767540	Tupac Amaru	16
+27767541	Tupac Amaru	4
+27767551	Circunvalacion	17
+27767555	Lima	23
+27767560	Calle 7	2
+27767564	De la Alameda	24
+27767565	De la Alameda	30
+27767566	Santa Rosa	5
+27767567	Santa Rosa	6
+27767571	Callejon Alejandro Granda	20
+27767572	Centenario	5
+27767579	Paseo de la Republica	4
+27767580	Ariosto Matellini	14
+27767581	Ariosto Matellini	17
+27767584	Guardia Peruana	9
+27767592	Guardia Peruana	6
+27767596	Gorriones	5
+27767598	Las Gaviotas	13
+27767600	Andromeda	3
+27877408	Morales Duarez	2
+27877433	Morales Duarez	1
+27877436	Av. Nuevo Aeropuerto	7
+27877437	Av. Nuevo Aeropuerto	7
+27877445	Enrique Meiggs	10
+27877486	Huaylas	4
+27877489	Perseo	3
+27877491	Los Gorriones	3
+27877498	LAS GAVIOTAS	1
+27898312	Av. Argentina	6
+27898313	Av. Argentina	4
+27898318	Jose Carlos Mariategui	4
+27898319	Iquitos	4
+27898320	28 de Julio	4
+27898321	Callo	8
+27898323	Lima	4
+27898324	Los Milagros	6
+27898327	Los Proceres	5
+27898329	Yahurina	2
+27898346	Avenida Argentina	33
+27898380	Guillermo Dansey	1
+27898387	Jose Carlos Mariategui	3
+27898389	Iquitos	4
+27898391	Calle Andahuaylas	3
+27925322	Avenida Nestor Gambetta	15
+27925381	Avenida Nestor Gambetta	25
+27925388	Av. Mora	18
+27925389	Av. Mora	17
+27925398	Av. Argentina	3
+27925399	Av. Argentina	4
+27925400	Paseo Garibaldi	6
+27925409	Buenos Aires	7
+27925411	Buenos Aires	22
+27925427	Alberto Secada	6
+27925428	Loreto	21
+27925431	Apurimac	10
+27925433	Paz Soldan	9
+27925444	Medina	4
+27925446	Saenz Peña	4
+27925448	Moore	4
+27925450	Larco	4
+27925453	Garcia y Garcia	4
+27925457	Palacios	3
+27925460	Ferre	3
+27925462	Elias Aguirre	3
+27925468	Valle	3
+27925469	Jorge Chavez	8
+27925470	Manco Capac	10
+27925478	Manco Capac	6
+27925479	Roca	5
+27925480	Ucayali	7
+27925481	Chanchamayo	6
+27925485	Titicaca	5
+27925486	Gamarrita	1
+27925492	Estados Unidos	5
+27925493	Estados Unidos	4
+27925495	Fanning	2
+27925501	Ancash	13
+27925502	Pedro Ruiz	9
+27925503	Washington	9
+27925509	Marco Polo	7
+27945258	Republica de Panama	11
+27945261	Republica de Panama	11
+27945264	Supe	12
+27945267	Federico Fernandini	3
+27945269	Chachapoyas	6
+27945277	Garcia Calderon	9
+27945280	Parque Castilla	4
+27945286	Atahualpa	6
+27945301	Daniel Nieto	4
+27945311	Guadalupe	14
+27945312	Segunda	10
+27945317	Alfredo Palacios	10
+27945318	Alfredo Palacios	10
+27945319	Luis Perez Salmon	16
+28061399	Plaza Guardia Chalaca	8
+28061447	Plaza Jorge Chavez	8
+28061458	Avenida 28 de Julio	6
+28061538	PASEO PRESIDENTE BILLINGHURST	10
+28061543	Malecon Miguel	4
+28166599	Arica	11
+28166626	Comandante Ladislao Espinar	11
+28166683	Colina	7
+28166709	Galvez	6
+28185144	Jose Galvez	21
+28185148	Colina	2
+28185152	Colina	4
+28185157	Avenida Juan Pablo II	5
+28185170	Francisco Forcelledo	6
+28185186	Av. La Libertad	43
+28185191	Alfonso Ugarte	16
+28185201	Francisco Bolognesi	17
+28185204	Carlos de los Heros	8
+28185208	Los Topacios	6
+28185211	Perez Salmon	3
+28185248	Avenida 2	9
+28185271	Haya de la Torre	1
+28185277	Victor Raul Haya de la Torre	19
+28185387	Pedro De Osma	6
+28185390	Alejandro Iglesias	16
+28185408	Fernando Teran	14
+28185415	FERNANDO TERAN	4
+28185420	Emilio Sandoval	9
+28185449	El Sol	11
+28185452	EL SOL	4
+28185503	Guardia Civil	5
+28185509	Guardia Civil	7
+28185515	Los Faisanes	12
+28185550	Andromeda	2
+28185554	Los Pumas	11
+28185556	Guardia Peruana	6
+28224174	Avenida Brasil	49
+28290634	Avenida 1	9
+28316933	Avenida Zorritos	16
+28316936	Cornelio Borda	2
+28316968	Coronel Miguel Baquero	4
+28316972	Ascope	8
+28316976	Cornelio Borda	1
+28316983	Huarochiri	5
+28316999	Moquegua	5
+28317001	Moquegua	2
+28317005	Moquegua	2
+28317014	Andromeda	9
+28317019	Los Labradores	4
+28317021	Los Poetas	6
+28317022	Las Capironas	6
+28317038	Los Zungaros	7
+28317043	Manuel Raygada	9
+28317048	Los Manglares	9
+28317060	Los Cipreces	2
+28317065	Los Huarangos	2
+28317084	Los Tumbos	4
+28317099	Los Venados	4
+28317146	"CESAR CANEVARO	RAMON VARGAS MACHUCA"	4
+28707078	Av. Circunvalacion	10
+28707122	Via de Evitamiento	3
+28707150	Javier Prado Este	27
+28707195	Mariscal Caceres	3
+28707248	Jr. Lampa	8
+28707251	Jr. Moquegua	5
+28707263	Jr. Carabaya	13
+28707264	Ancash	4
+28746522	Paseo la Castellana	7
+28746524	Paseo la Castellana	7
+28746541	Av. Aviación	46
+28746572	Los Tallanes	10
+28746575	Mariscal Ramon Castilla	12
+28746604	Surco	6
+28746607	Surco	6
+28746625	Marques de Guadalcazar	2
+28746662	SAN JUAN	3
+28746962	Avenida Benavides	2
+28796818	Aviacion	13
+28796823	Avenida San Borja Sur	21
+28796827	Avenida del Parque Norte	11
+28796851	Pablo Carriquirry	11
+28796858	Av. Pablo Carriquirry	14
+28797170	Galvez Barrenechea	5
+28797245	Avenida Guardia Civil	1
+28797249	Avenida Guardia Civil	1
+28797435	Av. Circunvalacion	5
+28797533	Parque Union Panamericana	13
+28797555	Los Diamantes	14
+28797604	Av. Almirante Miguel Grau	25
+28797613	Av. Almirante Miguel Grau	4
+28798001	Nicolás de Piérola	5
+28798076	Paseo de la Republica	6
+28798134	Paseo de la República	44
+28798203	Republica de Panama	54
+28798226	Escuela Militar	4
+28798238	Grau	2
+28798245	Grau	2
+28798247	Pierola	1
+28798267	Republica de Panama	10
+28798270	Republica de Panama	4
+28798284	Balta	2
+28798380	Nicolas Arriola	13
+28798397	Nicolas Arriola	10
+28798554	Ramiro Priale	6
+28811039	Jorge Chavez	16
+28811042	Jorge Chavez	17
+28811052	San Juan	5
+28811075	Doña Delmira	6
+28811080	Fernando Faustor	9
+28815017	Avenida Brasil	46
+28815022	Guzman Blanco	5
+28815024	Guzman Blanco	5
+28815044	Plaza de la Bandera	11
+28815131	Avenida Simon Bolivar	32
+28815142	Avenida Simon Bolivar	34
+28815150	Avenida Mariano Cornejo	21
+28815160	Avenida Mariano Cornejo	15
+28815168	Avenida José de San Martín	8
+28815173	Avenida Mariano Cornejo	13
+28815181	Avenida Mariano Cornejo	9
+28815196	Avenida Tingo Maria	4
+28815869	Av. Sucre	7
+28815877	Gonzales Pavon	5
+28815881	Av. Sucre	7
+28815951	Avenida Sucre	26
+28816099	Avenida Arica	14
+28816148	Av. Naciones Unidas	12
+28816175	Avenida Zorritos	15
+28816187	Av. Naciones Unidas	9
+28866277	Santa Rosa	10
+28866332	El Sol	5
+28866346	Los Diamantes	8
+28866352	Mariscal Oscar Raul Benavides	4
+28866354	Calle 2B	2
+28866356	Pio XII	10
+28866358	Pio XII	11
+28866369	Grito de Huaura	8
+28866373	Punchauca	1
+28866387	Parque de las Leyendas	9
+28866408	Parque de las Leyendas	5
+28866415	Monseñor Jorge Dintilhac	13
+28866424	José de la Riva Agüero	24
+28866487	"CESAR CANEVARO	GUILLERMO BILLINGHURST"	4
+28866513	San Juan	10
+28866519	San Juan	13
+28866531	Harold Crown	2
+28866533	Donald Douglas	1
+28866537	Los Algarrobos	2
+28866538	Samanes	2
+28866540	Jacarandá	1
+29874531	Av. Santa Rosa	12
+30102310	Av. Faucett	1
+30103058	Carretera Central	62
+30103089	Carretera Central	34
+30103220	Via de Evitamiento	6
+30103262	Av. Caqueta	3
+30103263	Av. Caqueta	1
+30103301	Av. Caqueta	1
+31274135	Avenida Juan Pablo II	2
+31274142	Avenida Juan Pablo II	4
+31274161	Avenida Juan Pablo II	6
+31274229	Juan Ferrari	1
+31274239	Paseo de la Republica	7
+32482186	Montevideo	2
+32482188	Uruguay	6
+32482198	Marañon	3
+32482206	Ica	1
+32482207	Puno	12
+32482211	Cochrane	11
+32775468	Batallion Tarma	10
+32775522	San Juan	17
+32847082	Honestidad	5
+32847083	La Prosperidad	2
+32874210	Moore	7
+32874211	Miraflores	4
+32944209	Avenida Armendariz	6
+32944668	Juan de la Fuente	13
+32944688	Tomas Marsano	8
+32944702	Tomas Marsano	12
+32968954	Los Bardos	1
+32968974	Los Pintores	2
+32968976	Los Carrizos	2
+32968982	Bartola Sanchez Dávila	2
+32968986	Karmanduka	2
+32968988	MAXIMO ALVARADO	6
+32969123	LIMA	6
+32969274	Pedro De Osma	7
+32969467	Pedro De Osma	7
+33231718	Mariano Odicio	9
+33232017	Ramires Gaston	4
+33232031	Ramires Gaston	4
+33232043	Ramires Gaston	1
+33232095	Ramires Gaston	1
+33232199	Ramires Gaston	2
+33232472	Av Ricardo Palma	1
+33232480	Av Ricardo Palma	1
+33232585	Paseo de la República	4
+33232615	Paseo de la Republica	8
+33232793	15 de Enero	4
+33232882	Jose Gabriel Chariarse	7
+33232949	Paseo de la Republica	1
+33233041	Casimiro Ulloa	6
+33233052	Roca y Bolona	15
+33233443	Tomas Marsano	6
+33233449	Cap. A Gutierrez	2
+33233460	Marco Jara Scheone	3
+33235185	Vera Collahanzo	2
+33235241	Los Capulies	6
+33236626	Los Capulies	1
+33236737	Sido Yenuri Chihuala	3
+33236876	Garcia	3
+33236908	Cmd. Schennone	2
+33236954	Escudero	5
+33237043	Philips Cuba	3
+33237092	Neizer Llacsa Arce	2
+33237144	Castillo	1
+33237179	Cruz Huarcaya	2
+33237346	Javier Heraud	4
+33237418	Fresas	3
+33237456	Caballero	3
+33237511	Rodriguez	2
+33237561	Begazo	1
+33237640	Gomez	3
+33237657	Carlos Garcia Bedoya	1
+33237840	Carlos Garcia Bedoya	3
+33237868	Leguia	2
+33237935	Leguia	1
+33238033	Aparicio Gemoz Sanchez	5
+33238115	Bruno Moll	1
+33238142	Minchan	2
+33287727	General Manuel Vivanco	7
+33471235	Bondy	3
+33471236	Diego Aguero	7
+33471420	Costanera	53
+33471421	Diego Quispe Tito	1
+33528402	Bajada Circuito De Playas	2
+33587110	Alameda San Marcos	6
+33686179	Calle Grau	9
+33750174	Fresas	8
+33750230	Av. Thomas Marsano	8
+33750248	Moras	5
+33750265	Vinas	3
+33750328	Arias Roblrs	2
+33750387	Arias R	1
+33750615	Los Capulies	8
+33750637	Victor Maldonado Begazo	6
+33750694	Banda y Rivero	2
+33750723	Cotrina	2
+33750731	Bendezu	1
+33750819	Gladiolos	5
+33750851	Arias Schreiber	5
+33750866	Melonar	1
+33750983	Jose Sabogal	8
+33751190	Jorge Guillermo Legula	5
+33751213	Barreto	1
+33751287	Jose A. Lavalle	4
+33751295	Salvador Gutierrez	9
+33751531	Av. La Merced	1
+33751740	Av. La Merced	9
+33751836	Piacencia	3
+33751861	Ciro Alegria	7
+33751887	Qinones	1
+33751929	Aljovin	9
+33752017	Rosales	9
+33752086	Geranios	8
+33752093	Freyre	3
+33752113	Azucenas	3
+33752138	Augusto Angulo	3
+33752218	Ignacio La Puente	4
+33752245	Cahuide	2
+33752257	Salguero	13
+33752270	Kenko	1
+33752299	Carlos Baca Flor	7
+33752303	Carlos Baca Flor	1
+33752349	San Tadeo	5
+33752381	Jose Sabogal	7
+33752401	HENRY REVETT	5
+33752442	B de las Casas	7
+33752475	Jara y Ureta	6
+33752498	Guadelajara	2
+33752514	Del Pozo	2
+33752524	Merida	4
+33752546	Diego Quipe Tito	2
+33752561	Virgen de las Mercedes	1
+33752708	Fray Francisco de Bejarano	3
+33752747	Santa Camela	4
+33752759	Arturo Lecca	2
+33752778	Miguel Aljovin	2
+33752824	Irma Gamero De Planas	7
+33752874	Yirogoyen Diez Canseco	4
+33752888	Honduras	4
+33752904	Magan	1
+33752922	28 de Julio	6
+33752924	28 de Julio	6
+33752952	Nicaragua	1
+33752999	Ruben Dario	2
+33782408	Cisneros	1
+33782588	Gonzales	2
+33782799	General Silva	10
+33783323	Venecia	3
+33783335	Elias Aguirre	8
+33783495	Av. Comandante Espinar	10
+33783509	Jorge Chavez	2
+33783535	Bardelli	7
+33783589	Tupac Amaru	1
+33783718	José Olaya	1
+33783721	Pardo	1
+33783780	MIGUEL DE ARCE	1
+33783824	Jr. Bolognesi	5
+33783832	General Pershing	3
+33783846	Teniente Enrique Palacios	8
+33784398	Velasco Astete	40
+33784456	Velasco Astete	38
+33784606	Avenida Caminos del Inca	40
+33817340	Domingo Elias	4
+33817352	Lizardo Montero	4
+33817362	General Borgoño	7
+33817380	Elias Aguirre	7
+33817387	Junin	4
+33817406	Salaverry	4
+33817538	Domingo Orue	12
+33817596	Carlos Tenaud	4
+33817614	Scipion Llona	4
+33817650	Sevilla	4
+33817669	Rio de Janeiro	2
+33818372	Avenida Benavides	1
+33818419	Tomas Marsano	1
+33818441	Tomas Marsano	1
+33820128	Sor Tita	6
+33820132	Santa Carmen	2
+33820149	San Andres	1
+33820163	Sor Mate	5
+33820166	4	1
+33820170	Pajaten	5
+33820196	Vilcamayo	2
+33820214	Marcahuasi	1
+33820219	Tantamayo	4
+33820247	Capitan E. Gutierrez Rondon	2
+33820284	Punta Sal	7
+33820326	Escorial	3
+33820491	Alcala	9
+33820506	Paseo Rosales	2
+33820512	Hermanos Quintero	1
+33820518	Huaroc	6
+33820524	Tajuana	1
+33820544	Manglares	2
+33820561	Pisac	2
+33820580	Pucara Huaca Prieta	4
+33820651	Lauricocha	4
+33820657	Carlos Baca Flor	4
+33820664	Santa Dora	1
+33820689	Cumbe Mayo	2
+33820693	Otuzco	1
+34089748	Recoletos	1
+34089764	Alcazar	3
+34089799	Braganza	1
+34089806	Zaragoza	1
+34089832	Puerta de Sol	3
+34089834	Vicus	13
+34089835	Macarena	1
+34089836	Vicus	19
+34089837	Preciados	1
+34089858	Vieja Castilla	6
+34089859	Vieja Castilla	1
+34089863	Carabanchel	1
+34089866	Torremolinos	3
+34089869	Rompelanzas	1
+34089885	EL Galeón	6
+34089897	Atocha	1
+34089899	El Mastil	2
+34089908	Tomas Marsano	1
+34089918	Tutumo	3
+34089920	Denegri	2
+34089989	Carlos Tenaud	1
+34089993	Montoya	1
+34089994	Aguirre.	1
+34090005	Capitan Fernando Castrat	4
+34109953	Alfredo Franco	2
+34109957	Victor Mostro	1
+34109988	Luis La puerta	5
+34109995	Cesar Concha	1
+34109999	Cedros	1
+34110004	Juan Pezet	2
+34110007	Guillermo Peratta	2
+34110043	Nicolas de Pierola	3
+34110098	David Roca Varea	11
+34110125	NICOLAS DE PIEROLA	3
+34110280	Carolinos	3
+34110301	Mallecon de la Reserva	1
+34110351	Malecon Diez Canseco	2
+34110402	Malecon Pazos	1
+34110850	Ca. Las Mimosas	2
+34111152	Magnolias	2
+34111161	Martinto	3
+34111202	Tacna	5
+34111255	Perez Roca	4
+34111272	Saenz Peña	1
+34111280	Saenz Peña	4
+34111283	Saenz Peña	1
+34111312	Tacna	1
+34111320	Zegara	2
+34111340	Junin	6
+34111352	Colina	2
+34111392	San Martín	4
+34111512	Silva	4
+34111517	Dasso Fanning	4
+34111528	JUAN VENTURA AGUIRRE	4
+34111621	Pereyra	5
+34111634	Vidaurre	4
+34111693	Valle	5
+34111707	Enrique Deluchi	4
+34111710	Cabada	8
+34111740	Elguera	8
+34111777	Tumay	2
+34111785	Jaen	4
+34111857	Tumbes	3
+34111861	Condesita	4
+34111863	El Sol	1
+34111922	Pedro Salazar	3
+34111930	Bustamente	1
+34111969	Catalino Miranda	7
+34111984	28 de julio	2
+34111987	El Sol	17
+34112004	Pedro Heraud	5
+34112011	Palmera	1
+34112030	Progresso	5
+34112136	Garcia y Garcia	10
+34112147	Samame	3
+34112311	Camuco	6
+34112326	Miguel Grau	3
+34112340	Mendoza	9
+34112358	CALLE 2	1
+34112408	Calle 15	6
+34112428	CALLE 4	1
+34112432	Calle 17	5
+34112444	Calle 3	4
+34112450	Camuco	2
+34112637	Huascar	7
+34112819	San Pedro	17
+34112998	Pasaje Praga	1
+34113029	Pedro Ruiz	2
+34113039	Juan Rivero	2
+34113071	Del Parque Sur	12
+34113259	Galvez Barrenechea	1
+34113297	Avenida Guardia Civil	8
+34113342	"Av. Galvez Barrenechea	 Avenida Principal"	10
+34113354	Galvez Barrenechea	1
+34113508	Avenida San Borja Sur	18
+34113599	Avenida San Borja Sur	1
+34113617	Del Parque Sur	1
+34113660	Avenida San Borja Norte	16
+34113669	Avenida San Borja Norte	3
+34113703	Avenida El Derby	2
+34113720	Avenida El Derby	2
+34113725	Buena Vista	1
+34113726	Buena Vista	1
+34113728	Buena Vista	4
+34113731	Buena Vista	3
+34113743	Bielovucic Cavalier	6
+34113748	Bielovucic Cavalier	5
+34187977	Esmerlada	4
+34187993	Esmeralda	2
+34188004	Avenida de la Floresta	2
+34188007	Avenida de la Floresta	4
+34188011	Avenida de la Floresta	1
+34188135	Intihuatana	12
+34188149	Manuel Villaran	20
+34188150	Manuel Villaran	22
+34188297	Pedro Venturo	11
+34188300	Pedro Venturo	13
+34188321	Higuereta	10
+34188323	Higuereta	10
+34188355	Angamos Oeste	20
+34188372	Angamos Oeste	15
+34188373	Caminos del Inca	2
+34188374	Caminos del Inca	2
+34188387	San Luis	22
+34188401	San Luis	20
+34188452	Puente Jose Quiñones	1
+34188453	Puente Jose Quiñones	1
+34188461	Avenida Principal	3
+34188463	Avenida Principal	5
+34188561	Avenida Principal	1
+34188598	Javier Prado Este	1
+34188608	Javier Prado Este	1
+34188625	Avenida Guardia Civil	1
+34188627	Avenida Guardia Civil	1
+34188631	Avenida Guardia Civil	7
+34188633	Avenida Guardia Civil	9
+34188651	Avenida del Aire	22
+34188686	Lima Polo	2
+34188687	Avenida El Derby	5
+34188689	Lima Polo Hunt	2
+34188690	Avenida El Derby	8
+34188716	Avenida El Polo	9
+34188719	Av. El Golf de los Incas	11
+34188756	Av. Raúl Ferrero	7
+34334532	Avenida Encalada	5
+34334593	Avenida Encalada	17
+34334621	Angamos Oeste	40
+34334622	Angamos oeste	2
+34334628	Angamos oeste	3
+34334653	Central	14
+34334772	Central	9
+34334779	Angamos oeste	13
+34334780	Los Alamos	1
+34334787	Los Alamos	9
+34334788	Los Alamos	1
+34334993	Avenida Manuel Olguin	5
+34335020	Avenida Las Palmeras	8
+34335095	Avenida Las Palmeras	10
+34401708	Loreto	4
+34401709	Alfonso Ugarte	2
+34401717	Libertad	4
+34401721	Cusco	3
+34401731	Tumbes	6
+34401733	Callao	5
+34401736	Arequipa	2
+34401792	Apurimac	2
+34401796	Cajamarca	2
+34401799	Huaraz	2
+34401809	Ica	13
+34401810	Junin	5
+34401811	Huancayo	7
+34401812	Tacna	4
+34401813	Ayacucho	6
+34401814	2 de Mayo	7
+34577153	Olmos	1
+34577155	Jose Maria Arguedas	2
+34577159	Ancash	2
+34577161	Ollantay	2
+34577180	Madre de Dios	2
+34577182	Moyobamba	1
+34577186	Tarapoto	2
+34577187	Talara	1
+34577189	TALARA	1
+34577249	Moquegua	3
+34577342	Piura	5
+34577365	19 de Enero	1
+34861547	Avenida Canada	45
+34861550	Palermo	4
+34861551	Palermo	4
+34861555	Los Zafiros	1
+34861561	Los Rubies	3
+34861778	Chulucanas	9
+34861781	Mariscal Ramón Castilla	13
+34861782	Sullana	2
+34861784	Catacaos	4
+34861785	Nazca	2
+34861828	Tarma	2
+34861846	Moquegua	1
+34862349	La Plata	4
+34862491	Ayabaca	3
+34862536	Miramar	1
+34862622	Jaspampa	7
+34862839	Luis Prado	2
+34862869	Ciro Alegria	3
+34862960	Ricardo Palma	1
+34863040	Jose Maria Eguren	5
+34863159	Calle 5	5
+34863199	Luis Pardo	2
+34906339	Brasil	11
+34906375	Alfonso Ugarte	5
+34906402	Arica	7
+34906732	Cmdte Ladislao Espinar	3
+34906787	Manuel Estacio	3
+34906831	Virginia Candamo de la Fuente	5
+34907078	Los Eucaliptos	9
+34907335	Los Amancaes	13
+34997000	-	1
+34997001	-	1
+34997016	-	1
+34997037	-	4
+34997044	Tomas Marsano	2
+34997047	Tomas Marsano	1
+34997048	Tomas Marsano	1
+34997049	LOS HEROES	12
+34997078	-	1
+34998352	-	2
+34998388	-	1
+34998401	-	4
+34998413	-	1
+35068824	Javier Prado Este	2
+35068944	Las Castañitas	2
+35069059	Javier Prado Este	26
+35069061	San Luis	1
+35069062	San Luis	21
+35069333	Jr. Rufino Torrico	5
+35069336	Alfredo Franco	7
+35069337	Enrique Leon Garcia	4
+35069338	Manuel Vicente Villarán	3
+35069362	Galicia	1
+35090735	Avenida La Fontana	2
+35090736	Avenida La Fontana	4
+35090737	Avenida La Fontana	6
+35090738	Avenida La Fontana	9
+35090742	Avenida La Fontana	14
+35090743	Avenida La Universidad	4
+35090744	Avenida La Universidad	3
+35090747	Av. La Universidad	18
+35090749	Ovalo Mariscal Caceres	6
+35090750	Flora Tristan	2
+35090789	Av. Raúl Ferrero	18
+35101887	Paseo de la República	8
+35101892	Los Jaspes	3
+35102258	Alberto Barton	12
+35102260	Jose Bazzochi	3
+35102262	Max Gonzales Olaechea	3
+35102263	Ricardo Flores	3
+35102265	Julian Arce	4
+35102266	Francisco Almenara	4
+35102267	Julio Faldini	1
+35102268	Oswaldo Hercelles	3
+35106615	Esteban Campodinico	9
+35106619	Miguel Checa	6
+35106620	Pascual Saco Oliveros	9
+35106624	Manuel Arrisueño	5
+35106625	Antonion de Zela	2
+35106629	Manuel Vildoso	4
+35106630	Pedro Bertonelli	2
+35116252	Parque Coronel Luna y Peralta	1
+35116254	Juan Voto Bernales	8
+35116257	Jose de Rivadeneyra	5
+35116260	Raimundo Carcamo	4
+35116262	José Choquehuanca	3
+35116266	Astete	1
+35116267	General Ayala	1
+35116338	Nicolas Arriola	3
+35116339	Jose de Rivadeneyra	4
+35116341	Luis Espejo	10
+35116342	Patricio Ariarte	3
+35116345	Manzanares	1
+35116347	Nicolas Arriola	6
+35116348	Solidaridad	1
+35116349	Solidaridad	1
+35116488	Prolongacion Parinacochas	22
+35116489	Prolongacion Parinacochas	20
+35116490	Coronel Casimiro Negro	4
+35116492	Jose M. Cortez	3
+35116493	Nicolas de la Barra	3
+35116494	Santiago Cardenas	2
+35116495	José Sonnoni	5
+35116496	Bateria Maipu	6
+35116498	Federico Barreto	4
+35116499	Torre la Merced	4
+35116500	Bateria Maipu	4
+35116501	Bateria Independencia	4
+35116504	Juan Bujanda	3
+35116505	Juan Carlos Vizcardo y Guzmán	4
+35139450	Carlos Lopez Aldana	5
+35139459	Lamas	6
+35139461	Moyobamba	11
+35139462	Miguel Frias	1
+35139463	Calle 2	1
+35139464	Calle 1	2
+35139465	Juan Cardenas	3
+35139466	Rioja	1
+35139467	Rioja	2
+35139471	JuanJui	3
+35139472	Carlos Gutierrez	4
+35139891	Federico Barreto	4
+35139892	Jose Maria Corbacho	1
+35139893	Manuel Toribio Ureta	1
+35139894	Miguel Dasso	2
+35139895	Juan Castro	3
+35139896	Manuel Toribio Ureta	1
+35139897	Prolongación Lucanas	2
+35139901	Miguel Dasso	3
+35139903	Las Americas	5
+35139904	Las Americas	5
+35139913	Juan Castro	4
+35139917	Benito Parto Figueroa	2
+35139918	Mariano Aragonés	4
+35139919	Julio Villegas	1
+35139921	Prol. Lucanas	2
+35139923	Ignacio Cossio	2
+35139925	Ingnacio Cossio	1
+35140114	Ignacio Cossio	4
+35140126	Prolongación Huánuco	5
+35140127	Jorge Cuba	2
+35140129	Rodolfo del Campo	3
+35140130	Antonio Bazo	4
+35140133	Huaylas	1
+35140135	Jaime Garza	1
+35140136	Ingnacio Cossio	8
+35140139	Calle 1	1
+35170425	Euler	7
+35170427	Monge	2
+35170428	Fleming	5
+35170429	Dalton	4
+35170433	Isaac Albeniz	3
+35170434	Marchand	5
+35170438	Francesco Redi	6
+35170440	torriceli	3
+35170443	James joule	3
+35170444	Gozzoli Norte	9
+35170445	Eduardo Ordoñez	3
+35170632	Copernico	2
+35172844	Philipp Von Leonard	5
+35172847	Barajas	8
+35172850	Ca. Mercator	10
+35173301	Marchand	11
+35173500	Tasso	9
+35173527	Españoleto	3
+35173531	Rodin	1
+35173532	Pirandello	9
+35173534	Duccio	1
+35173538	Pisano	2
+35173543	Perugino	7
+35186063	18 DE ENERO	4
+35186064	La Victoria	3
+35186065	Juan Jimenes Valdez	4
+35186066	20 de Agosto	5
+35186067	Jesus Alberto Paez	7
+35186068	1 de Mayo	3
+35186069	Ancash	3
+35186074	1 de Mayo	4
+35186075	20 de Octubre	4
+35186077	Morales Duarez	23
+35186079	Jorge Chavez	6
+35186081	Arequipa	8
+35186082	Arequipa	7
+35186083	Piura	2
+35186095	Huanuco	2
+35186097	San Matin	5
+35186098	Huanuco	3
+35186103	Azangaro	1
+35186104	Mariscal Ramon Castilla	6
+35186106	Calle C	9
+35338993	Pamplona	1
+35338994	Conde De La Vega	4
+35338995	Monte Mayor	2
+35338996	Monte Real	11
+35338997	Cadiz	7
+35338998	Julio Verne	1
+35338999	Obregon	5
+35339000	Mariel	4
+35339003	Marcona	7
+35339004	Oscar Chocano	7
+35339006	Escorza Manuel	5
+35339007	Galeano	8
+35339008	Monte Umbroso	13
+35339009	Monte Flor	6
+35339010	Monte Blanco	4
+35339012	Cruz Del Sur	4
+35339014	Salazar Bondy	2
+35339015	Calle B	3
+35339016	Calle B	1
+35339017	Navarra	8
+35339018	Monte Carmelo	11
+35339019	Calle L	1
+35339020	Ayacucho	18
+35339021	Monte Sierpe	2
+35339022	Preciados	4
+35339023	Aviadores	3
+35339024	Avenida	6
+35339025	Calle	3
+35339026	La Niña	4
+35339027	Monte Carlo	3
+35339028	Preciados	1
+35339031	Libres De Trujillo	6
+35451261	Calle 5	5
+35451262	Calle 1	4
+35451271	1 de Octubre	2
+35451281	Calle A	2
+35451282	Calle 4	5
+35451283	Calle B	2
+35451291	20 DE OCTUBRE	1
+35451294	Andres Avelino Caceres	2
+35451297	Prol. Arequipa	6
+35451299	Castilla	1
+35451310	Mariscal Ramon Castilla	4
+35451311	Francisco Bolognesi	9
+35451368	Ancash	4
+35451369	28 deJulio	4
+35451375	Almirante Miguel Grau	7
+35451376	Tacna	5
+35451406	Junin	9
+35451411	Chota	4
+35451414	Callao	4
+35451417	San Martin	5
+35451419	Huanuco	9
+35451434	Moquegua	2
+35451435	Nazca	1
+35451496	Micaela Bastidas	2
+35451500	Los Alamos	11
+35486851	Alberto Montellanos	9
+35486853	3 de Febrero	10
+35486854	Teofilo Castillo	6
+35486855	Teofilo Castillo	4
+35486856	Teofilo Castillo	5
+35486857	Carlos Saco	6
+35486859	Jose Vinatea	3
+35486860	Jose Coronado	2
+35486863	Jose Julio Morales	3
+35486864	Enrique Barreda	4
+35486867	Nicolas Arriola	3
+35486871	Julio Rivero	6
+35486872	Enrique Barreda	1
+35486880	Jose Coronado	3
+35486882	Victor Bielich	1
+35486959	Rodolfo Espinar	8
+35486960	Manuel Ugarte Chamorro	5
+35486961	Carlos Leon Delgado	5
+35486963	Enrique Barreda	2
+35486964	Chavez Tueros	2
+35486967	Jose Julio Morales	1
+35487082	Italia	6
+35487084	3 de Febrero	10
+35487086	Pisagua	6
+35487087	Francia	4
+35487092	Mogrovejo	3
+35487496	Mogrovejo	10
+35487497	San Cristobal	11
+35487508	Italia	8
+35555582	Jr. Hipólito Unanue	33
+35555583	Sebastian Barranca	7
+35555586	Prol. Huamanga	5
+35555588	Prolongación Huamanga	6
+35555785	Manuel Cisneros	16
+35555800	Pronlongación Huamanga	8
+35555803	Juan Francisco Rivas	3
+35555804	Bélgica	3
+35555809	Francia	6
+35555835	Belisario Carrillo	2
+35555837	Edmundo Escomel	2
+35555935	Italia	6
+35556010	Prolongación Huánuco	8
+35556011	Belgica	2
+35556012	Luis Giribaldi	4
+35556013	Francia	2
+35556015	Belgica	2
+35556263	Luís Gribaldi	8
+35556264	Amèrica	11
+35556415	Jr. Humboldt	30
+35556568	Psje. San Lorenzo	4
+35556860	Jr. Francia	7
+35556872	Italia	7
+35556873	Saenz Peña	11
+35556874	San Cristobal	12
+35557000	Sebastian Barranca	12
+35557096	Av. Nicolas Arriola	2
+35557256	Jr. Parinacochas	2
+35557262	Jr. Lucanas	6
+35557263	Jr. La Mar	4
+35557264	Jr. Huamanga	2
+35557265	Jr. Cangallo	5
+35557440	Antonio Raimondi	15
+35557441	Abtao	1
+35557442	Julio Mendoza Merino	16
+35557446	Antonio Raimondi	3
+35557447	Antonio Raimondi	9
+35557449	Renovación	13
+35557450	Jr. Ayacucho	13
+35557451	Huascarán	14
+35557707	Obreros	2
+35557708	García Naranjo	38
+35557714	Antonio Raimondi	12
+35557926	Toulousse Lautrec	4
+35557928	Rafael Redon	4
+35557929	Jose Maria Sert	8
+35557930	Van de Velde	5
+35557932	Breton	8
+35557933	Carzou	2
+35557934	Durero	9
+35557935	Jean Louis Forain	3
+35565851	Severini	5
+35565853	Milet	5
+35565879	Francisco de Ribalta	3
+35565880	Alonso Del Arco	1
+35580291	Monet	1
+35580294	Verrochio	3
+35580296	Cavallini	11
+35580354	Anthon Van Dick	3
+35580356	Salvador Dali	8
+35580357	Hadraza	3
+35580358	Bartolome Bermejo	2
+35580456	Bronsino	2
+35580458	Van Gogh	2
+35580463	Kremer	4
+35580465	Crane	1
+35580466	Pissarro	2
+35580649	Chardin	3
+35580650	Brosino	9
+35580651	Poussin	8
+35580654	Los Sauces	5
+35580656	Los Sauces	2
+35580657	Av. Boulevard	4
+35580790	Javier Prado Este	5
+35580791	Dominguez	9
+35580792	Calle 7	3
+35580796	Calle 6	1
+35580797	Calle 4	1
+35580799	Calle 5	2
+35581016	Calle 2	9
+35581017	Calle 8	6
+35581019	Calle 9	6
+35581021	Calle 10	4
+35581022	Calle 3	1
+35581024	Ovalo Las Artes	4
+35581026	Velasco Astete Oeste	7
+35581027	Velasco Astete Oeste	5
+35581030	Calle 27	5
+35581031	Mac Carthy	4
+35582585	Calle 29	2
+35582587	Calle 25	2
+35582592	Calle 39	1
+35600641	Mac Mahon	4
+35600642	Calle D	2
+35600644	Eduardo Ford	2
+35600646	Talavera	1
+35600693	Rousseau	13
+35600696	El Greco	6
+35600697	Andrea del Sarto	3
+35600698	Maurice Urtillo	4
+35600846	Bottger	3
+35600850	Calle 1	1
+35600854	Preising	1
+35600856	Claude Monteverdi	3
+35600857	Claude Debussy	1
+35600932	Juan Gris	6
+35600933	Amadeo Mozart	2
+35600934	Franz Schubert	10
+35600935	Bethoven	4
+35600936	Franz Liszt	7
+35600937	Schipper	2
+35600938	Johanes Brahams	4
+35600939	Federico Chopin	3
+35600948	Verdi	1
+35600981	Leon Baumann	4
+35600983	Romero Hidalgo	11
+35600984	Hassinger	1
+35600985	Schrader	1
+35600987	Bosovich	5
+35600989	Isaac Albeniz	9
+35600990	Pablo Usandizaga	14
+35600991	Amadeo Vives	1
+35600992	Pietro Mascagni	9
+35600996	Andrés Vesalio	15
+35600999	Barbieri	2
+35601035	Jacinto Guerrero	2
+35601041	Joaquín Turina	2
+35601042	Gozzoli Norte	6
+35601043	Otto Muller	2
+35601044	Mendelsshon	3
+35601095	Saint Saenz	9
+35601096	Joaquín Madrid	7
+35601112	Pablos Casals	1
+35601115	Faure	2
+35601116	Puccini	1
+35601117	Toselli	5
+35601118	Leo Delibes	1
+35601119	Stravinsky	1
+35601127	Clodomiro Arredondo Muira	3
+35601130	Ricardo Pockrich	1
+35601188	Alfa	4
+35601189	Sigma	5
+35601190	Epsilon	3
+35601191	Geminis	7
+35601194	Gamma	3
+35601195	Delta	4
+35601196	Beta	5
+35601198	Bernstein	3
+35601199	Toscani	2
+35601200	Rubinstein	1
+35601210	Moreno Torroba	1
+35601211	Toselli	1
+35601212	Scarlatti	3
+35601213	Tchaicovski	1
+35601215	Omega	2
+35893162	Fray Angélico	10
+35893165	Reynolds	1
+35893166	Johan Strauss	9
+35893169	E. Donizetti	2
+35893170	José Orozco	1
+35893179	Manuel de Falla	4
+35893183	Ravel	1
+35893185	Puccini	2
+35893263	Miguel Angel	6
+35893265	Simmoni	4
+35893266	Fray Luís de León	26
+35893267	Matier	13
+35893268	Enrique Granados	4
+35893270	Joaquin Valverde	13
+35893273	JUAN  Sebastian Bach	4
+35893280	Calle 24	5
+35893281	Calle 33	6
+35893283	Calle 25	5
+35893285	Calle 29	1
+35893287	Calle 27	3
+35893288	Calle 30	2
+35893289	Calle 31	5
+35893291	Calle 1	7
+35893297	Ca. Alejandro Peralta	8
+35893298	Calle 26	5
+35893300	C. Uno	21
+35893301	3 Sur	3
+35893312	Uno Oeste	1
+35893314	Calle 3 Norte	1
+35893315	Los Ibis	4
+35893317	Calle 54	1
+35893319	Oropendolas	4
+35893324	Calle 21	6
+35893325	Calle 41	7
+35893328	Calle 22	8
+35893329	Orden y Libertad	3
+35893333	Avenida San Borja Sur	3
+35893404	Buen Retiro	1
+35893405	El Cortijo	1
+35893406	El Cortijo	1
+35893408	La Union	1
+35893410	Jose Nicolas Rodrigo	1
+35893412	Benjamin Doig Lossio	1
+35893414	Cineraria	8
+35893415	El Bambu	2
+35893552	Las Adelfas	2
+35893555	Los Cafetos	3
+35893558	Las Caliandras	2
+35893565	Las Tres Marias	7
+35893567	Los Eucaliptos	3
+35893569	Los Alamos	1
+35893571	Via Lactea	2
+35893572	Isabelita	1
+35893576	Orion	3
+35893584	Orion	1
+35893586	Via Lactea	3
+35893605	Los Zafiros	1
+35893619	Los Tulipanes	1
+35893642	El Incario	3
+35893645	Avenida Manuel Olguin	11
+35893646	La Consquista	2
+35893647	EL Carmen	5
+35893648	Jiron Santorin	2
+35893661	Francisco de Cuellar	5
+35893662	Los Huancas	3
+35893663	Los Araucanos	1
+35893664	Los Apaches	2
+35893683	Jeronimo de Aliaga Norte	7
+35893684	Pedro de Candia	6
+35893685	Garcia de Salcedo	2
+35893690	CARTAVIO	4
+35919386	DON DIEGO DE DIA	6
+35919387	Alfredo Rosenblat	3
+35919388	MARIANO RIVERO Y USTARIZ	3
+35919389	MARIANO RIVERO Y USTARIZ	1
+35919390	Señor de Sipan	3
+35919392	Paramonga	5
+35919397	Tomasal	15
+35919400	Tambo Real	6
+35920018	Don Diego de Noche	1
+35920030	CARLOS MONGE MEDRANO	3
+35920034	GODOFREDO GARCIA DIAZ	2
+35920036	Talambo	6
+35920037	San Martin	2
+35920038	Santo Domingo	2
+35920041	Cayalti	8
+35920042	San Ignacio	4
+35920044	Aracari	1
+35920049	Los Vinzos	1
+35920051	Angamos Este	2
+35920052	Santa Elena Sur	7
+35920056	SANTA ELENA NORTE	5
+35920059	Mazus	1
+35920520	El Aliso	2
+35920522	Baobad	1
+35920524	Los Narcisos	1
+35920525	Los Robles	1
+35920527	Amarilis	2
+35920531	Tambo de Oro	1
+35920534	25 de Setiembre	1
+35920535	Johan Sebastian Bach	6
+35920536	Las Clivas	1
+35920537	Las Fresias	3
+35920538	Eucaliptos	1
+35920539	LAGUNA CHICA	1
+35920540	Las Catileyas	1
+35920541	Wolfgang Amadeus Mozart	3
+35920547	Federico Chopin	5
+35920801	Ludwig Van Beethoven	7
+35920802	Los Constructores	10
+35920805	Peter Paul Rubens	4
+35920807	CLaude Monet	1
+35920808	Francisco de Goya	1
+35920809	Los Civiles	3
+35920812	Los Obreros	2
+35920814	Los Arqueologos	6
+35920815	Miguel Angel Buonarroti	7
+35920818	Los Escritores	1
+35920823	Daniel Alomia Robles	3
+35921084	Daniel Alomia Robles	2
+35921086	Donatello	2
+35921087	De la Pintura	2
+35921088	Jose Nicolas Rodrigo	2
+35921089	Estepa Rusa	1
+35921099	LAREDO	8
+35921107	Barraza	2
+35921111	Canelo	1
+35921112	Sintuco	1
+36031602	Iquique	5
+36031710	Tamarugal	5
+36031779	Loa	7
+36032020	Canchones	4
+36032139	San Francisco	6
+36032297	Augusto Bernardino Leguia	2
+36032416	Ramon Castilla	5
+36032636	Agua Santa	9
+36032638	Calle 1	7
+36032752	Amapolas	3
+36032765	Avenida 2	8
+36032770	Jose Maria Eguren	2
+36032988	Tupac Amaru	2
+36033068	Mariscal Oscar Raul Benavides	4
+36033070	Calle 5	5
+36033168	Calle 3	3
+36033169	Calle 4	1
+36033231	Calle 6	4
+36033286	Francisco de Zela	4
+36033287	Ernesto Delgado G.	3
+36033397	Fernando Wiland	2
+36033405	Calle B	2
+36033410	Calle 4	1
+36033528	Calle 1	2
+36034360	Calle 4	2
+36035223	Santa Rosa	3
+36035314	Revolucion Palomino	5
+36035388	Pasaje 13	1
+36035432	Villegas	1
+36047090	Cerro San Francisco	8
+36047096	El Cascajal	12
+36047099	Las Landeras	5
+36047100	Las Canteras	2
+36047102	El Atajo	2
+36047105	El Bosque	3
+36047107	Bellavista	4
+36050056	Bellavista	1
+36050073	San Francisco	2
+36050075	La Cima	4
+36050079	El Bosque	1
+36050080	Los Moyes	3
+36050101	EL Petirrojo	1
+36050148	La Limas	2
+36050170	Madre Selva	5
+36050171	Las Gardenias	8
+36050172	Cardenal	1
+36050177	Los Euchariz	2
+36050178	Alameda la Allamanda	3
+36050182	Buganvilla	5
+36050184	Buganvilla	6
+36050186	Las Palmas	4
+36050187	Los Olivos	3
+36050190	Los Cactus	1
+36050192	Jeronimo de Aliaga Sur	5
+36050195	Alonso de Molina	23
+36050197	Los Albaricoques	1
+36050198	LAS CASUARINAS	6
+36050199	LAS CASUARINAS	6
+36050203	Pulla Raymondi	3
+36051765	Los Valles	1
+36051771	Las Ponsianas	5
+36051788	El Jacaranda	18
+36051818	Los Ingenieros	3
+36051843	Valle Hermoso	3
+36051851	Los Laureles	4
+36051852	Los Ingenieros	6
+36051855	Los Jazmines	3
+36051856	Los Ingenieros	1
+36051857	Las Acacias	4
+36051861	CRISTOBAL DE PERALTA SUR	12
+36185722	Prol. Fresnos	2
+36185724	Rio Grande	1
+36185725	Armatambo	5
+36185727	Rio Parama	1
+36185728	Rio Sena	2
+36185729	Rio Sena	2
+36185730	Rio Grande	1
+36185731	Huaca del Sol	10
+36185732	Prol. Fresnos	2
+36185733	Prol. Principal	1
+36185753	SIPAN	3
+36185755	Machu Picchu	5
+36185756	Vilcabamba	3
+36185758	Rio Beni	3
+36185759	Fortaleza de Paramonga	4
+36185762	Huaca de la Luna	1
+36185764	Fortaleza de Paramonga	7
+36185773	Puerta del Sol	8
+36185775	Puruchoco	3
+36185779	Huanca Konko	2
+36185800	Lineas de Nazca	8
+36185802	Pegaso	5
+36185803	Rio Magadalena	5
+36185804	RIO GANGES	3
+36185805	Calle 15	1
+36185808	Orion	1
+36185809	Calle 7	3
+36185813	CISNE	2
+36498139	Nestor Ganbetta	3
+36777372	Alejandro Bertello Bollati	6
+36777489	Los Cedros	4
+36777501	Las Dalias	5
+36777518	Los Pinos	7
+36777555	Los Cactus	7
+36777557	Las Azucenas	1
+36777564	Los Geranios	3
+36777603	Las Amapolas	3
+36777623	Los Alhelies	2
+36777778	Los Nogales	4
+36777782	Las Rosas	3
+36777800	Los Claveles	3
+36777806	Las Palmeras	1
+36938895	Rio Don	6
+36938908	Calle 12	6
+36938909	Alameda del Corregidor	2
+36938911	Rio Nilo	2
+36938914	Rio Volca	3
+36938918	Indo	1
+36939244	Prolongacion Los Fresnos	16
+36939257	Chancas	3
+36939401	Chimues	6
+36939405	Coropuna	2
+36939406	Coropuna	3
+36939409	Sabancaya	2
+36939410	Sierra Morena	3
+36939411	Zamora	4
+36939478	Cataluaña	4
+36939485	Toledo	2
+36940084	Machu Picchu	6
+36940085	Machu Picchu	9
+36940915	Lugo	4
+36940916	Aviedo	2
+36940917	Madrid	3
+36940919	Calle 6	7
+36940923	Chimues	2
+36940924	MOCHICAS	3
+36940928	Chimues	2
+36940931	LAURICOCHA	1
+36940941	Vascongandas	8
+36940945	Castilla Nueva	5
+36940946	Calle 10	2
+36940947	Los Rubies	2
+36940952	Calle 3	3
+36940953	Calle 2	5
+36940955	Calle 5	3
+36940957	BURGOS	1
+36940958	TERUEL	1
+36940959	Calle 10	2
+36980288	Alicante	7
+36980293	Las Viñas de la Molina	9
+36980295	Las Viñas de la Molina	11
+36980297	LA LADERA	7
+36980493	EL Monte	2
+36980496	La Arboleda	8
+36980500	El Prado	5
+36980504	EL Rancho	3
+36980505	EL Bosque	3
+36980506	EL Volcan	4
+36980507	EL Encierro	1
+36980510	LA Rinconada	2
+36980511	El Paseo	1
+36980514	La Querencia	2
+36980515	Los Aperos	4
+36980516	EL Coritijo	2
+36980517	EL POZO	2
+36980522	Alameda de la Paz	6
+36980523	Alameda de la Paz	5
+36980526	Los Carrizos	1
+36980529	Los Cedrones	4
+36980530	Los Olmos	6
+36980534	Los Aromos	1
+36980536	Los Abetos	1
+36980538	Ovalo Los Condores	4
+36980540	Alameda del Corregidor	48
+36980619	Santa Cruz de Tenerife	6
+36980620	Rio Marañon	3
+36980621	Rio Amazonas	7
+36980622	Rio Rurubanba	2
+36980623	Rio Ucayali	5
+36980626	Rio Perene	2
+36980630	Puerto Pizarro	10
+36980631	Los Manzaneros	2
+36980632	Torres de Oropesa	3
+36980633	Almeira	1
+36980634	Paseo de Agua	5
+36980635	Paseo de la Conquista	4
+36980637	Paseo del Prado	6
+36980640	Torres de la Higuera	1
+36980642	Roca del Castillo	5
+36980648	Las Lomas de la Molina	7
+36980653	Camino del Bosque	6
+36980655	Alameda de los Conquistadores	6
+36980657	Palomares del Campo	4
+36980699	Arcos de la Frontera	5
+36980700	Arcos de la Frontera	1
+36980704	Las Lomas de la Molina	10
+36980725	Caleza de la Perricholi	7
+36980726	Calzada del Fraile	1
+36980728	Suspiro del Moro	1
+36980730	Los Molinos de San Miguel	1
+36980733	Villareal de lo Infantes	4
+36980734	Alameda de los Virreyes	1
+36980756	Villareal	3
+36980788	EL Pacificador	4
+36980790	EL Pacificador	2
+37018313	Calle 3	2
+37018322	Chota	3
+37018338	Las Campanitas	2
+37018344	Las Retamas	1
+37018347	Los Tamarindos	1
+37018356	Santa Fe	8
+37018362	Romulo Assereto Gargurevich	6
+37018363	Carlos Arenas Loayza	2
+37018364	SANTA	3
+37018365	Luis Bravo Arevalos	4
+37018366	Luis Miro Quesada De La Guerra	10
+37018369	Yachay Huasi	3
+37018380	Victoria	3
+37019349	Los Tulipanes	3
+37019350	LAS CAOBAS	1
+37019351	Los Cipreses	7
+37019355	Los Bambues	11
+37019356	LOS ACEBOS	2
+37019357	Los Cedrones	4
+37019365	Las Retamas	1
+37019374	San Francisco	3
+37019389	Los Secollas	3
+37019581	Los Girasoles	3
+37019582	Las Americas	1
+37019583	LAS PALMERAS	3
+37019584	LOS OLIVOS	3
+37019586	Los Olivos	4
+37019588	Los Claveles	2
+37019603	Los Eucaliptos	5
+37019604	Los Olivos	2
+37019605	Los Tulipanes	2
+37019606	Los Nardos	1
+37019607	Los Pinos	4
+37019647	El Pedregal	2
+37019649	14 de Setiembre	6
+37019789	Los Sauces	12
+37019790	Las Begonias	4
+37019791	Las Eritrinas	1
+37019792	Las Parkinsonias	1
+37019793	Los Ficus	2
+37019794	Las Moras	2
+37019798	Alameda de la Molina Vieja	7
+37019799	Alameda de la Molina Vieja	5
+37019800	Avenida Los Fresnos	17
+37019801	Las Hortencias	4
+37019806	Las Nandinas	2
+37019814	Los Eugonimos	1
+37019817	Las Rosas	5
+37019818	Las Acacias	2
+37019819	Las Palmeras	1
+37121927	Octavio Espinoza	5
+37121932	Trujillo	2
+37121949	Chancay	6
+37121953	Chachapoyas	2
+37121989	Lambayeque	2
+37121992	Cañete	1
+37122001	Ilo	3
+37122003	Nazca	3
+37122010	Pisco	3
+37122017	Parque Castilla	1
+37122024	Calle 3	2
+37122026	Arequipa	6
+37122054	Vigil	11
+37122069	Miranave	2
+37122071	La Paz	5
+37122077	Tumbes	2
+37122081	Moquegua	4
+37122082	Sucre	3
+37122093	Paraguay	4
+37122097	Necochea	3
+37122099	Liberated	10
+37122103	Bolivia	4
+37122105	Mexico	5
+37122106	Castilla	5
+37122108	Miller	4
+37122122	Montezuma	3
+37122130	San Martin	5
+37122131	Putumayo	2
+37122134	Sucre	2
+37272306	Huascar	2
+37272310	SANTA ROSA	8
+37272313	Cajamarca	3
+37272314	San Antonio	3
+37272315	Cristobal Colón	5
+37272317	BREGANTE	2
+37272319	Union	4
+37272323	2 de mayo	3
+37272324	Prol. Juan Pazos	10
+37272332	Surco	9
+37434862	TERCERA	6
+37434863	Atahualpa	2
+37434864	Cuarta	4
+37434865	Calle 1	1
+37434866	Zepita	3
+37434867	Calle 5	2
+37434868	Cuzco	4
+37434869	Salazar	4
+37434875	Manuel Arispe	4
+37434893	Ronald	4
+37434896	Atalaya	7
+37434897	Calle B	4
+37434900	Otto Kliefer	3
+37434901	Capurro	1
+37434902	Miller	1
+37434903	Pucallpa	3
+37434904	Pucalipa	2
+37434905	Calle C	3
+37434906	Nauta	7
+37434907	Amapolas	1
+37434908	Yurimaugas	10
+37434910	Villa Rica	2
+37434911	Calle 5	3
+37434912	La Moneda	5
+37434914	Calle 3	4
+37434917	San Agustin	2
+37434918	Av. San Pedro	3
+37434923	Saposoa	4
+37434924	Tercera	5
+37434926	Setima	5
+37434927	Huascar	7
+37434928	Sexta	4
+37434929	Sexta	5
+37434930	Calle 1	1
+37434933	Raygada	1
+37434935	Ayacucho	1
+37434939	Galvez	2
+37434941	Salaverry	3
+37434948	Carrito de Albornoz	6
+37434957	California	4
+37434962	Calle A	4
+37434963	Magdalena	1
+37434971	Tupac Amaru	1
+37435075	Victor Fajardo	2
+37435117	Huascar Marcelo	6
+37435174	José Olaya	5
+37435229	Victor Fajardo	5
+37566229	Querecotillo	11
+37566248	Tangarara	7
+37566290	Los Ceibos	3
+37566350	Tacala	6
+37566352	Simbila	6
+37566461	Prolongación Paseo de la República	8
+37566490	Paseo de las Republica	3
+37566495	Lancones	3
+37566496	los Horcones	4
+37566500	Los Tamarindos	14
+37566510	Los Carrizos	3
+37566514	Cumbibira	4
+37566558	Los Faiques	9
+37566621	Antana	2
+37566632	Barlovento	5
+37566645	Avenida El Sauce	9
+37566665	Avenida El Sauce	1
+37566701	Avenida El Sauce	4
+37566724	Laurel Rosa	9
+37566763	El Palo Rosa	2
+37566783	Alicante	4
+37566803	Murcia	2
+37566834	Madrid	2
+37566871	Las Retamas	5
+37566885	La Magnolia	4
+37566894	La Begonia	1
+37567464	Av. Manuel Prado Ugarteche	6
+37567519	Av. Manuel Prado Ugarteche	8
+37567644	Avenida La Universidad	3
+37567811	Avenida La Universidad	4
+37567871	LA MOLINA	15
+37567873	LA MOLINA	12
+37568386	Bello Horizonte	8
+37568392	La Laguna Grande	13
+37568395	Las Redes	1
+37568398	La Laguna Grande	10
+37568429	Muelle	1
+37609836	Avenida Nestor Gambetta	3
+37614648	Tejada	1
+37614649	Acacias	2
+37614650	San Egnacio de Loyola	1
+37614651	Meliton Porras	3
+37614654	Malecón Balta	6
+37615306	Pedro Abad Galiante	6
+37615308	Rey de Bahamonde	3
+37615309	Augusto Wiese	13
+37615311	Santigo Antunez de Mayolo	14
+37615312	Manuel Herrara Pomareda	5
+37615313	Ernesto Cardenas	3
+37615314	Enrique Rolandi Z.	4
+37615315	Enrique Salazar Barreto	11
+37615317	Juan de Rada	6
+37615319	Juan German L.	8
+37615323	Alberto Acosta	3
+37615327	Eduardo Aranibar	2
+37615329	Alex Barclay	2
+37615332	Ismael Bielich Flores	26
+37615334	Capitan Alfredo Novoa Cava	2
+37615337	Manuel Aguilar Durand	9
+37615338	Jose Corzo	2
+37615339	Luis Sologuren	2
+37615340	Abelardo Murillo	2
+37615343	Fernando Leon	2
+37615344	Luis Reynafarge Hurtado	2
+37615346	Miguel Muñoz	2
+37615347	Javier Moreno	2
+37615351	Angel Brusco	2
+37615355	Reynaldo Moron	2
+37615356	Carlos Cueto F.	3
+37615357	guillermo de la  FLor	1
+37615361	Emilio Velarde	2
+37615363	Daniel Nieto	2
+37615364	Gustabo Yabar	3
+37615365	Jose Carranza	1
+37615366	Jose Navarro	1
+37718963	Los Robles	7
+37718965	Las Tipas	2
+37718990	Los Olivos	8
+37719007	Madre Selva	2
+37719016	Los Jazmines	2
+37719035	Los Crisantemos	3
+37719043	Las Cucardas	1
+37719058	Las Dalias	1
+37719101	Los Ficus	2
+37719176	Los Gavilanes	4
+37719179	Alejandro Ferreyros	2
+37719189	Campania	3
+37719190	Pedro Donofrio	3
+37719200	Pedro Donofrio	2
+37719201	Los Nogales	6
+37719209	Las Orquideas	2
+37719253	Calle 1B	1
+37719258	Juan Guillermo More	10
+37719259	Calle 6F	3
+37719262	Calle 17	2
+37719292	Las Rosas	5
+37719408	Los Juncales	3
+37719418	Los Chinchorros	1
+37719470	Calle 26	1
+37719472	Calle 47 D	3
+37719496	Calle 30 D	2
+37719507	Calle 46	1
+37719509	Calle 50 A	1
+37749251	Av. Loma Hermosa	5
+37749255	Av. Loma Hermosa	5
+37749335	Av. Monte de los Olivos	12
+37749343	Tomas Marsano	1
+37749344	Jorge Chavez	1
+37749370	Tomas Marsano	6
+37749374	Los Proceres	3
+37749390	Coronel Pascual Saco O.	4
+37749443	Av. Monte de los Olivos	12
+37749447	Avenida Nazarenas	12
+37749449	Avenida Nazarenas	13
+37749463	Andres Tinoco	10
+37749482	Guardia Civil Norte	6
+37749490	Avenida Caminos del Inca	42
+37749500	Los Amancaes	5
+37749666	Avenida La Paz	14
+37762112	Calle 28a	1
+37762219	Mariscal Oscar Raul Benavides	8
+37762234	La Concordia	7
+37762243	Lucha Reyes	4
+37762244	Calle 10B	1
+37762263	Nicomendes Santa Cruz	4
+37762306	Calle 7	8
+37762318	La Amistad	4
+37762352	Zoila Caceres	1
+37762369	Lola Vilar	4
+37762377	Calle 6	4
+37927094	Principal	10
+37927097	Principal	10
+37927103	Maria Dartnell	5
+37927105	Juan Bielovucic	2
+37927106	Arturo Duray	4
+37927107	BLERIOT	3
+37927108	Las Retamas	1
+37927110	La Avellana	2
+37927111	Las Orquideas	2
+37927112	Miroquezada	4
+37927114	Hector Velarde	3
+37927120	Andres Luna	5
+37927123	San Francisco	2
+37927124	Yarina Poma	1
+37927125	Los Angeles	1
+37927208	La Calera de la Merced	2
+37927215	EL Cerezo	11
+37927216	Ortega y Gasset	7
+37927217	Murray	1
+37927221	Bruselas	2
+37927225	Carlyle	3
+37927260	Green	3
+37927262	Russel	2
+37927266	Hillman	7
+37927270	Franklin	3
+37927272	La Pera	5
+37927273	Alfa y Omega	3
+37927275	Varsovia	5
+37927276	alfa Cisne	5
+37927278	Ameghino	2
+37927279	Adam Smith	6
+37927280	Alfa Aguila	3
+37927322	Ameghino	2
+37927330	Alfa Orion	7
+37927337	Alfa Centauro	8
+37927340	Alfa Virgen	1
+37927342	Engels	3
+37927343	Montesquieu	4
+37927348	Spencer	2
+37927352	Hegel	1
+37927353	Diderot	5
+37927360	Pascal	4
+37927361	Williams	4
+37927368	Jose Neyra	7
+37927373	Harrington	5
+37927375	Daniel Cruz	6
+37927381	Gabriel Mistral	5
+37927433	Juan Fuentes	7
+37927435	ALbert Einstein	5
+37927438	Manuel Bonilla	4
+37927440	Genaro Covian	1
+37927506	El Timonel	3
+37927529	Jose Leon Barandearan	17
+37927560	Acapulco	15
+38221455	Calle 41	2
+38221459	Arruz	7
+38221476	Calle 10	1
+38221553	Alberto Sabogal	4
+38221599	Domingo Valle Riestra	6
+38221610	Calle 64 A	5
+38221611	Francisco Leo Quiroz	5
+38221628	Calle 6	2
+38221629	Federico Noguera	1
+38221647	Manuel Elias Bonnemaison	6
+38298425	Av. Universitaria	29
+38656188	Borges	2
+38656190	Paicioli	2
+38656197	Martin Luther King	11
+38656200	Miguel Iglesias	4
+38656202	Gorky	1
+38656207	Allende	7
+38656208	Benito Juarez	3
+38656209	Alejandro Dumas	1
+38656212	Villa Victoria	3
+38656215	Cardich	2
+38656222	Mendez Correa	2
+38656223	SHAKESPEARE	2
+38656224	Daudet	2
+38656229	Miguel Iglesias	8
+38748293	Quebrada de Armendariz	1
+38748324	Quebrada de Armendariz	1
+38748329	Quebrada de Armendariz	1
+38748370	Circuito de Playas	3
+38748383	BAJADA TENDERINI	6
+38748390	Huaylas	4
+38748474	Las Palmas	11
+38944685	Av. Universitaria	66
+38945822	Angamos Este	39
+38945831	Angamos oeste	1
+38945845	Angamos oeste	12
+38945848	Angamos oeste	1
+38945937	Avenida Benavides	21
+38945977	Avenida Benavides	1
+38945991	Avenida Benavides	5
+38946018	Avenida Benavides	1
+38946019	Avenida Benavides	26
+39315921	Via de Evitamiento	1
+39315928	1S - Via de Evitamiento	1
+39315930	1S - Via de Evitamiento	3
+39316083	Los Cipreses	1
+39316311	Via de Evitamiento	1
+39316312	Via de Evitamiento	3
+39316321	1S - Via de Evitamiento	1
+39316324	1S - Via de Evitamiento	1
+39316389	Salida Segunda	1
+39316433	1S - Via de Evitamiento	1
+39316453	Via de Evitamiento	1
+39316456	Via de Evitamiento	1
+39316522	Cesar Vallejo	14
+39316787	Javier Prado Este	5
+39316800	Ovalo Melgarejo	6
+39317183	Flora Tristan	11
+39317211	Flora Tristan	12
+39317353	Avenida Melgarejo	17
+39318050	Avenida La Molina	19
+39318102	Av. De los Ingenieros	19
+39318151	Av. De los Ingenieros	19
+39318153	Av. De los Ingenieros	1
+39318157	Av. De los Ingenieros	1
+39335278	Calle 56	4
+39335284	Elias Chunga Zapata	15
+39359369	Av. Circunvalacion	3
+39359872	Aviacion	1
+39359900	Av. Aviación	36
+39359907	Aviacion	10
+39359908	Aviacion	1
+39362385	Javier Prado Este	1
+39362986	Avenida del Parque Norte	1
+39363408	Avenida del Aire	20
+39363463	Separadora Industrial	11
+39363501	Marginal	20
+39411167	Hernan Velarde	1
+39411244	Mexico	32
+39411693	Paseo de la República	4
+39412813	Av. 28 de Julio	34
+39412871	Avenida 28 de Julio	6
+39413204	Manuel Cuadros	4
+39441400	Avenida Canada	46
+39441587	Ernesto DIez Canseco	1
+39441684	Felix Olcay	1
+39441948	Benavides	1
+39441965	Av. Benavides	1
+39441995	28 de Julio	1
+39442007	28 de Julio	1
+39452497	Almirante Miguel Grau	15
+39452499	Nicolas de Pierola	5
+39452506	Cahuide	10
+39452509	Cahuide	6
+39452512	Tupac Amaru	5
+39452513	Zarumilla	2
+39452538	Lima	10
+39452544	Tarata	9
+39452554	Arica	11
+39452558	José Olaya	4
+39452573	Tupac Amaru	5
+39452576	Huascar Marcelo	7
+39452603	Santa Rosa	10
+39452607	2 de Mayo	14
+39452614	Iquique	5
+39452637	La Marina	28
+39452643	Pachacutec	6
+39452652	Emma Dettman de Gutierez	2
+39452653	Galdos	2
+39452655	Mariano Melgar	3
+39452657	Tupac Amaru	3
+39452660	Tarapaca	1
+39452662	Morro de Arica	4
+39452689	Mercado	2
+39452700	Lago Huron	2
+39456664	DEFENSORES DE LIMA	6
+39456737	DEFENSORES DE LIMA	22
+39456802	Pachacutec	3
+39457028	1S - Panamericana Sur	1
+39550884	Mantaro	7
+39550890	Lago Titicaca	2
+39550977	Victor Raul Haya De La Torre	4
+39550984	Felipe Pinglo Alva	8
+39550987	Ignacio Merino	1
+39550995	Abraham Valdelomar	3
+39550996	Carlos Baca Flor	4
+39551003	Carlos Saco	4
+39551018	Leonardo Da Vinci	2
+39551035	Callao	19
+39551036	Alejandro Mango	2
+39551040	Turmalina	3
+39551042	Enrique Lopez Albujar	5
+39551064	Ricardo Palma	1
+39551070	Jose  Carlos Mariategui	5
+39551071	Grito de Huaura	3
+39551077	Vinzos	2
+39551082	Tucuman	3
+39551098	Usquil	3
+39551199	Federico Villarreal	1
+39551214	Mama Ocllo	16
+39551216	Cahuide	3
+39551219	Wiracocha	1
+39551230	Sinchi Roca	2
+39551232	Yahuar Huaca	2
+39551233	Blas Borsani	1
+39551259	Revolucion	2
+39551272	Chimbote	2
+39551273	Pavayacu	2
+39551298	Cahuide	2
+39551308	Junin	1
+39551309	Ica	1
+39551323	Libertad	1
+39551349	Ayacucho	6
+39551352	Otuzco	2
+39551353	Huamachuco	5
+39551363	Talara	3
+39551371	Trujillo	1
+39551417	Paita	1
+39551428	Lambayeque	5
+39551438	Avenida El Pacifico	15
+39551441	Daniel Alcides Carrion	7
+39551442	Tumbes	3
+39551444	Tumbes	1
+39551445	Nicolas de Pierola	3
+39551446	Ramsey	1
+39551448	San Juan de Miraflores	4
+39551449	Chimbote	1
+39551450	Juan Pastor Davila	3
+39551452	Ayacucho	5
+39551453	Libertad	1
+39551455	Pasco	2
+39551456	Junin	3
+39551462	Piura	6
+39551465	Huamachuco	5
+39551479	Huascar	3
+39551492	Zavala	2
+39551494	Inca Roca	1
+39551543	Calle 29	2
+39551571	Calle 6	2
+39551573	Calle 4	3
+39551575	Carlos Augusto Salaverry	2
+39551576	Marañon	1
+39551577	Ucayali	1
+39551581	Pacasmayo	3
+39551585	Sinchi Roca	2
+39551586	Ramon Zavala	3
+39551588	Cahuide	1
+39552104	Andrea del Sarto	5
+39552184	Manet	7
+39552250	Kodinsky	3
+39552294	Emily Car	2
+39552327	Holbein	2
+39552343	Mary Cassat	2
+39552427	ModiGliani	3
+39552464	Da Vinci	8
+39552562	Sanzio	5
+39552624	D'Achille Barbara	3
+39552709	Fray Angelica	2
+39552743	Veermer	2
+39552782	Marie Cuurie	3
+39552784	D'Achille Barbara	1
+39552816	Maria Elena Moyano	6
+39612367	Jose Maria Arguedas	1
+39612374	Prado	1
+39612380	Moche	4
+39612381	Chiclin	1
+39612382	Paijan	3
+39612385	Huascar	2
+39612386	H. Ferreyra Leon	2
+39612389	Dulio Poggi	4
+39612390	Emancipacion	4
+39612391	Chepen	2
+39612392	Santa Rosa	2
+39612393	28 de Julio	4
+39612394	Talambo	1
+39612399	Aviacion	1
+39612400	Calle 19	1
+39612402	Maranga Callejon de	6
+39612403	Echenique	2
+39612404	Jose Olaya	3
+39612406	Echenique	2
+39612408	San Martin	2
+39612412	Aragon	6
+39612414	Valencia	3
+39612415	Alipio Ponce	3
+39612421	Calle 9	1
+39612423	Eloy Ureta	2
+39612528	Calle 9	2
+39612534	Andalucia	3
+39612535	Zaragoza	4
+39612540	Madrid	3
+39612544	Calle 1	3
+39612545	Calle 2	2
+39612558	Demetrio Chavez Acosta	7
+39612561	Cesar Vallejo	6
+39612564	Javier Heraud	3
+39612565	Carlos Augosto Salaverry	4
+39612566	Valdelomar	3
+39612568	Amarillis	1
+39612569	Valdelomar	1
+39612573	Javier Abril	1
+39612574	Peralta	1
+39612577	Capitan de Navio Emilio Carrillo	5
+39612580	Tiburcio Rios	6
+39612582	Tiburcio Rios	2
+39612587	Islas Ceilan	4
+39612589	Punta Lomitas	2
+39612591	Cumana	5
+39612594	Vinzos	2
+39612597	Federico Noruega	1
+39612640	Jose Celendon Condestable	2
+39612642	Punta Huanca	1
+39612644	Tiburcio Rios	2
+39612650	Av. Los Patriotas	12
+39612651	Av. Los Patriotas	14
+39612654	Islas Filipinas	3
+39612656	Elias Chunga Zapata	3
+39612660	Islas Aleutianas	2
+39612671	Calle 52A	2
+39612686	Republica de Venezuela	11
+39612689	Miguel Hidalgo	7
+39612690	Paso de los Andes	8
+39612692	Capitan de Navio Emilio Carrillo	4
+39612696	Cuauthemoc	3
+39612697	La Apacheta	3
+39612701	Punta Restin	1
+39661610	Calle 27	2
+39661621	Calle 6	1
+39661640	Calle José Maria Morellos	4
+39661656	Juan Balcarza	4
+39661657	Jirón Lautaro	2
+39661665	Puerto Lagunas	1
+39661667	Bahia de la Independecia	2
+39661680	Capitan Stiglish Alvarez	4
+39661681	Quiquijana	6
+39661685	Jose Marti	5
+39661698	Ubinas	8
+39661705	Parque de las leyendas	5
+39661730	Añaquito	3
+39661741	Nevado Chachani	2
+39661744	Punta Malpelo	2
+39661749	Isla Mazorca	1
+39661764	Av. Faucett	2
+39661779	Hernando de Zoto	11
+39661787	Calle 4	3
+39661788	Jose Marti	8
+39661796	Francisca Zubiaga	5
+39661799	Gonzalo Pizarro	4
+39661801	Isla de Gallo	2
+39661827	Capitan Manuel Ferreyros	3
+39661829	Andres Castelo	3
+39661846	Salaverry	3
+39661848	Las delicias	5
+39661850	Copacabana	2
+39675708	Dionisio Derteano	2
+39681991	German Schreiber	2
+39681997	Micaela Bastidas	2
+39682129	Los Ruiseñores este	3
+39682147	Calle 17	6
+39682449	Los Ruiseñores este	9
+39682452	Brasilia	2
+39682455	Los Jilgueros	3
+39682456	Los Herrerillos	3
+39682480	Los Milanos	5
+39682484	Las Grojillas	4
+39682489	Pasaje Conocacha	1
+39682646	Los Milanos	2
+39682654	Calle 2	1
+39683255	Carlos Villaran	17
+40022615	Richard Wagner	2
+40268245	Estrella de Italia	11
+40268331	Valmore Roncalla	5
+40268347	Carlos Ferreros	8
+40268357	Calle 7	3
+40268443	Calle 8	1
+40268457	Calle 6	2
+40268468	Calle 44	4
+40268507	Bernini	8
+40268519	Av. de las Artes Sur	13
+40268599	Moretti	1
+40268642	Derain	2
+40268655	Morisot	4
+40268694	Morelli	2
+40268707	Holbein	2
+40268712	Vittore Carpaccio	2
+40268722	Ucello	3
+40268776	Tiziano	12
+40268789	Georges Seurat	1
+40268798	Boccioni	9
+40268816	Tintoretto	4
+40268822	Cezzane	3
+40268831	Leonardo da Vinci	8
+40268895	Zurbaran	2
+40268912	Donatello	5
+40268922	Degas	2
+40268941	Matisse	1
+40268969	Boticelli	3
+40268971	Giotto	1
+40268982	Miguel Olave	1
+40268985	Murillo	3
+40269004	Picasso	2
+40269006	Goya	3
+40269008	Rembrand	1
+40269037	Velazquez	6
+40269045	Rubens	5
+40299816	Paseo de la República	14
+40300923	Jose Galvez	5
+40301203	Canta	11
+40301214	Caplina	2
+40389120	O'Donavan	3
+40655711	Avenida Proceres de la Independencia	24
+40701605	Santa Mariana de Paredes	11
+40704239	Santa Teodosia	8
+40716663	Paracas	6
+40716664	Avenida Abraham Lincoln	8
+40716666	Av. Alejandro Bertello	17
+40716667	Av. Alejandro Bertello	15
+40721293	Santa Bernardita	4
+40721303	Santa Honorata	2
+40721306	Santa Honorata	1
+40743610	Panamericana Norte	44
+40749678	Victor Malasquez	2
+40750556	Punta Hermosa	5
+40750563	28 de Julio	8
+40756171	Santa Sabina	5
+40791311	LIMA	38
+40990993	Avenida Fernando Wiese	75
+40992060	Avenida Lima	12
+40992260	Av Los Eucaliptos	25
+40992261	Av Los Eucaliptos	12
+40997523	Av. Garcilazo de la Vega	19
+40997524	Avenida Arequipa	30
+41000549	Leonidas Laserre	2
+41000694	La Alborada	9
+41000997	La Alborada	12
+41001455	Cesar Figueroa Toledo	2
+41002022	Rosales	6
+41002337	Julio Rodavero	4
+41002699	Mercurio	7
+41006534	Saturno	6
+41006593	Neptuno	5
+41010155	Santa Susana	4
+41011105	Santa Paula	5
+41012597	Calle 5	2
+41012609	Jose Francisco Arana	5
+41012614	Calle 3	2
+41012970	Avenida Canadá	12
+41013087	Psj Abancay	2
+41013112	Av San Juan Masias	9
+41222350	Cabo Gutarra	16
+41222470	Calle Olavegoya	1
+41222859	Av. Guardia Republicana (Ex. La Capilla)	19
+41222860	Av. Villacampa (Ex. La Capilla)	5
+41222861	Av. Vilacampa (Ex. La Capilla)	5
+41224959	Huarochiri	13
+41224960	Huarochiri	13
+41498428	La Victoria	2
+41731086	San Pedro	5
+41731098	Bolivar	5
+41731710	Ramon Castilla	13
+41731847	Victor Raul Haya De La Torre	5
+41731995	Tarapaca	6
+41732017	Moore	7
+41732202	Bolognesi	6
+41732233	Miguel Grau	4
+41732243	San Pedro	1
+41732306	Union	5
+41732324	CRISTOBAL COLON	4
+41732355	San Roman	5
+41732388	Virgen Dolorosa	1
+41734284	Calle 6	3
+41734387	Calle 7	3
+41734403	Calle 8	4
+41734405	Calle 9	3
+41734429	Calle 3	4
+41734448	Calle 2	3
+42211168	Uruguay	11
+42213116	Pomabamba	17
+42213129	Quilca	10
+42215043	Washington	12
+42215047	Prol. Tacna	2
+42219131	Jr. Manuel Beingolea	7
+42312538	Nazca	13
+42312595	Avenida 28 de Julio	9
+42315558	Lerida	2
+42336776	Jaime Bausate y Meza	28
+42337956	Feliciano de la  Vega	26
+42339768	Jr. Moreno Alcala	2
+42432493	Calle 1	10
+42458269	Jose Santos Chocano	11
+42458493	Las Malvas	6
+43200309	Las Flores	15
+43200313	Carretera Central	16
+43200343	Nicolas Ayllon	3
+43315271	Calle C	1
+43475428	Mariscal Castilla	12
+43475482	Santa Ana	5
+43475492	Lozada	2
+43475518	Cauchos	2
+	8
+56001915	Calle Loma de Los Suspiros	5
+60093494	Av. Rafael Escardo	10
+60104874	Alfredo Icaza	5
+60104877	Collasuyo	4
+60104881	Mollocmarca	7
+60104883	Huacarunco	2
+60104886	Cayrucachi	3
+60104887	Otorongo	1
+60104891	Saycusca	1
+60104893	Astete	2
+60104894	Incahuasi	3
+60104897	Los Suspiros	1
+60104898	Chinchaisuyo	6
+60104899	Contisuyo	6
+60104902	Pumacurco	4
+60104905	Chaquilcacha	4
+60104907	Capitan Alfredo Novoa Cava	1
+60104908	J. Hoyle	2
+60104909	Juan Enrrique  Valladares	4
+60104910	Reynafarje	2
+60104913	Necochea	1
+60104915	Isidrio Suarez	6
+60104917	Necochea	1
+60104918	Validores	8
+60104919	Pedro Chamochumbi Aguirre	4
+60104920	Calle 10	1
+60104921	Alberto Barton	1
+60104924	Nieto	1
+60104925	Hipolito Unanue	5
+60104927	Julian Arce	3
+60104928	Julio Cesar Tello	2
+60104930	Luis Aldama	2
+60104931	Calle 9	1
+60104936	Parque de las leyendas	7
+60104937	Parque de las leyendas	4
+60104938	Carlos Gonzales Posada	3
+60104950	Martin de Murua	3
+60104951	Fortunato Quezada	11
+60104952	Carlos Gonzales	3
+60252613	Jose Barrionuevo	3
+61731254	Ruta 1C	1
+61732235	Pampas	2
+61732242	Llumpa	4
+61732243	Los Jazmines	9
+61732245	Los Laureles	7
+61732246	Los Olivos	15
+61732248	Av. Los Proceres de Huandoy	30
+61732249	Calle 29	5
+61732251	Las Girnaldas	1
+61732252	Av. Las Palmeras	44
+61732254	Av. Los Proceres de Huandoy	10
+61732259	Las Camelias	4
+61733684	25 de Enero	4
+61733685	Av. Mexico	1
+62097542	Bolognesi	7
+64222853	Avenida 28 de Julio	5
+64222855	De la Técnica	2
+64222856	De la Técnica	1
+64222857	Av. 28 de Julio	1
+64222859	De la Ciencia	3
+64222860	Artesania	1
+64222862	San Luis	28
+64222863	Jr. Huanuco	7
+64222864	De las Bellas Artes	5
+64222865	Av. 28 de Julio	1
+64222866	López de Ayala	34
+64255178	Tomas Marsano	1
+64255182	SALVADOR ALLENDE	32
+64255193	Republica de Panama	3
+64255198	"Paseo de la Republica	 Via Expressa"	1
+64255232	Andres Tinoco	4
+65494651	Condesa de Chinchon	1
+65496858	General Belgrano	11
+65496873	Copacabana	6
+65496880	Avenida Paso de los Andes	6
+65496886	Avenida Paso de los Andes	5
+65496895	Calle J.J. Pasos	15
+65496904	Avenida Colombia	18
+65496910	La Huaca	5
+65498730	Avenida Del Rio	10
+65498737	Avenida Del Rio	4
+65498740	Bahia	6
+65498742	Teruel	4
+65498743	Salta	4
+65498750	El Gondal	3
+65498752	Maipu	9
+66394738	calle 11	8
+66491150	Calle 9	2
+67610538	Marte	5
+67610543	Venus	2
+67616322	Saturno	2
+67616324	Avenida Constelación	8
+67616325	Avenida Constelación	8
+67616327	Urano	3
+67616328	Ganimedes	7
+67616329	Mercurio	1
+67616332	Jupiter	1
+67616955	Avenida Galaxia	10
+67616962	Avenida Galaxia	6
+67622637	Orion	2
+67622654	Pluton	2
+67625240	Urano	3
+67625253	Marte	5
+67625255	Meteoro	1
+67625259	Satelite	5
+67625262	Los Aerolitos	3
+67626149	Nebulosas	7
+67626152	Jr. Los Meteoritos	2
+67626154	Satelite	3
+67626155	Las Estrellas	1
+67626157	Estrellas	1
+67626160	Jupiter	4
+67626161	Neptuno	8
+67626162	Ganimedes	3
+67626163	Nebulosas	2
+67626166	Venus	4
+67626167	Mercurio	1
+67626214	Osa Mayor	2
+67627871	Osa Mayor	2
+67627872	Orion	2
+67627873	Meteoritos	2
+67627874	Centauro	1
+67628404	El Angel	2
+67654208	Av. Canto Grande	8
+67654215	Nevado de Huandoy	2
+67654218	Nevado Ausangate	6
+67654384	Av. Marco Polo	9
+67659103	Avenida Jorge Basadre Oeste	9
+67659577	Avenida El Sol	1
+67659579	13 de Enero	5
+67659581	13 de Enero	7
+67659587	13 de Enero	9
+67659591	Avenida Jorge Basadre Este	15
+67659598	Avenida El Sol	25
+67660605	Proceres de la Independencia	35
+67663913	Avenida Las Flores de Primavera	32
+67686830	Nevado Solimana	7
+67686831	Nevado Huascaran	6
+67686834	Nevado Pancari	1
+67686838	Nevado Sarasara	7
+67693319	Los Amelos	2
+67693320	Las Acacias	3
+67693344	Los Amelos	3
+67693357	Las Retamas	2
+67693360	Los Badianes	3
+67693362	Las Mimbreras	2
+67693389	Los Huertos	6
+67693391	Zumaques	2
+67693397	Las Alheñas	4
+67695170	San Hilaron Oeste	8
+67698868	Los Malvaviscos	3
+67698872	Las Retamas	2
+67698876	Las Oxalidas	3
+67698887	Los Pelitres	4
+67698889	Las Acacias	1
+67698913	Las Oxalidas	3
+67699550	Los Pelitres	2
+67701598	Jorge Chavez	2
+67708126	Los Naranjos	3
+67708638	Avenida El Bosque	16
+67709109	Huaraz	11
+67709120	Independencia	5
+67709129	General Varela	8
+67709137	Catrovirreyna	9
+67709145	Jorge Chavez	11
+67709150	Aguarico	9
+67709154	Aguarico	11
+67709462	Los Duraznos	6
+67712791	Avenida Del Parque	24
+67712837	Avenida Los Alamos	6
+67712935	Los Ciruelos	7
+67713061	Los Postes Este	15
+67713175	13 de Enero	24
+67713180	13 de Enero	25
+67713181	Los Postes Este	18
+67713257	San Hilaron Este	1
+67713402	Las Gravas	6
+67713404	Las Perlas	2
+67713406	Las Salvitas	1
+67713408	Las Arenillas	3
+67713409	Las Escarchas	4
+67713410	Los Zafiros	6
+67713463	Los Opalos	6
+67714593	Las Baldosas	1
+67714600	Los Zafiros	5
+67714603	Los Rubies	9
+67714617	Los Topacios	10
+67715699	Las Rocas	2
+67715703	Las Arcillas	3
+67715706	Las Perlas	4
+67715707	Los Corales	1
+67715712	Pedregal	3
+67716590	Jamesonita	5
+67716596	Los Esmeriles	3
+67716599	Las Arcillas	1
+67801625	Meliton Carbajal	2
+67801629	Santiago Martinez Cornejo	3
+67801630	Ricardo Palma	1
+67801631	Ramon Castilla	5
+67801632	Eloy Espinoza S.	4
+67801634	Antonio Garland	1
+67801637	Marco Nicolini	3
+67801641	Michael Fort	8
+67801644	Pedro Paulet	6
+67801763	Enrique Rosa	6
+67801766	Segundo Carrion	3
+67802564	Juan Vicente Nicolini	6
+67802566	Antonio Garland	7
+67802567	Manuel Ramirez	3
+67802572	Henry Arrendondo	5
+67803093	Av. Honorio Delgado	8
+67803094	Av. Honorio Delgado	7
+67803112	Alheli	11
+67865013	Federico Villareal	4
+67865014	Pasaje 2	3
+67865015	Independencia	7
+67865016	Pichincha	4
+67865017	Don Bosco	4
+67865018	Centenario	9
+67865019	General Orbegoso	8
+67865020	Pasaje 3	4
+67865021	Pasaje 4	2
+67865022	Pasaje 5	1
+67865024	General Vidal	6
+
