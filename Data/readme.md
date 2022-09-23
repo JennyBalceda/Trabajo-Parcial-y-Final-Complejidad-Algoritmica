@@ -12,6 +12,7 @@ En el proyecto se uso la página de [Nominatim OpenStreetMap](https://nominatim.
     name_place = "Lima Metropolitana, Lima, Perú"
 
 ## Algunos referencias: ##  
++ [Ejemplos del uso de OSMNX Python](https://github.com/gboeing/osmnx-examples)
 + [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Main_Page)
 + [Lesson 6 1 Retrieving OpenStreetMap data using OSMnx in Python](https://www.youtube.com/watch?v=QQmvq1cQHrk)  
 + [Lesson 6 1 - OpenStreetMap data](https://www.youtube.com/watch?v=crjNZ_LXwyA)  
