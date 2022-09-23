@@ -18,6 +18,7 @@ En el proyecto se uso la página de [Nominatim OpenStreetMap](https://nominatim.
 + [Lesson 6 1 - OpenStreetMap data](https://www.youtube.com/watch?v=crjNZ_LXwyA)  
 + [Lesson 7 2 - Network analysis in Python Networkx Osmnx](https://www.youtube.com/watch?v=C4o6w33NzGw&t=2137s)
 + [Lesson 6 2 - Recuperación de datos de OpenStreetMap en Python](https://www.youtube.com/watch?v=hejWa-vbWfU)  
++ [Videos relacionados](https://www.youtube.com/watch?v=LRmYjyHk94U&list=PLyLTdapdw7SMiPgcd2YtK-VP3oynlOj29)
 
 
 
