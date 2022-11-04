@@ -4,7 +4,7 @@ Si está usando como IDE Visual Studio Code en Windows o Linux
   
 > pip install tkintermapview   
   
-Además realizar la instalación de Pillow si prsenta un error con la libreria PIL o ImageTk  
+Además realizar la instalación de Pillow en caso de presentarse un error con la libreria PIL o ImageTk  
   
 > python3 -m pip install --upgrade Pillow  
 ### **Videos o Documentación usados:**  
